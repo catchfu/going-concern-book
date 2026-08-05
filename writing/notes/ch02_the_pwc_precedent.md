@@ -1,0 +1,54 @@
+
+## Thu, 06 Jul 2023 07:00:00 GMT — Former KPMG partner urges royal commission into consulting industry following damning report into PwC scandal - The Guardian
+**Source**: https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcTRFNUhxcy1TQTJlWjM3azhCTGI5anlqYW9aXzZPclNmR2xsRExiazJpZERfdkpGUWdlc1BoVkliVFdQVTI3cUc3eHNqc0FJMTNhOEU4SExaaHp2dWdDZUZMVFRKcDJMaTlCSURvNW9wTmR6TUY3bTN4NFNpeDBncmN0ZV9ibExxNmZGM3ZRMWtES3VPVDdKN0dQSDkzNGpHU1NvU3dLUmlZNnR6ZHFBMW02NVRidl9jdHR1Zmd3VXE4eXlJNHpwaU96MU02SXFLZnNtSFA1Ul9ZZTJqdzU0enh5R0dvN3NKWVh3QXNBNA?oc=5
+**Fetched**: 2026-06-05T15:52:26.068643
+
+
+
+
+---
+
+## Fri, 21 Jul 2023 07:00:00 GMT — PwC scandal: KPMG reveals partnership deed, in a big-four accounting firm first - AFR
+**Source**: https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTE5vemdKRlRMVGNMT1U1cTN0LVF0RDBZV082SE5WOEYyaGpnaVNMZlRVcTFNZDcwZjliZWRkSmJKal8zQ2pZSnZWZW9KaEhHQ2ZBeHRUWkxHNDZvYktmTHhjXzR1dFJrT1d3YkhDWmlkME9FaldFZTRWQkZPWWRkOWo5bXF4OWQ2c0FlZ2pxYm5vTi1hbFdUMl81Q0F4MnFBX2dtTy13LXRBRW9INzQ2cEx2d3JmSGVf?oc=5
+**Fetched**: 2026-06-05T15:52:26.068960
+
+
+
+
+---
+
+## Wed, 17 Jun 2026 19:00:00 GMT — Did KPMG learn nothing from the PwC tax leaks scandal? - AFR
+**Source**: https://news.google.com/rss/articles/CBMivgFBVV95cUxQUzJPRGNwTkFOSnpreE9BQzRlMG9yREFWZ1M3TlFrSXRWdmJKYnZVZXo3TE9oVXdWemZhREJKZFpQTW8wR0N6NWVtdVpxblBPVUpuWkN3UUlETG04eGVSZFBfa1VEaXd1N0FUcUZIcEpBV1FJQnZnbXZtOFBZRnJLQ2JpR1RUWTFyTDhuSnIydUg3MFFCQnlYNEZqT1ctellmQXQzaXRzUm5HYzZtWU9oZjFnZjYtTGhrTUUtVUlB?oc=5
+**Fetched**: 2026-06-21T20:56:41.014340
+
+
+
+
+---
+
+## Sun, 08 Feb 2026 08:00:00 GMT — ‘Absolute disgrace’: government ditches PwC reforms - The Australian
+**Source**: https://news.google.com/rss/articles/CBMi6wFBVV95cUxQM2poWmstQ0FQQTRZakNGeGR0WExLTzZjTGxRODQ3S05OR2ZIa09pVDk4dlNoOHBRdlExV2NEWDNadVNRaktHeFNaRm94YTliZ2o5MVAtYUpxQVU5RzRnWktreFg2U3d0d0NhbFNTLU96WUdKcWMyVGwtVS1ZNXB1ZXR3UmdxR3Qxbkw2ZkF5QXc3ZXZ5VjZIbW1SajQ4QWt6VG9GUFVZWk52U3FJOWMwTFJEYm5zV1FyTXczb3NMOXZyZlAtUkNxMHZhRkRNYlhxdHdUUEc1RlJQWXhGS1JOVm9hcFZXd1E5Sy1F0gHwAUFVX3lxTE5mM1RMS2gtUnVpZlJMZjFraEN0N0liWDNSSk14aUFKNzdxckZGOVdOQlM3LUdxN29tOU95Z19XSDc1S1JDX3ZLWXdNWklEOUswdGNMTElTRzVuN0oxTWVZeXhQMHZyV3d6MER2enpZRFhLX1VqcmFFVzlFNG9STnhXVmNidEtneDBNeU5LdHVMWHVIQS0wdzhVaHBBZF9sa2F1MGF1Rl9SUlc2ZF8wU1lCM3I0N0M4VGNoYlU3bEcwZVhER05UYWlJQ2w2WE5RaWxpb084SUR4dlVWVWo2T3RYTTctZ01ZeHYtc3JoZHVlMw?oc=5
+**Fetched**: 2026-06-21T20:56:51.314871
+
+
+
+
+---
+
+## Thu, 07 Nov 2024 08:00:00 GMT — PwC scandal triggers big split risk for consulting giants - SMH.com.au
+**Source**: https://news.google.com/rss/articles/CBMivAFBVV95cUxQSGxKaDk3MTNkakxkdTFtSWN0cXBtdWYxWjVqWmJ3Q0dBWTg2ZVNUZXJGS0I5X3BtcTlDbzRlZzJxNnZTR0JjRFNjd083akRtOVB3UGljaVpObjU1U2JCMTF4ZlF2aV81WHRybTI5aUduV0p3ZDFXeGt1Y3ZPczFPaURZMFRiZVVXaDNaTmRBbzdrdGkyeHRaTlQ3Z0RoTUpqRjBBLWZxdXpXRWg0N2htdEp6czFEeUsybVlLRQ?oc=5
+**Fetched**: 2026-06-22T09:00:12.869241
+
+
+
+
+---
+
+## Tue, 14 Jul 2026 07:00:00 GMT — KPMG, PwC scandals show that audit and consultant firms need to go their separate ways - AFR
+**Source**: https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb1JiUWlhTGRqZ0VGZ250OUFaTDRJdWR4Nk4tS1JfYy0tY3hoSV95a1Z1bFp5N3M0SU1qTjF4aHJiMGplemZUSTBBZUFJVXhtSDgwSlp2SFV1eTVDTlZhYkJPOHdTZmpHVkVCMl9tel91cnk4QW96U1lISVhhWk54M3ZWZ0tKekRuMlRYZ1JJbGNUS0hZSmV0TTA4eE51Z3FkODBnbWxRZTc3R3QwYTZmSXpUZFlJc3ZudVJFcHFWaHd6QXM?oc=5
+**Fetched**: 2026-07-27T09:00:04.860715
+
+
+
+
+---

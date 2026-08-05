@@ -1,0 +1,2 @@
+$a = New-ScheduledTaskAction -Execute 'notepad.exe'
+Register-ScheduledTask -TaskName 'TestTask2' -Action @($a) -Trigger (New-ScheduledTaskTrigger -Once -At (Get-Date).AddMinutes(1)) -Settings (New-ScheduledTaskSettingsSet) -Description 'Test' -Force

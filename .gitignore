@@ -1,0 +1,12 @@
+# Third-party material (never publish)
+sources/
+
+# Private planning/outreach documents (not for publication)
+RESEARCH_TRACKING.md
+New Text Document.txt
+
+# Local tool/session state
+.claude/
+CLAUDE.md
+__pycache__/
+*.pyc
