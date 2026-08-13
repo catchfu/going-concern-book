@@ -4087,3 +4087,104 @@
 
 
 ---
+
+## Wed, 22 Jul 2026 07:00:00 GMT — Auditor crackdown to include more random firm sweeps - Adelaide Now
+**Source**: https://news.google.com/rss/articles/CBMi5wFBVV95cUxOT0tZQXdhUnBZSk1xTURmZjFHek9PM0J4VUN5RWFtMU56NHhla3puRXlKX3Z2Rk02dzg1QXd2Wnh1RUV1cUlmM3BRaU9jYUt0aXhkZDV1RjRabU1MR1NZN1FvcU5CRnhFQ2ZpcHVEeW9hZUx1V0VlRE1XVzEwTjF3bWFvZWFfeXYzS3JHQ1pCY0E2cGpvbk5uN2lJUjdjODRrMklRV2h6LWNjM25Pc3hDV0VvTHE4RnIyYmRhQlZNc0NpVmROSFZmS21sTW5GT1YtVHdEZ1dfSndtNVRxOUszYXVGR1dxV28?oc=5
+**Fetched**: 2026-08-10T09:00:07.700801
+
+
+
+
+---
+
+## Thu, 06 Aug 2026 02:01:00 GMT — New scandal hits KPMG chair-elect before key vote - The Australian
+**Source**: https://news.google.com/rss/articles/CBMilwJBVV95cUxNeGJCQzJqZnV1R3FrVC1tamEzanFrUkt3OUNzdGlkTDRRaW9aeUVPSVA4TzlYY0NuWmRxSXZ2WGw5ZHJheHlnRllNb3RSZk02Y1ZWbTZTQ2NzaXN1QmZUa2tDR3JsS2dCRTJ2eDRNQlc3UDZ5VGhmaDhMNnMyU3hnS3VCZ09YbTV0R1puZVpudDFFUUpKMWsybk5wRlV2RmJnRHNzdmo2alFMdU9BT004dzNtZW5YdGRnOWtqZno3eTJISzJja0ZKZE55Z3JRaUdFRTBnVF9ENy04UTNZU3VVQkxpcVA2YnJLQ3NoZ3NvUk90TXJOTERYc05sNmtSMkFQWG1ibVpUNXdLNmJ0ZFFSREw2Y3NRN1XSAZwCQVVfeXFMTUxPM2NldjFlZlB5U1Y1MUlHWlE5ZHBGQmR5d3JZNXVlcmZvRmVGelBFc2ZtZ1kwSjNadGVqTzFfWG43TVJJWE1iNWdZVUM5WFAxdFN2YkszWDBuMWFCSWh1VWhGNXpucUtjLWJmXzNkWVFJZFVhVWRrYUI4X1Q2VUVPdUZ0dE5SNlhyYV9JRzhMTkpqLVh0LW03TW5GZzJDM1ZUcUh4dDIwS2E4RXYtUkY5WVI1MExIdUs4OXd2dGxfRHFSVnFhUGlSdTlUek9ITi1abk84OWxpSGRXVVcxek5RM1J6OFhyOWpCRDlvZ0g3LUZwNXlFaE9XeVZUc0pib1JPYXBPeC1tcmNBWEhYR2FQem0tR19hT3dPQnI?oc=5
+**Fetched**: 2026-08-10T09:00:07.695158
+
+
+
+**Mentions**: Orgs: EY
+
+---
+
+## Thu, 30 Jul 2026 03:50:41 GMT — Australia weighs break-up of Big Four accounting firms after scandals - NST Online
+**Source**: https://news.google.com/rss/articles/CBMi_wJBVV95cUxOUUF1c21pd3hGTGNQMi0wWUVCckJEdWlOdUNYTTVLUVFwbHZrcVV0MDMxajM5eFRXU2RYZnlxTnpZRGRkSG8ybmRLZEZXdXEzWWd6VWt6em9SVVROaUo2blVzYi1GeWQ3cVlILTd4UDRiT2hMRnJoUXg0TU1OTVU5V2tuancyd0xJZDhxNHpEVDlOT0wtWi1OR0d1TkNYa2s1NWNUZG9HTkp1V0lrYy15YWRhWlFpc0kwcjlpQVVrQU1GQk1WMzlfVFJqT1g5R05DNWtCRmVOVTBfVmF0LTB3V3dPbC10TFh3Y3pWRzZmbjFOVXFZbk55dkpXNHBFQTFrb3FZWi14ZXl6TWNPNWR0ZzdBbExQWFhyNWx1M2J6bVBUU0NqVzR2T3FYeHd0dHJlM1RUaTNYTHNrZUdkMlJScm9xcjM2ZFluV2drYVJQU3VkMmxvUHdPT2Y4eXF5N2ZXUWVpQ3NWZWRwU0U5S1d3QVdPeHlrYmZUVGtQaTdNUdIBwwFBVV95cUxPYmxtY2puYXpFRTRYUHhPSEtGTEhwVDBjZWVqN3NnVm9LUkk3NXdGRkRQUkRUTlpxTTBES3dLV0FydC12U01lYko4U2I1TGdyX21OQ216ai13YUkyc1lwTy13TFEwVjA2YnpwUVh1QW1aVlB3d29JNVRzd3l5eHdEbUFOZ1ZaeGZNNkJlLU5zSWJnM0FGaEZiZGZ5SExHSVNHSW5Ca1IxQXZESmxDSWN5YVNiUmhZTlM0QXJ2dU5JYWh6WDA?oc=5
+**Fetched**: 2026-08-10T09:00:16.411025
+
+
+
+
+---
+
+## Wed, 03 Jun 2026 07:00:00 GMT — NSW calls for KPMG to sideline staff linked to audit scandal - The Courier Mail
+**Source**: https://news.google.com/rss/articles/CBMi-gFBVV95cUxNOEZFUjVETmVlclk5TWtpX0xVOVFBU3lfYkZzWWFsc1VscUcwaDJoQmk0MV9ldFNsT055VnFCb0FTTFpuV2k4WGFlNjNPM20zZWpRNF8wSGNKU0Nuby1kaUpCbjgtSThhVUVucy1GZVZ3b2Y3YXlZelo1U0ZLNEhqYWM4TkNmbUJOYzJsMDZSZnl3anpJcDRQbzlxLV85RXEtMGMxYklsQ1NpeUthbnNWSC14dHpsY0FJMGhmbmt1WjJxQmt6WFFCSm5kbFhLR1NxNDFJb1JrNmpNZml4cnJnMkVtamdSM05EZVl2U0s2bWlaYWd2R2pHa2FR0gH_AUFVX3lxTE5fR05DOTFJUHhJUjJOYVpNRG1vVTNhSnFkdVo3eU9KcnNhQnVMb1BpRjV6MHdqSGl4ZElTZFozRy1DSHdNdFg0eWhuc1VKVDBwQjFGSmxtbmU0ckFqVVRzT092ZzNyZ0ZXV0ZJN0RvR1drQXBfRTN1dWFVZy1IdmJsQnVramItM0ZTU29hY1oxZ3U2a0RHTVdmLVZLUTU4TWJONDJyVU04OTlHWnBqdl9tdDF0bjNGTXI3NGpaam5HcFc4QUdGUFlpSWViUUs5QUUwZ3B5NURMcXhuZWxrclMtckpubjNyVC1ncUFCQkgzdzZQQkdKQUpmYlI3OXkzYw?oc=5
+**Fetched**: 2026-08-10T09:00:10.838280
+
+
+
+
+---
+
+## Fri, 31 Jul 2026 07:00:00 GMT — The dismantling of KPMG is about to begin - SMH.com.au
+**Source**: https://news.google.com/rss/articles/CBMipwFBVV95cUxNNmpfUDhMZ1d4azJDZF9tS3M2OS1Va3ZEM1RCUE8tUUo1MDF5Ri1nSEYtLUNXbDY0ekpveXl2X0h4RUgyM01hZkVMcFFmN3E3amQ4alEzNDgwZjl3YWpuMG10OEViUWZZS3NzTzhrZzhOMlhPbmUxQTFtSElCSzZ1SHFLeHdQWTcxOWlyQjA2N1FlVmtVYUhKLTNuR2hSNV94MVc0ZEoyOA?oc=5
+**Fetched**: 2026-08-10T09:00:07.696397
+
+
+
+
+---
+
+## Thu, 06 Aug 2026 06:33:00 GMT — Global hotline complaint sparks probe of senior KPMG Thailand exec - AFR
+**Source**: https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ3k4SWIyRWJtVi05ZDBlVm5lR19KTE1SRkNSUE9nSVJxNENoMlFBcUlfTGVESU52VkVyRHg1UkZDSFNraFZyT19sVmNqR3RMX0JtUWZmYS1QNXVVQ2ZTeUV6Q3FKcFJkSnU2ekE4VVFRVGExTWpHWGtPSG9jcnJJekxwVzZjMWFOSXZUczVQZ05TVWtKQTVXRzY3c2E3eTQ3alR0NGNkYXB3Q0VKNDlhTFN1MTJUY2c1MDFpTHZzM05WelRyNlVZc01SNkFWQzQ?oc=5
+**Fetched**: 2026-08-10T09:00:07.696074
+
+
+
+
+---
+
+## Sat, 27 Jun 2026 07:00:00 GMT — Under-fire firm still has ethics, leadership contracts - Michael West Media
+**Source**: https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU1hQbGlTRzdnZF9rc0JpMi1NYUdUSllzajNiVkd1T3doOWtIMFV3M3p1bEV4LXh5WHZWcTlYbFJUQmpSaGlvZS01cjE1V0dhMEhTaDFlb1FvYnA5bnljVDJwMUx1VGlsR3BLREs1WkFwckxEcXAtUlR2YVBVbWVFR0hWcS1fMjNz?oc=5
+**Fetched**: 2026-08-10T09:00:11.870500
+
+
+
+
+---
+
+## Wed, 05 Aug 2026 01:47:00 GMT — KPMG taps Corrs to advise former partners embroiled in audit scandal - Capital Brief
+**Source**: https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSjd4NUt6OGc1ckROaHpYdTVmSFV4bmJmTlJ4a1hqTGhPdDhFYWhHM3ZGN3cwMG05cWtjamFBeFdIOTA0RmtSbzB6SzhldGYtYlhHMmd1Z1Blb2pYaVhNcG1sWUNZZHFBdkxRd3lSZVpoeXZ1VG9hdjJtaWI5UHFUd1hYZVc5R1MwLVNwcmxJbnhrd0VUdU1HNG5FR0JZOEgxcWt3OVNZXzV1a1BhU3NUZkJuaFVLUGdHOV92a1VHLThFWFFGalJ2R3NiWEJUTzBzdkl0eVZKM0ZPSTg?oc=5
+**Fetched**: 2026-08-10T09:00:07.695440
+
+
+
+
+---
+
+## Thu, 09 Jul 2026 07:00:00 GMT — Audit firms to be investigated following KPMG scandal - Michael West Media
+**Source**: https://news.google.com/rss/articles/CBMihwFBVV95cUxNOXAtUUtRTTFzSjRSdEJ0WWhYMkdGYUZPUzZuSXhKTEpnUGtjeWdmZnN5bWFvM1pxMEFyR3ZCVFUtVm9MZzJHU0ROOFB0SzVXQjlCWEFOdF92U0NGbXoyQURRd3ZUX3hqX1BFUER5OHl1OU51M0s2R0NRZ0pfMGpFSU1TY1hlYlE?oc=5
+**Fetched**: 2026-08-10T09:00:13.934202
+
+[Investigation] following KPMG scandal - Michael West Media Audit firms to be investigated following KPMG scandal  Michael West Media
+
+
+---
+
+## Thu, 30 Jul 2026 07:00:00 GMT — TPB chair steps aside from KPMG inquiry over conflict rules – report - finance.yahoo.com
+**Source**: https://news.google.com/rss/articles/CBMilgFBVV95cUxQY1o4bmtzaDhnVkF6azgtdy1qYzNHRkdqZk81WEdxSXFtR290NGNnLXRmc1M4RFRIT0ZYV2JjV1hMSzdEQUw4LWV2aVlGWmd2Q19VMFc1VEZwRHhOQi0zZHFucXIzNlFnX2ljR2tSVWIyTG90WUFfZmdQQlpsOWFqbGQxQzBpeFJVTzJuRlFoUjRRbWRJZXc?oc=5
+**Fetched**: 2026-08-10T09:00:07.700864
+
+
+
+**Mentions**: Orgs: Finance
+
+---
+
+## Mon, 03 Aug 2026 10:00:00 GMT — KPMG’s chief purpose officer rides into the sunset - AFR
+**Source**: https://news.google.com/rss/articles/CBMinwFBVV95cUxNWWswcldDREVlWE5FY0oyTXJURnYyZV9mcXV1cjJuVXluNmswZjlLMnd3blNqeWpKUVFlLTBXSlVITi1vTThPdy1lU2xpTXlpZXhqaGp2WngxbjZTcER3WHo2Vl9jVDZJN1NPMzh5NkNzd2kyV2lOM09LbEtfbUY4OVlaZjhibFI1M0hxUFpSWkt2Y3VuS0JodWdWelhodDQ?oc=5
+**Fetched**: 2026-08-10T09:00:07.696201
+
+
+
+
+---

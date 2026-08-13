@@ -1140,3 +1140,21 @@
 
 
 ---
+
+## Mon, 22 Jun 2026 07:00:00 GMT — Sheppard’s pie - Capital Brief
+**Source**: https://news.google.com/rss/articles/CBMilgFBVV95cUxPUVlqcDZudE5MTDdUZTVQd181eHhuUExLOHJ6ZGdQOUxjSEUzSG5KcjJEZEtmWVQ1dzZtV19zU2ZDdVdYSVA5eEJMWThjZjRGazF6REl5aHh6MWxFTFAxTTRkblRaQWh4UlZwRmNlZnhrSlBFMklpakZuSEhuNXdBbzA4N0dWYkI0NVZJbjRlQ2kwWHJmZFE?oc=5
+**Fetched**: 2026-08-10T09:00:11.870564
+
+
+
+
+---
+
+## Fri, 19 Jun 2026 07:00:00 GMT — As it happened: Mike Baird says KPMG’s response to whistleblower was too slow - The Age
+**Source**: https://news.google.com/rss/articles/CBMixwFBVV95cUxNWDd2TmJydmFhb2t3NDh2WWNUWnNLNm41Vjk4dHFwNFp1U2pKcFRWelVoc0t3LXphM3BETk1DRDRmOWRESXB6RXR2eWNuTWpzU0RBakVMdTlXdXBzckhHT2twLWJ0VExxR2RPSFZTN0diTi1QQnJkRUdLdzNGU181S0JzSnFFNWdLRmdrWmUyRlpWZm5oVHdjWG9JSnhfNEF3OEFjVnctMWd6SmNMbXhobG1qclg5bktYVVotSzd0MUtkeFR0Y2pj?oc=5
+**Fetched**: 2026-08-10T09:00:08.656803
+
+
+
+
+---

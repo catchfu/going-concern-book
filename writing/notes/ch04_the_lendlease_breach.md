@@ -630,3 +630,41 @@
 
 
 ---
+
+## Mon, 15 Jun 2026 07:00:00 GMT — Lendlease seeks new auditor as KPMG Australia faces regulatory probe - The Edge Malaysia
+**Source**: https://news.google.com/rss/articles/CBMiUEFVX3lxTE9menFrcWg0cU1sQ24xZUNHZDdCeTFDR3l6bFItSVptY2JzRHNDQnZRcmlHX3oxQmplQlZSaERMZWJvXzhOemd1RVBiajRmUVNV?oc=5
+**Fetched**: 2026-08-10T09:00:08.659421
+
+
+
+**Mentions**: Orgs: ATO
+
+---
+
+## Wed, 03 Jun 2026 07:00:00 GMT — KPMG COO steps down as audit leak scandal deepens - anz.peoplemattersglobal.com
+**Source**: https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeGdsV0FtQ3dLbjc2VlJ3UzdPcXRXTmdJMWRZcnRlUWF4QlloeXdrcFliUjc3TmpITFFqRk1ka05hR2lwWS1LOGVHNzRxSGE0RzRldVhIYkZHcFJBaDhIMVR6VENNMnpUYzg0YjRXZUVwOElmdURfaUxsR0k4WV9VLTJiVEFIdWhRZTd5VnJxQjZnNnlJRWZvSk8zN1NvTFktckpQdHRDTnMtaVdWVG5maERSNUFpMVdEY1FV?oc=5
+**Fetched**: 2026-08-10T09:00:11.872490
+
+
+
+
+---
+
+## Mon, 15 Jun 2026 07:00:00 GMT — Lendlease seeks new auditor as KPMG Australia faces regulatory probe - The Business Times
+**Source**: https://news.google.com/rss/articles/CBMiwgFBVV95cUxONDJUc1dreFJEejFBbXZLNV9sQmJSNEF0RU9xajNrTkF6a0pGWFl2Z1hreDA3TTk1ZXVxRXQ2aFgxNnNSX2FSaDJ2Z29JTjQtck5KeHFGemVjVnpIUWw4NFVYUVpDRW9QUUs3ZmJEcXlqYW9qVFk2Y3RUQlZfTF9VV1FfcTRtSWlfUzlYVENPeGhFSVJpRE92c21hSnFwTWo0NWlRbGs4M1J4MzdhMVNXbVM1eHlTSTlua2JXOEIzVTR6QQ?oc=5
+**Fetched**: 2026-08-10T09:00:08.659673
+
+
+
+**Mentions**: Orgs: ATO
+
+---
+
+## Tue, 04 Aug 2026 08:10:00 GMT — KPMG hearing to investigate Macquarie, Westpac audit contracts - AFR
+**Source**: https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUXdHZzB0dGl5MUk4dmpaNW5UTHFoOF9LR3JGTDE4RmJWTENaWkNJZXpEcHNjNE05ckR4WVZQTFdGUk9mbWxZZElVT3ZTZHFZSi1EcW9fTUNYSzBvVFJVWDlOS3VsQm1WZjJQQnB4UUpuT05POE1GTjNOSlZUbl9KOXdUN1ZpNlUydE9KVDZ1YUxkdWY4UUtKcHYyd1pCR1V4QldxZzBaOG9oU3FucHM5VFJZdWgzSzh5eWJ3Sk5mU1Z2dTJtOTMwUA?oc=5
+**Fetched**: 2026-08-10T09:00:07.695630
+
+[Investigation] Macquarie, Westpac audit contracts - AFR KPMG hearing to investigate Macquarie, Westpac audit contracts  AFR
+
+
+---

@@ -1515,3 +1515,39 @@
 
 
 ---
+
+## Thu, 23 Jul 2026 07:00:00 GMT — 'Toxic culture': KPMG whistleblower airs major grievances with KPMG audit division - Accounting Times
+**Source**: https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYmZIY19IMHR5NW40VnJDcXVZVXdIeWhzeVN4a2hKX1VQNjZJaG5BWWREdjlWMlhpbnRCN2xCYTgzQ3hGYjdpeU0wV3BFNnItNk9tVWlBV3JYTUNiQ3ZYamJKenhveE1Fb1pTLWdiWTJzWXpXb0tqUDdWc1FzdnM5RFdfZ1BHcGtQSU11bmJ4andHbmdJS1NBWmlKNkNTb3VtMEJnQTlCV0MtZDhRUm9jeGVVeUtlbGhmQ3ZFQXdzcjdVUUU?oc=5
+**Fetched**: 2026-08-10T09:00:07.695882
+
+
+
+
+---
+
+## Fri, 19 Jun 2026 07:00:00 GMT — As it happened: Mike Baird says KPMG’s response to whistleblower was too slow - The Age
+**Source**: https://news.google.com/rss/articles/CBMixwFBVV95cUxNWDd2TmJydmFhb2t3NDh2WWNUWnNLNm41Vjk4dHFwNFp1U2pKcFRWelVoc0t3LXphM3BETk1DRDRmOWRESXB6RXR2eWNuTWpzU0RBakVMdTlXdXBzckhHT2twLWJ0VExxR2RPSFZTN0diTi1QQnJkRUdLdzNGU181S0JzSnFFNWdLRmdrWmUyRlpWZm5oVHdjWG9JSnhfNEF3OEFjVnctMWd6SmNMbXhobG1qclg5bktYVVotSzd0MUtkeFR0Y2pj?oc=5
+**Fetched**: 2026-08-10T09:00:08.656803
+
+
+
+
+---
+
+## Thu, 25 Jun 2026 07:00:00 GMT — What Does the KPMG Scandal Means for Law Firms and Internal Investigations - LawFuel.com
+**Source**: https://news.google.com/rss/articles/CBMioAFBVV95cUxPNU81OGZhcHM1aVNwX3ZPVU9ybEhHX1RPRzJOUGsxc1VkYlFaNkhKQUdqQVZZYTZHNFBBcVhpWnBlTmtTeG80Yi1lTUU1SkpJLWI1dHVDX0w3bFo4NWpYdGlvMGcxS0E2ckcyNGF4eGNuLXp2UlBJZXVycF9OMTNrRkw1N2pGUzRZa1ozOHV2YzFXYVd1OWZVNTlscnpVbGEz?oc=5
+**Fetched**: 2026-08-10T09:00:11.872552
+
+
+
+
+---
+
+## Thu, 06 Aug 2026 01:50:00 GMT — KPMG whistleblower seeks cap on potential legal costs - The Australian
+**Source**: https://news.google.com/rss/articles/CBMisAJBVV95cUxNRTlydFRwRktZbXRkZU44RV9WRi1WaUJReHhqRkZOeHNncnZUdUFDWXdrMldsWkJiS0QzZmtQRmFDSnl6elpqU3p4VUxTRjFCYi1id2dxNTJLRndkUmhvYThiVnlMZ1FZZFpITTVVY1lRNkRXNmV2WUJ1OW5fbnAzaXl1bEwxTDlNZFdfb2p1OTlvQldBR3BoQ1RJWTZyVGVJdms1NFpKMlVXcVlwMzZ1TkhMajBYRzFkcmVlaHMtZlUzbjdPMHBUU0NIUmxOUy1FSXVXTXR4NDhDSlZWYWlDY0hwTEE2aWJUTi1yZ1RaMTZWek1waGhmYXVzSVFxSXBmRkl0b1ZjY2t6UHVIZzVFNUZHNm0zUkE0MlI1ZDlBb2x0RDBWWmgyaTg2NXlfazVU0gG2AkFVX3lxTE9VbGZIb1B1YUh2S3d4S3BQWVMwMmFVUkpUcllVTUtLMFVHZGNvM1hvcEUtVG5rcWpRN01TNEtERmhWcG5acTdCbm5pUzY5TGgyR2FlTmhfWE1zMDhSenF5c2ozSkNKYUpWQTcyY25jMkdGeklIclp6U3pEaUR1SDBhNEtwTGZ0ckhJQnptdlBPNHk4VVZwM0ZiOU50U0pPaVVHQVRJbjF6eUJSUVM4ZEJ6Mk5SaHhubWc3WE1XbDh5NUZrcllMZTd4S08xQVZNTlBaME03MnJyamptRExGNFA3V3VaTHFITTJPVURDZE5rMjJJQUF4NmZYV3V1SjFBSUQzVTMtaDdhclF3V21WdDJ2Tm9RdzBMRzByR2J6VThzUW51dnVQaFpQQXBQa0M5N3p3Ti16Snc?oc=5
+**Fetched**: 2026-08-10T09:00:07.695693
+
+
+
+
+---
