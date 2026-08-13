@@ -4,7 +4,7 @@
 
 Of all the ironies in the KPMG affair, one was so stark it became a story of its own: the firm that dismissed and surveilled its own whistleblower had built a business selling whistleblower services to other companies. Under the brand FairCall, KPMG ran outsourced whistleblower hotlines for some of the most important institutions in Australia — the Reserve Bank, NAB, the ASX, and a hundred other organisations — promising the very protection it had denied its own employee.
 
-The contradiction was not lost on anyone. "What scandal? KPMG continues to dish out whistleblower advice," wrote The Age in the first week of June, as the firm's crisis management team continued to market the very service whose integrity the crisis had destroyed.
+The contradiction was not lost on anyone. "What scandal? KPMG continues to dish out whistleblower advice," wrote The Age at the end of May, as the firm's crisis management team continued to market the very service whose integrity the crisis had destroyed.
 
 ## Outsourced conscience as a service
 

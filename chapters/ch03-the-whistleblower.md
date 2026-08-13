@@ -35,7 +35,7 @@ The whistleblower's story is the spine of this book, and it will recur in every 
 ## Sources & notes
 
 - Research: `writing/notes/ch03_the_whistleblower.md` (1553 lines — the most heavily documented chapter); `research/evidence_map.md`
-- Key reported items: whistleblower complaint and dismissal; FT — "KPMG's global bosses refused to probe Australia whistleblower claims"; Reuters — CEO and audit head resign (29 May 2026); ABC — O'Neill "will not let this rest"; AFR — "Blows my mind" / whistleblower issues collide; The Guardian — surveillance confirmation under inquiry
+- Key reported items: whistleblower complaint and dismissal; FT — "KPMG's global bosses refused to probe Australia whistleblower claims"; Reuters — CEO and audit head resign (29 May 2026); ABC — O'Neill "will not let this rest"; Michael West Media — "Blows my mind" / whistleblower issues collide; The Guardian — surveillance confirmation under inquiry
 
 ## Open questions
 

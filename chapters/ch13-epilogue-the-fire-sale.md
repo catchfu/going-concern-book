@@ -2,9 +2,9 @@
 
 *Status: draft v0.1*
 
-Every chapter of this book has described a falling firm: the breach, the resignations, the surveillance, the client exodus, the probes. This chapter is about what happens after the fall — the sale of KPMG's defence unit to Capgemini for the token sum of $1, the scramble by government agencies to contemplate life without KPMG, and the question of what remains of the firm when the crisis is over.
+Every chapter of this book has described a falling firm: the breach, the resignations, the surveillance, the client exodus, the probes. This chapter is about what happens after the fall — the agreed sale of KPMG's defence unit to Capgemini for the token sum of $1, the scramble by government agencies to contemplate life without KPMG, and the question of what remains of the firm when the crisis is over.
 
-The $1 sale is the most brutal symbol of the affair. A business unit that had been worth hundreds of millions of dollars — KPMG's defence and national-security consulting practice, a crown jewel of the firm's government work — was sold for a dollar, with the purchaser taking on the unit's liabilities. The price was not a valuation; it was a disposal. KPMG was paying to be rid of a business that had become unsellable at any real price, and that had become a liability to the firm's survival.
+The $1 deal is the most brutal symbol of the affair. A business unit that had been worth hundreds of millions of dollars — KPMG's defence and national-security consulting practice, a crown jewel of the firm's government work — was to be transferred for a dollar, with the purchaser taking on the unit's liabilities. The price was not a valuation; it was a disposal. KPMG was paying to be rid of a business that had become unsellable at any real price, and that had become a liability to the firm's survival.
 
 ## Vultures circling
 
@@ -26,9 +26,9 @@ The wider question was not whether the agencies would survive without KPMG, but 
 
 ## What remains of KPMG Australia
 
-The sale of the defence unit was one disposal among several that followed the scandal. Reporting examined the future of the firm's other practices — the insolvency unit, the advisory work, the audit practice itself — as the firm's clients and partners departed. The question "what remains of KPMG Australia" had two answers, neither comforting. The first was the firm that would continue to operate: a smaller, leaner KPMG, stripped of its most sensitive government work, rebuilding a client base that had largely left. The second was the partnership that had caused the scandal, protected from its consequences by the liability shield and the privilege that kept its records private.
+The agreed sale of the defence unit was one disposal among several that followed the scandal. Reporting examined the future of the firm's other practices — the insolvency unit, the advisory work, the audit practice itself — as the firm's clients and partners departed. The question "what remains of KPMG Australia" had two answers, neither comforting. The first was the firm that would continue to operate: a smaller, leaner KPMG, stripped of its most sensitive government work, rebuilding a client base that had largely left. The second was the partnership that had caused the scandal, protected from its consequences by the liability shield and the privilege that kept its records private.
 
-The epilogue of the KPMG affair, when it is finally written, will describe the firms that inherit the work, the partners who leave and start again, and the whistleblowers who — as this book goes to press — wait to see whether the system that failed them is reformed or merely rebranded. The $1 sale was the market's verdict on KPMG's reputation. The reform of the profession that allowed the scandal to happen is the verdict that is still being written.
+The epilogue of the KPMG affair, when it is finally written, will describe the firms that inherit the work, the partners who leave and start again, and the whistleblowers who — as this book goes to press — wait to see whether the system that failed them is reformed or merely rebranded. The $1 deal was the market's verdict on KPMG's reputation. The reform of the profession that allowed the scandal to happen is the verdict that is still being written.
 
 ## Sources & notes
 

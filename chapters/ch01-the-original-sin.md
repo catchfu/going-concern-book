@@ -12,7 +12,7 @@ A century later, the discipline was gone, but the form remained. What replaced u
 
 The Wallis inquiry of the 1990s examined Australia's financial system but declined to impose meaningful structure on the accounting firms. The result was a regulatory regime that the profession itself largely wrote. Auditors were, and remain, "registered company auditors" — accredited by a professional body, CA ANZ, which also represents their commercial interests. The regulator, ASIC, holds a jurisdictional line that stops at the individual auditor's conduct, not the firm's culture. Firms regulate themselves, investigate themselves, and, as the KPMG saga would show, sometimes overrule their own investigators.
 
-The consequences were documented long before May 2026. A 2024 AFR investigation found the Big Four had spent "two years of secrecy" resisting oversight of their partnership structures. An inquiry into the big four recommended capping partnerships at 400 members — a number Labour dodged. Senators debated reform while the firms quietly merged dozens of partnerships in an overhaul of their global structures, and reported that partners split 44 per cent of income through structures the ATO scrutinised as tax minimisation.
+The consequences were documented long before May 2026. An AFR investigation found the Big Four had spent "two years of secrecy" resisting oversight of their partnership structures. A 2024 inquiry into the big four recommended capping partnerships at 400 members — a number Labor dodged. Senators debated reform while the firms quietly merged dozens of partnerships in an overhaul of their global structures, and reported that partners split 44 per cent of income through structures the ATO scrutinised as tax minimisation.
 
 The moral suasion model assumed that professional pride would substitute for supervision. What it actually produced was a system in which the firm is judge, jury, and — crucially — beneficiary in its own misconduct cases. When something goes wrong, the partners who adjudicate are the same people who shared in the profits that the conduct produced.
 
@@ -24,11 +24,11 @@ That is the original sin: not any single breach, but the architecture that let a
 
 ## The turning of the screw
 
-By mid-2026, that assumption was under assault from every direction. ASIC, long criticised for timidity, launched a sweeping review of how all four major firms handle internal complaints — an inquiry made necessary by the discovery that KPMG's own complaint handling had failed so badly. The PJC — the parliamentary committee that had driven the PwC scandal into the open two years earlier — trained its attention on KPMG and found the firm's responses evasive. Senators began to speak of "systemic failure" in the regulation of the profession. The Conversation published a widely shared essay: "The brakes failed and they've crashed the car."
+By mid-2026, that assumption was under assault from every direction. ASIC, long criticised for timidity, launched a sweeping review of how all four major firms handle internal complaints — an inquiry made necessary by the discovery that KPMG's own complaint handling had failed so badly. The PJC — the parliamentary committee that had driven the PwC scandal into the open three years earlier — trained its attention on KPMG and found the firm's responses evasive. Senators began to speak of "systemic failure" in the regulation of the profession. The Conversation published a widely shared essay: "The brakes failed and they've crashed the car."
 
 And for the first time, the partnership form itself was on the table. "Australia weighs break-up of Big Four accounting firms after scandals" ran the Reuters wire. Politicians floated capping partner numbers, imposing independent boards, separating audit from consulting. EY's own boss warned publicly of a "trust crisis" as big four face being split.
 
-None of it was inevitable. A different structure — independent oversight, genuine personal liability, transparent conduct panels — might have caught the problem in March 2026, when a single audit director raised an internal complaint, rather than in June, when the CEO and the audit head resigned in front of the world.
+None of it was inevitable. A different structure — independent oversight, genuine personal liability, transparent conduct panels — might have caught the problem in March 2023, when a single audit director raised an internal complaint, rather than in May, when the CEO and the audit head resigned in front of the world.
 
 ## The question this book asks
 

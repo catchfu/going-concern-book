@@ -4,7 +4,7 @@
 
 The KPMG affair had two whistleblowers, and this book has so far told only one story. The first — the former audit director whose complaint exposed the Lendlease breach — triggered the resignations, the ASIC probe, and the political crisis. The second was a whistleblower with a different allegation entirely: not about confidential documents, but about money. The claim was that KPMG partners had billed clients for work that had not been done — inflated hours, fictional hours, charged to an insurance client in a pattern that the whistleblower described as endemic.
 
-The two allegations, delivered at almost the same moment, collided in the phrase the AFR used for one of its earliest stories on the affair: "'Blows my mind': KPMG's whistleblower issues collide." The firm was simultaneously accused of breaching client confidentiality and of defrauding clients. Each allegation, on its own, would have been a serious scandal. Together, they exposed the two ways the big four's economics corrupt their work: selling access to confidential material for commercial advantage, and billing for hours that were never worked.
+The two allegations, delivered at almost the same moment, collided in the phrase Michael West Media used for one of its earliest stories on the affair: "'Blows my mind': KPMG's whistleblower issues collide." The firm was simultaneously accused of breaching client confidentiality and of defrauding clients. Each allegation, on its own, would have been a serious scandal. Together, they exposed the two ways the big four's economics corrupt their work: selling access to confidential material for commercial advantage, and billing for hours that were never worked.
 
 ## The allegation
 

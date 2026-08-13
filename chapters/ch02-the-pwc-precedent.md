@@ -2,7 +2,7 @@
 
 *Status: draft v0.1*
 
-Two years before KPMG's world collapsed, the profession's other great pillar had already fallen. The PwC tax-leak scandal of 2023 was supposed to be the reckoning — the moment the Big Four learned that the partnership model and self-regulation had failed, and that the public would no longer accept them as they were. By the time the KPMG whistleblower's complaint began to unravel in March 2026, the question the AFR put on its front page was brutally simple: *Did KPMG learn nothing from the PwC tax leaks scandal?*
+Three years before KPMG's world collapsed, the profession's other great pillar had already fallen. The PwC tax-leak scandal of 2023 was supposed to be the reckoning — the moment the Big Four learned that the partnership model and self-regulation had failed, and that the public would no longer accept them as they were. By the time the KPMG whistleblower's complaint began to unravel in March 2026, the question the AFR put on its front page was brutally simple: *Did KPMG learn nothing from the PwC tax leaks scandal?*
 
 The answer, as this chapter will show, was that the profession learned a great deal — about optics. About the mechanics of damage control. About how to sell a consulting arm for a dollar and call it reform. What it did not learn was anything about the underlying structure that made both scandals possible.
 
@@ -28,7 +28,7 @@ What KPMG specifically failed to learn was the lesson about internal investigati
 
 The most damning evidence that nothing had been learned came in July 2026, when the AFR published "KPMG, PwC scandals show that audit and consultant firms need to go their separate ways." By then, KPMG had lost its CEO, its audit chief, and its chairman; PwC was still rebuilding; and the two scandals together had produced a bipartisan consensus that the big four's combination of audit and consulting was inherently conflicted. The firms' defence — that the combination is necessary for talent, expertise, and global service — collapsed in the face of two consecutive scandals involving exactly the same conflicts.
 
-The PwC precedent taught the profession that the consequences of misconduct could be managed: sell the business, apologise, continue. What it failed to teach was the deeper truth that a firm which combines the power to audit with the incentive to sell, and which investigates itself in private, will eventually be caught again. When KPMG was caught — barely two years later — the reason was not that the firm was uniquely bad. It was that the structure the PwC scandal had exposed was still in place, and still incentivising the same behaviour.
+The PwC precedent taught the profession that the consequences of misconduct could be managed: sell the business, apologise, continue. What it failed to teach was the deeper truth that a firm which combines the power to audit with the incentive to sell, and which investigates itself in private, will eventually be caught again. When KPMG was caught — barely three years later — the reason was not that the firm was uniquely bad. It was that the structure the PwC scandal had exposed was still in place, and still incentivising the same behaviour.
 
 ## The inheritance
 
