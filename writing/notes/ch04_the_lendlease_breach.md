@@ -668,3 +668,40 @@
 
 
 ---
+
+## Fri, 14 Aug 2026 05:49:37 GMT — Westpac exec accuses KPMG of ‘drip-feeding’ audit scandal - The Nightly
+**Source**: https://news.google.com/rss/articles/CBMixgFBVV95cUxQU1BxX0tRTVR2enE3MmhPcFcyWG9iRVl3clhDRnV1bUdOeExtSmxyYXpDQUVybDVMVnk0VWtidzhCWTRQRFh4cTlJdW5adHRlbnNzVnJvaDcyM0VzOXIyQmZLaWxSMTlkYURZSXlSaUpxX0NEaWFVVF94WUplMEtaM3M1ZDJqWGp2ZS1pd0lwYUJFUHBjNndQQWZ4cmFEN0tWNUlTMFhDNENSQVVMNXEyeTVXMmgzZEwyZ0g1QzZRZThHOEJJRXc?oc=5
+**Fetched**: 2026-08-17T09:00:03.597283
+
+
+
+
+---
+
+## Wed, 12 Aug 2026 08:27:00 GMT — Macquarie, Westpac to front KPMG hearing. Ebeid new KPMG chair - afr.com
+**Source**: https://news.google.com/rss/articles/CBMixgFBVV95cUxPSWVaUC1RcHRpR0YxdXZhM1FNcEZPb2lZQjJHdGhkRE9EN1JKQ1FhdW5FMFVra0s2dHFzNUFqSVlZX2p4al9wVHpUZy1RemwzR01UcW9CY3hFR3l3ZERMVFk0dEU5dDRnaUc3TE5kVTRzTjQxc0QyWUMtekVSTWZoazZIcHo1ek5pMy02ckxwWW95WFlfX0ZIajJtYm5MazRrbTcxLUpONnJHcFpIUFZfVGxMQ0pEcWg0SDBBYUJyWm0xN1FsbGc?oc=5
+**Fetched**: 2026-08-17T09:00:03.599408
+
+
+
+
+---
+
+## Fri, 14 Aug 2026 02:41:00 GMT — KPMG ex-COO Eileen Hoggett can’t remember storing Lendlease documents in locker - Capital Brief
+**Source**: https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbUM5ZzdBV1JnUnllZ2x2RXVyWWszWFJVU3h3SXlWNGFobjNKZDl6OGZ1RmM4QkZnSlZ0bW5ITWdaems1emt0a2RiREVsU2tQQmJSX3JpOUJkU0tuQmJsREhsVGdLeElSVS1HQWpuUHRCUm5UNUtITTNDTkFTSVV5THRnWVRkTTRHb29xQkhMLWhzMzNZSHBmZEY5VlZJMmVLeU5sUGVYdzdSYUZmOFVualVtSnl1blFyY1BJYmN0cHB3YkJJWEl0a2QwUUdOOXVjb1NncWctclpjX084UVVxb0hEdkxuT0E5Zmc?oc=5
+**Fetched**: 2026-08-17T09:00:04.663836
+
+
+
+**Mentions**: People: Eileen Hoggett
+
+---
+
+## Mon, 20 Jul 2026 07:00:00 GMT — KPMG board delays CEO deliberations as partners fined for Telstra audit leaks - Capital Brief
+**Source**: https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSnd6ZXpWQWRhM19qSXROR2Y5OEJmVnpRVWhnWnp2eTVrSnB6NkdhaXlwZHkzSnQ3SnlmbUVxd0ZjcVVEUVNhQzl4NDc4aWxac3NJRFlYUWZsS1J1QzFXTjRfYmNVNFV3eXdCRExlQnBxMmF6ZDQ1ZklwODJPMFFvdENsZkdid2huVGtONmhObVVQY0xiNTdwazlvS28zRG5vLU9jMkhqMTZPNTJsb252b1cxOUJFY1Z2eldqbFA0NjVKeVU1M1BkRm1mX01NNFRTZW83NmtaQWx0TjVfWFFwdXdUV2wzSTQ?oc=5
+**Fetched**: 2026-08-17T09:00:03.606796
+
+
+
+
+---

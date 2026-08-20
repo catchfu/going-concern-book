@@ -1,6 +1,6 @@
 # Chapter 4 — The Lendlease Breach
 
-*Status: draft v0.1*
+*Status: draft v0.2*
 
 The board papers of Lendlease, one of Australia's largest property and infrastructure companies, are among the most commercially sensitive documents in corporate Australia. They contain the company's strategy, its financial projections, its plans for major assets and — most valuable of all — the terms on which it is prepared to do business. KPMG Australia was Lendlease's auditor, and as auditor it had access to those papers. Under the rules of the profession, that access is strictly confidential. What the whistleblower alleged — and what KPMG would eventually admit — was that the firm had broken that confidence, using Lendlease's board papers in pitches to win work from Lendlease's rivals.
 
@@ -30,13 +30,23 @@ KPMG's board response to the Lendlease breach mirrored its response to the whist
 
 For Lendlease's shareholders, the breach raised an existential question about the audit profession. If a firm that is supposed to verify a company's accounts cannot be trusted with the confidential material it is given to do that job, what is the point of the audit at all? The answer, for Lendlease, was to leave. And as the next chapters show, it was not alone.
 
+## The August hearing
+
+The parliamentary hearing of Friday 14 August 2026 made the Lendlease breach its centrepiece, and drove the questioning down to the physical mechanics of the leak. Capital Brief reported that KPMG's former COO Eileen Hoggett told the hearing she couldn't remember storing Lendlease documents in a locker — a failure of recollection about the handling of the very documents whose misuse had started the scandal. The day before, the AFR reported that a screenshot and an email had raised new doubts over KPMG's account of events. Former KPMG executives, along with lawyers from Allens and Ashurst, had been listed to front the hearing, Law360 reported.
+
+The hearing's most explosive moment came from inside the firm's own legal team. The AFR reported that a KPMG lawyer accused partners of lying to cover up the data scandal — an accusation made in a parliamentary hearing, and reported as an accusation rather than a finding, but one that went further than anything the committee had yet heard: not merely that the firm had mishandled the breach, but that its partners had deliberately lied to conceal it. The Australian judged that the hearing had unearthed the "original sins at heart of firm's cover-up."
+
+The clients came too, and their evidence was damning. A Westpac executive accused KPMG of "drip-feeding" disclosures about the audit scandal, The Nightly reported. Macquarie, which had its own multi-million-dollar audit relationship with the firm, sought a KPMG guarantee that its data had not been misused to win bank audit work, according to Reuters. And the Guardian's five key takeaways from the hearing included a blunt finding: clients had been kept in the dark about the scandal — adelaidenow reporting captured a "resounding no" when the question of whether clients had been properly informed was put. The hearing made explicit what the breach had implied: KPMG had managed the revelation of its own misconduct on its own schedule, and the clients had learned last.
+
 ## Sources & notes
 
 - Research: `writing/notes/ch04_the_lendlease_breach.md` (670 lines); `research/evidence_map.md`
 - Key reported items: "KPMG admits partner used confidential Lendlease files in Westpac pitch" (AFR, 14 May 2026); "Partners sanctioned as KPMG admits Lendlease board snoop" (The Australian, 15 May 2026); "Three KPMG partners sanctioned over $32m Westpac audit pitch" (AFR, 18 Jun 2026); "Lendlease boots tainted KPMG auditors as ASIC probe widens" (The Australian, 5 Jun 2026); "Lendlease to change auditor as regulator probes KPMG Australia" (Straits Times, 15 Jun 2026)
+- August 2026 hearing: "KPMG's former COO Eileen Hoggett can't remember storing Lendlease documents in locker" (Capital Brief, 14 Aug 2026); "Screenshot, email raise new doubts over KPMG scandal" (AFR, 13 Aug 2026); "KPMG lawyer accuses partners of lying to cover up data scandal" (AFR); "KPMG hearing unearths original sins at heart of firm's cover-up" (The Australian); "Former KPMG Execs, Allens, Ashurst To Front KPMG Hearing" (Law360, 12 Aug 2026); Westpac "drip-feeding" accusation (The Nightly); "Macquarie seeks KPMG guarantee data was not misused to win bank audit work" (Reuters/Straits Times, 13–14 Aug 2026); "Five key takeaways from parliamentary hearings into client leaks at KPMG" (Guardian, 15 Aug 2026); "'Resounding no': Clients blind to KPMG scandal" (adelaidenow)
 
 ## Open questions
 
 - Full list of pitches in which Lendlease material was used (Macquarie, Westpac, Dexus, others?)
-- The exact mechanism of document transfer — data room access, shared drives, partner communications
+- The exact mechanism of document transfer — data room access, shared drives, partner communications (the 14 August hearing's locker testimony and the reported screenshot/email add fragments, but no full account)
 - Whether ASIC's probe extends to the individual partners sanctioned, and what sanctions were imposed by whom (Tier 1 gap 1.3)
+- Whether the allegation reported by the AFR — that a KPMG lawyer accused partners of lying to cover up the scandal — is substantiated, and whether it is taken up by ASIC or the committee

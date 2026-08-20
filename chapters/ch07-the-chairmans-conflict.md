@@ -1,6 +1,6 @@
 # Chapter 7 — The Chairman's Conflict
 
-*Status: draft v0.1*
+*Status: draft v0.2*
 
 Martin Sheppard was, in the early weeks of 2026, the picture of a successful professional: chairman of KPMG Australia, chairman of KPMG Asia Pacific, a career partner with a record of service to the firm. By the end of June he had resigned, the first chairman of a major audit firm to be driven from office by a scandal that he had, in the view of his critics, spent a month trying to survive rather than resolve.
 
@@ -34,6 +34,12 @@ Sheppard resigned on 23 June 2026, less than a month after the scandal broke and
 
 The Capital Brief headline — "KPMG Australia chair Martin Sheppard resigns, leadership overhauled amid audit leaks scandal" — was followed by the broader judgment of the press. "KPMG chairman's departure is just one of a thousand cuts," wrote the SMH. "Professional Life: How Sheppard steered KPMG into calamity," said the AFR. The verdict of the reporting was that Sheppard had not caused the breach but had failed the test of leadership: the test of disclosure, of candour, and of recognising that a chairman's first loyalty is to the truth, not to the firm's survival.
 
+## The successor's stumble
+
+Sheppard's successor was Michael Ebeid, whose elevation the AFR reported on 12 August 2026 alongside the news that Macquarie and Westpac would front the coming hearing. But Ebeid's chairmanship began under fire. Ahead of the hearing, it emerged that he had sent Senator Deborah O'Neill a dismissive email labelling the whistleblower's allegations "false"; as the hearing approached he apologised, calling the email — in Capital Brief's account — "naive, embarrassing, wrong." The apology ran in The Australian, the SMH, Michael West Media and Accountants Daily, and the AFR framed the new chairman's position as "Michael Ebeid's last-ditch effort to save KPMG, and himself." The chairman's conflict, it turned out, had not ended with Sheppard's departure. It had been inherited.
+
+The firm's global leadership, meanwhile, stayed away altogether: the AFR reported on 13 August that KPMG's global bosses had snubbed O'Neill's inquiry. The firm whose Australian chairman had been forced out could not bring its international leadership to face the committee at all.
+
 ## The question that remains
 
 Sheppard's resignation answered the question of his tenure, but not the question of his conduct. Did he know about the surveillance of the whistleblower before the committee did? Did he direct the overruling of the conduct panel in the Hoggett decision? Was the war room's strategy — the privilege fight, the in camera hearings — his strategy? These questions now rest with the parliamentary committee, with ASIC, and, potentially, with the courts. They are the open questions of a scandal that consumed its own chairman before it was done with the firm.
@@ -42,6 +48,7 @@ Sheppard's resignation answered the question of his tenure, but not the question
 
 - Research: `writing/notes/ch07_the_chairman's_conflict.md`; `writing/notes/ch05_the_cast_of_characters.md`; `research/evidence_map.md`
 - Key reported items: "Mike Baird turns up the heat on KPMG chair" (Capital Brief, 19 Jun 2026); Baird testimony — "too slow" (The Age, 19 Jun 2026); "KPMG chairman Martin Sheppard and problems of disclosure" (AFR); "KPMG Australia chair Martin Sheppard resigns, leadership overhauled" (Capital Brief, 23 Jun 2026); "KPMG chairman's departure is just one of a thousand cuts" (SMH)
+- August 2026: "Macquarie, Westpac to front KPMG hearing. Ebeid new KPMG chair" (AFR, 12 Aug 2026); Ebeid apology to O'Neill — "naive, embarrassing, wrong" (Capital Brief/The Australian/Michael West Media/SMH/Accountants Daily, 10–11 Aug 2026); "Michael Ebeid's last-ditch effort to save KPMG, and himself" (AFR, 10 Aug 2026); "KPMG's global bosses snub Deborah O'Neill's inquiry" (AFR, 13 Aug 2026)
 
 ## Open questions
 

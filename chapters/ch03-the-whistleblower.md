@@ -1,6 +1,6 @@
 # Chapter 3 — The Whistleblower
 
-*Status: draft v0.1*
+*Status: draft v0.2*
 
 The complaint was lodged internally, in the ordinary way that complaints at a big four firm are supposed to be lodged: quietly, formally, and with the expectation that the firm's own processes would take it seriously. The person who raised it was a former audit director at KPMG Australia. The person it concerned was, at the time, one of the most powerful figures in Australian audit — a senior executive whose conduct the complainant believed had crossed a line.
 
@@ -32,13 +32,23 @@ The decision to dismiss the complaint — and to investigate the complainant rat
 
 The whistleblower's story is the spine of this book, and it will recur in every subsequent chapter. But its essential lesson is simple: the firm that dismisses the messenger because the message is inconvenient, and then surveils the messenger to prove a point, has abandoned the very values its own marketing promises to clients.
 
+## The August hearing
+
+When the parliamentary inquiry held its hearing in Canberra on Friday 14 August 2026 — a session The Australian billed as "KPMG Part Deux" — the whistleblower's complaint was no longer the only matter before the committee. It was the spine of a hearing at which former KPMG executives were grilled over the firm's conduct, in the ABC's words, and which heard that the firm faced misconduct claims well beyond the original complaint. Reuters reported that the probe heard KPMG Australia was facing "many more" whistleblower misconduct claims; News.com.au counted "many, many more" claimants. The scandal that had begun with one dismissed audit director had, by the time of the hearing, become a stream of complaints the firm had still not contained.
+
+The week before the hearing set the scene. On 10 August, The Australian reported that a law firm had cleared KPMG partners before all hell broke loose — the pre-scandal external validation the hearing would interrogate. The next day, Law.com reported that KPMG had withheld information from Ashurst and Perkins Coie in the whistleblower investigation — an allegation that, if accurate, meant even the firm's own external review had been fed a partial record. The Australian reported the same day that KPMG executives had resigned with $2m payouts ahead of the whistleblower inquiry, and the AFR reported the departures of the firm's general counsel and HR chief.
+
+The hearing also confirmed that the firm's whistleblower problem was not one complaint but at least two. The AFR reported on 12 August that KPMG had paid more than $500,000 to a whistleblower in its tax division — a separate whistleblower with separate allegations, settled by the same firm that had dismissed and surveilled its audit whistleblower. KPMG said the settlement "had no impact on investigations," according to Accounting Times. And on 16 August, two days after the hearing, The Australian reported that the whistleblower had won a ruling to attack the big four's secretive partner shield — the most concrete legal victory the whistleblower's cause had yet achieved, examined in Chapter 11.
+
 ## Sources & notes
 
 - Research: `writing/notes/ch03_the_whistleblower.md` (1553 lines — the most heavily documented chapter); `research/evidence_map.md`
 - Key reported items: whistleblower complaint and dismissal; FT — "KPMG's global bosses refused to probe Australia whistleblower claims"; Reuters — CEO and audit head resign (29 May 2026); ABC — O'Neill "will not let this rest"; Michael West Media — "Blows my mind" / whistleblower issues collide; The Guardian — surveillance confirmation under inquiry
+- August 2026 hearing: "KPMG Part Deux" (The Australian, 14 Aug 2026); "Ex-KPMG executives grilled over firm's conduct" (ABC); "KPMG Australia facing 'many more' whistleblower misconduct claims, parliamentary probe hears" (Reuters, 15 Aug 2026); "'Many, many more' make claims" (News.com.au); "Law firm cleared KPMG partners before all hell broke loose" (The Australian, 10 Aug 2026); "KPMG Withheld Information From Ashurst Perkins Coie in Whistleblower Investigation" (Law.com, 11 Aug 2026); "KPMG execs resign with $2m payouts ahead of whistleblower inquiry" (The Australian, 11 Aug 2026); "KPMG paid more than $500,000 to tax division whistleblower" (AFR, 12 Aug 2026); settlement "had no impact on investigations" (Accounting Times, 13 Aug 2026); "Whistleblower wins ruling to attack big four's secretive partner shield" (The Australian, 16 Aug 2026)
 
 ## Open questions
 
-- Full text of the whistleblower's submission under parliamentary privilege (Tier 1 gap 1.1 in RESEARCH_TRACKING)
+- Full text of the whistleblower's submission under parliamentary privilege (Tier 1 gap 1.1)
 - The identity of the audit head who resigned alongside Yates, and the full scope of the surveillance (laptop vs phone)
 - Whether the internal investigation file will ever be produced to the committee
+- The scope of the "many more" whistleblower misconduct claims the inquiry heard on 14–15 August 2026, and what became of the tax-division whistleblower's settlement

@@ -1,6 +1,6 @@
 # Chapter 9 — ASIC Enters
 
-*Status: draft v0.1*
+*Status: draft v0.2*
 
 For the first weeks after the whistleblower's allegations became public, the corporate regulator was a spectator. ASIC — the Australian Securities and Investments Commission, the country's corporate and markets regulator — watched the resignations, the client exodus, and the parliamentary hearings from the sidelines. Then, in the first week of June 2026, it moved. ASIC announced a formal investigation into KPMG Australia's partners over the audit leak scandal, and with that announcement, the affair ceased to be a governance crisis and became a regulatory one.
 
@@ -28,7 +28,7 @@ The individuals' names have been reported in part, but the full detail of ASIC's
 
 The wider ASIC review into the big four's complaint-handling was, in structural terms, the more significant development. It signalled that the regulator understood the KPMG affair not as the story of a few bad partners but as a systemic failure of the self-regulation model. If the review produces enforceable requirements — independent investigation of internal complaints, disclosure to regulators of complaints and outcomes, separation of hotline and investigation functions — it would be the most significant reform of the audit profession in decades.
 
-The review's scope was confirmed by reporting: "ASIC launches sweeping review of Big Four audit firms' complaint handling after KPMG misconduct allegations" (finance.biggo.com); "ASIC probes big four firms after KPMG scandal" (grafa.com); "Australia regulator reviews audit conduct complaints at Big Four after KPMG scandal" (TradingView).
+The review's scope was confirmed by reporting: "ASIC launches sweeping review of Big Four audit firms' complaint handling after KPMG misconduct allegations" (finance.biggo.com); "ASIC probes big four firms after KPMG scandal" (grafa.com); "Australia regulator reviews audit conduct complaints at Big Four after KPMG scandal" (TradingView). By August, the review had grown: SmartCompany and Capital Brief reported that ASIC had expanded its probe into the big four audit firms after the KPMG allegations — a widening that landed in the same week as the parliamentary hearing, as the committee's evidence and the regulator's investigation converged on the same facts.
 
 ## The limits of the regulator
 
@@ -39,7 +39,7 @@ The investigation's outcome will be one of the central stories of this book's la
 ## Sources & notes
 
 - Research: `writing/notes/ch09_asic_enters.md` (230 lines); `research/evidence_map.md`
-- Key reported items: "KPMG Australia faces probe by corporate regulator as audit leak scandal fallout widens" (Reuters, 5 Jun 2026); "Lendlease boots tainted KPMG auditors as ASIC probe widens" (The Australian); "ASIC probes big four – after gutting its own audit teams" (The Australian); "ASIC probes big four firms after KPMG scandal" (grafa.com); "KPMG data misuse scandal triggers wider ASIC probe into big four" (AFR); ASIC complaint-handling review
+- Key reported items: "KPMG Australia faces probe by corporate regulator as audit leak scandal fallout widens" (Reuters, 5 Jun 2026); "Lendlease boots tainted KPMG auditors as ASIC probe widens" (The Australian); "ASIC probes big four – after gutting its own audit teams" (The Australian); "ASIC probes big four firms after KPMG scandal" (grafa.com); "KPMG data misuse scandal triggers wider ASIC probe into big four" (AFR); ASIC complaint-handling review; "ASIC expands probe into Big Four audit firms after KPMG allegations" (SmartCompany/Capital Brief, Aug 2026)
 
 ## Open questions
 

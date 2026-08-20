@@ -1,6 +1,6 @@
 # Chapter 13 — Epilogue: The Fire Sale
 
-*Status: draft v0.1*
+*Status: draft v0.2*
 
 Every chapter of this book has described a falling firm: the breach, the resignations, the surveillance, the client exodus, the probes. This chapter is about what happens after the fall — the agreed sale of KPMG's defence unit to Capgemini for the token sum of $1, the scramble by government agencies to contemplate life without KPMG, and the question of what remains of the firm when the crisis is over.
 
@@ -24,16 +24,23 @@ For the agencies that had relied on KPMG, the sale was the beginning of an awkwa
 
 The wider question was not whether the agencies would survive without KPMG, but what the exit of a major provider meant for the public sector's relationship with the consulting industry as a whole. The Treasury review of big four "policy problems," the states' bans, and the Commonwealth's freeze had already signalled that the government's dependence on the big four was ending. The KPMG fire sale was the first concrete demonstration of what that ending looked like: assets sold for a dollar, agencies scrambling, and a firm's decades of government work reduced to a transfer of liabilities.
 
+## The exodus ahead of the hearing
+
+The fire sale of assets was matched by a fire sale of people. In the days before the parliamentary hearing of 14 August 2026, KPMG's senior ranks thinned again. The Australian reported on 11 August that KPMG executives had resigned with $2m payouts ahead of the whistleblower inquiry; the AFR reported the same day that the firm's general counsel and HR chief were quitting ahead of the Senate inquiry, and Accounting Times counted two more senior executives departing. hcamag set the HR chief's departure in the context of a wider "leadership exodus." The firm that had begun the year with its leadership intact went into its Canberra reckoning with its legal, human-resources and operational ranks depleted — and with the payout figures themselves entering the public record as evidence of what the firm's discretion had cost.
+
 ## What remains of KPMG Australia
 
 The agreed sale of the defence unit was one disposal among several that followed the scandal. Reporting examined the future of the firm's other practices — the insolvency unit, the advisory work, the audit practice itself — as the firm's clients and partners departed. The question "what remains of KPMG Australia" had two answers, neither comforting. The first was the firm that would continue to operate: a smaller, leaner KPMG, stripped of its most sensitive government work, rebuilding a client base that had largely left. The second was the partnership that had caused the scandal, protected from its consequences by the liability shield and the privilege that kept its records private.
 
 The epilogue of the KPMG affair, when it is finally written, will describe the firms that inherit the work, the partners who leave and start again, and the whistleblowers who — as this book goes to press — wait to see whether the system that failed them is reformed or merely rebranded. The $1 deal was the market's verdict on KPMG's reputation. The reform of the profession that allowed the scandal to happen is the verdict that is still being written.
 
+The post-hearing commentary had already begun to widen the lens. The AFR's verdicts were twofold: "KPMG is radioactive. But probe also exposes clubby corporate Australia" — the scandal was not one firm's alone but also the story of the banks, law firms and clients around it — and "KPMG needs more than another apology." The hearing had shown how much of the scandal sat outside KPMG's walls. The question for this epilogue is whether the reckoning stops at those walls too.
+
 ## Sources & notes
 
 - Research: `writing/notes/ch13_epilogue_the_fire_sale.md`; `research/evidence_map.md`
 - Key reported items: "Vultures circling embattled KPMG: $1 offer to buy defence unit" (The Australian); "Agencies forced to contemplate life after KPMG" (The Mandarin); Capgemini deal terms ($1 + ~$200m entitlements); PJC defence scrutiny
+- August 2026: "KPMG execs resign with $2m payouts ahead of whistleblower inquiry" (The Australian, 11 Aug 2026); "KPMG general counsel, HR chief quit before Senate inquiry" (AFR, 11 Aug 2026); "2 more senior executives depart KPMG" (Accounting Times, 11 Aug 2026); "KPMG's HR chief to step down amid leadership exodus" (hcamag); "KPMG is radioactive. But probe also exposes clubby corporate Australia" (AFR); "KPMG needs more than another apology" (AFR)
 
 ## Open questions
 

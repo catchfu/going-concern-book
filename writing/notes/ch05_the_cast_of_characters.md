@@ -1158,3 +1158,41 @@
 
 
 ---
+
+## Fri, 03 Jul 2026 07:00:00 GMT — New KPMG chairman draws fire over dismissive whistleblower email - hcamag.com
+**Source**: https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX0pFNngzVGFTQVlETkRxdHVFenQyVEx2ck5DTGNLcUFwMFlqeUtzRktDa0dxRkVYYjZOZTJvUk5ZYzJiRHFjRFd5SEpPQzNFU2cwaVdBY0laUm4wWnhRYlF5OUdpYkVsQzRGSF8xYzc3ZEFKUVp5aXlpMGwtSGV6Yll4VGZfZUR3bTZ6VHZJUWRwNVlaU0prU21xZnluaGtaREhBalp0dFpjR3d3UlNOWEJjNVZycFZ4cHJNM21lSVE?oc=5
+**Fetched**: 2026-08-17T09:00:07.488294
+
+
+
+
+---
+
+## Tue, 11 Aug 2026 20:54:27 GMT — KPMG chair apologises for labelling whistleblower allegations as false - Accountants Daily
+**Source**: https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYzRIaS01aW1vZmRxdERTMXd4X2VScGl5LVYzRklVNVZvQ0JBaElhb04zNXJwSnZIU2lIdUljWUtkeE92NFR5N1J4d2VabEE5NDIxZWZDTFZWUGxYaHFIRjlnR0kzZTRsaVVmSzdIUkNrYW9yQUJXMWZyVjcwNkt5RFprTXRHZFdlQjhuaGZhUXVtZElLY2QyZ0trRzRaVzQ0bEk3RnJEX1UwOFNDVFE2b1hRd2JlM2pxSmhaOEx0U24?oc=5
+**Fetched**: 2026-08-17T09:00:10.662880
+
+
+
+
+---
+
+## Fri, 14 Aug 2026 02:41:00 GMT — KPMG ex-COO Eileen Hoggett can’t remember storing Lendlease documents in locker - Capital Brief
+**Source**: https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbUM5ZzdBV1JnUnllZ2x2RXVyWWszWFJVU3h3SXlWNGFobjNKZDl6OGZ1RmM4QkZnSlZ0bW5ITWdaems1emt0a2RiREVsU2tQQmJSX3JpOUJkU0tuQmJsREhsVGdLeElSVS1HQWpuUHRCUm5UNUtITTNDTkFTSVV5THRnWVRkTTRHb29xQkhMLWhzMzNZSHBmZEY5VlZJMmVLeU5sUGVYdzdSYUZmOFVualVtSnl1blFyY1BJYmN0cHB3YkJJWEl0a2QwUUdOOXVjb1NncWctclpjX084UVVxb0hEdkxuT0E5Zmc?oc=5
+**Fetched**: 2026-08-17T09:00:04.663836
+
+
+
+**Mentions**: People: Eileen Hoggett
+
+---
+
+## Fri, 29 May 2026 07:00:00 GMT — KPMG Australia CEO Andrew Yates Resigns Amid Whistleblower Scandal - Cost Structure Review - dars.gov.et
+**Source**: https://news.google.com/rss/articles/CBMirwFBVV95cUxQeF9fRmVtMjExU3Z1M1VoNTJSVmJUQXotQUwtbWhzZjhQekNhM0lWTFNfVDRRVU5nNXkzWVZwTXZGaWFUbjFDSmtyWmxoZnhPSWIzWU9WMURrYmFlWlk2OHFLaTFSc29vTDJ1WEdKUnlNWVpfOGFUX1dTZThWSTJWQ0std2I5UVMyLWRZTWxiM1lpcE9SUjEwc0p4R0QwN0drelN3ZHhXN3IzemtGT0kw?oc=5
+**Fetched**: 2026-08-17T09:00:05.674463
+
+
+
+**Mentions**: People: Andrew Yates
+
+---

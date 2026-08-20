@@ -1,6 +1,6 @@
 # Chapter 5 — The Cast of Characters
 
-*Status: draft v0.1*
+*Status: draft v0.2*
 
 Every scandal is, in the end, a story about people — people who made decisions, people who looked away, and people who refused to stay silent. The KPMG affair had all three in abundance. This chapter introduces the principal figures whose lives and careers collided in 2026.
 
@@ -18,6 +18,14 @@ Eileen Hoggett was KPMG Australia's Chief Operating Officer, the executive respo
 
 Martin Sheppard had been elected KPMG Australia's national chairman after a long career, and chaired the firm's Asia-Pacific operations. He was the figure around whom the "chairman's conflict" chapter revolves: the war room, the disclosure questions, the parliamentary scrutiny in camera, and the mounting pressure from figures including Mike Baird. He resigned on 23 June 2026, less than a month after the scandal broke.
 
+## Michael Ebeid — the successor
+
+Michael Ebeid became the face of KPMG's attempted reset. The AFR reported on 12 August 2026 that Ebeid was the new KPMG chair, as Macquarie and Westpac were listed to front the parliamentary hearing. But Ebeid's authority was compromised before he properly took the chair: he had sent Senator Deborah O'Neill a dismissive email labelling the whistleblower's allegations "false," and as the hearing approached he apologised, calling the email — in Capital Brief's account — "naive, embarrassing, wrong." The apology was carried by The Australian, the SMH, Michael West Media and Accountants Daily; hcamag summed up the moment as "New KPMG chairman draws fire over dismissive whistleblower email." The AFR framed his position more starkly still: "Michael Ebeid's last-ditch effort to save KPMG, and himself." The firm had chosen its crisis chairman, and the crisis had found him out within a week (see Chapter 7).
+
+## Glenn Stevens — the former governor
+
+The scandal also reached beyond the firm's walls to one of Australia's most respected financial figures. On 12 August 2026, The Australian reported that former Reserve Bank governor Glenn Stevens would front MPs over the KPMG scandal; the SMH framed the same development as "Former RBA governor dragged into KPMG scandal." The reporting did not settle what would be put to him — but that a former governor of the Reserve Bank was drawn into the affair at all measured how far the scandal had travelled from a single audit engagement.
+
 ## The board and the law
 
 Around the firm's leadership stood a board that had added independents — including former NSW Premier Mike Baird and veteran director Jane Hemstritch — in a governance reform that was supposed to prevent exactly this kind of scandal. Baird's testimony to the committee ("I resigned... I rued trust") and his reported pressure on Sheppard gave the board's independent members a role no one had anticipated: witnesses against the firm they were meant to oversee.
@@ -26,7 +34,7 @@ The lawyers were never far away. Ashurst and Allens — KPMG's and its partners'
 
 ## The whistleblower
 
-The complainant herself — the former audit director — remains, as this book must respect, unnamed. In the research notes she appears as the "former audit director" and, in the security protocols of this project, as WHISTLEBLOWER_1. She was dismissed after her internal complaint was investigated and rejected; she was surveilled; and she took her account to the Parliament, where the protection of parliamentary privilege made her allegations possible to publish. Her decision to go public, rather than to accept the dismissal, is the hinge on which the entire story turns.
+The complainant herself — the former audit director — remains, as this book must respect, unnamed. She was dismissed after her internal complaint was investigated and rejected; she was surveilled; and she took her account to the Parliament, where the protection of parliamentary privilege made her allegations possible to publish. Her decision to go public, rather than to accept the dismissal, is the hinge on which the entire story turns.
 
 ## The politicians
 
@@ -46,8 +54,11 @@ The cast of this book is connected by a single thread: each of them was in a pos
 
 - Research: `writing/notes/ch05_the_cast_of_characters.md` (1160 lines); `research/evidence_map.md`
 - Key reported items: Yates resignation and Senate appearance (Reuters/AFR, May-Jun 2026); Hoggett demotion and Dexus exclusion (The Australian); Sheppard election, appointment, and resignation (KPMG, AFR, Capital Brief, 23 Jun 2026); Baird testimony ("too slow" response; The Age); O'Neill "will not let this rest" (ABC); Pocock's calls (Capital Brief)
+- August 2026: "Macquarie, Westpac to front KPMG hearing. Ebeid new KPMG chair" (AFR, 12 Aug 2026); Ebeid apology to O'Neill — "naive, embarrassing, wrong" (Capital Brief/The Australian/Michael West Media/SMH/Accountants Daily, 10–11 Aug 2026); "Michael Ebeid's last-ditch effort to save KPMG, and himself" (AFR, 10 Aug 2026); "New KPMG chairman draws fire over dismissive whistleblower email" (hcamag); "Ex-RBA chief Glenn Stevens to front MPs over KPMG scandal" (The Australian, 12 Aug 2026); "Former RBA governor dragged into KPMG scandal" (SMH, 12 Aug 2026)
 
 ## Open questions
 
 - The identities of the three sanctioned partners and the audit head who resigned
 - Whether Baird's exit from the board — and his testimony — influenced the timing of Sheppard's resignation (Tier 5 interview 5.3/5.4)
+- What Glenn Stevens was asked at the hearing, and what his connection to the scandal turned out to be
+- Whether Ebeid survives the inquiry as chair

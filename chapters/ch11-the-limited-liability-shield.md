@@ -1,6 +1,6 @@
 # Chapter 11 — The Limited Liability Shield
 
-*Status: draft v0.1*
+*Status: draft v0.2*
 
 Behind the scandal's drama of resignations and parliamentary hearings sits a structure so arcane that it rarely surfaces in the news coverage, and so consequential that it determines whether the victims of the KPMG affair — the clients whose confidential material was leaked, the shareholders whose audits were corrupted — will ever see a cent of compensation. It is the legal architecture that protects the partners of the big four from the consequences of their firms' conduct: the limited liability partnership, and the statutory caps on professional liability that sit beneath it.
 
@@ -24,6 +24,10 @@ The most direct challenge to the shield comes from Brendan Lyon, a University of
 
 The case is being watched with an intensity the profession has rarely seen. If Lyon succeeds, the effect would be to pierce the limited liability shield in cases of deliberate misconduct — exposing partners to the full consequences of the firm's wrongdoing. If he fails, the shield stands, and the lesson of the KPMG affair is grim: the partnership structure, designed to protect professionals from honest mistakes, will have been shown to protect deliberate wrongdoing from its consequences.
 
+## The August ruling
+
+On 16 August 2026, two days after the parliamentary hearing, The Australian reported: "Whistleblower wins ruling to attack big four's secretive partner shield." As reported, the ruling gave the whistleblower a path to attack the structures that keep the big four's partnerships secretive and their liability contained — the first judicial breach in the shield since the scandal broke. The mechanics of the decision — which entity was sued, which cap or privilege was pierced, and how far the ruling reaches beyond the parties — had not yet been set out in full in the public record at the time of writing, and this chapter will be updated when they are. But the direction of travel was unmistakable: the shield described in this chapter, intact through every previous scandal, had been struck by a court and not merely criticised by a committee.
+
 ## The tax dimension
 
 The shield has a tax dimension that the ATO has pursued. Reporting revealed that big four partners split a significant share of their income through structures that minimised their tax exposure — reported figures of around 44 per cent of income were the subject of ATO scrutiny. The point for this chapter is not the tax avoidance itself but what it reveals: a partnership structure that is flexible enough to be used for the partners' financial convenience is also flexible enough to be used to shelter them from liability. The same architecture that lets the partners minimise their tax lets them cap their exposure to the firm's misconduct.
@@ -39,11 +43,12 @@ The shield has two layers — the statutory caps and the privilege protecting th
 ## Sources & notes
 
 - Research: `research/evidence_map.md` (Professional Standards Act, CAANZ, partnership caps items); `writing/notes/ch00_general__unclassified.md` ("KPMG mess part of black hole protecting partnerships"; big four partnership cap inquiry; "Big four partners split 44pc of income to cut tax bill: ATO")
-- Key reported items: CA ANZ administration of professional standards scheme; Lyon lawsuit against CAANZ (reported across AFR/Accounting Times); big four partnership cap at 400 recommended by inquiry (AFR/Guardian); "Two years of secrecy: Big four accounting firms still skirt oversight" (AFR)
+- Key reported items: CA ANZ administration of professional standards scheme; Lyon lawsuit against CAANZ (reported across AFR/Accounting Times); big four partnership cap at 400 recommended by inquiry (AFR/Guardian); "Two years of secrecy: Big four accounting firms still skirt oversight" (AFR); "Whistleblower wins ruling to attack big four's secretive partner shield" (The Australian, 16 Aug 2026)
 
 ## Open questions
 
 - Status of the Lyon lawsuit — trial date, and whether it has been resolved (Tier 2 gap 2.4)
+- The full reasons and reach of the 16 August 2026 ruling reported by The Australian — which entity, cap or privilege it struck, and whether it is appealed
 - The precise liability cap that applies to KPMG Australia under the professional standards scheme
 - Whether the reform debate produces actual changes to the Partnership Act 1892 (NSW) or the professional standards legislation (Tier 4 gap 4.5)
 - The ATO's findings on big four income splitting, and any tax-avoidance action against KPMG partners

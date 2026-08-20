@@ -1,6 +1,6 @@
 # Chapter 6 — The Hoggett Decision
 
-*Status: draft v0.1*
+*Status: draft v0.2*
 
 Of all the decisions KPMG made in 2026, the one that most exposed the firm's character was not the original breach — it was the decision about how to punish the person accused of it. The internal investigation into Eileen Hoggett, the firm's Chief Operating Officer, had reached a conclusion. The conduct panel had made its findings. And then the board — the same board whose independent members had been appointed to provide oversight — overruled its own legal and HR executives to soften the penalty.
 
@@ -34,13 +34,20 @@ The significance of the decision extends beyond Hoggett herself. It demonstrates
 
 Hoggett's demotion did not save her, and it did not save the board. Within weeks of the decision, the chairman had resigned, the CEO was gone, and the firm was in the hands of a leadership overhaul. The demoted COO — the figure at the centre of the decision — became a symbol of everything the firm had got wrong: the protection of its own, the overruling of its own processes, and the cost of confusing institutional convenience with professional character.
 
+## Canberra: Hoggett gives evidence
+
+On Friday 14 August 2026, Hoggett appeared before the parliamentary inquiry in Canberra — no longer as the firm's COO but as a former executive, summoned to answer for the conduct this chapter has described. The Australian billed the session "KPMG Part Deux" and judged it "more tears, less blood at KPMG's Canberra sequel"; Accountants Daily reached for a different verdict, labelling Hoggett the "naughtiest kid in the class."
+
+Her testimony reproduced, in miniature, the firm's pattern. Capital Brief reported that the former COO couldn't remember storing Lendlease documents in a locker — a failure of recollection about the physical handling of the very papers whose misuse had started the scandal. Her evidence sat alongside the AFR's report that a KPMG lawyer accused partners of lying to cover up the scandal: at the same hearing, the firm's own representatives were accusing one another. What the board had decided in private in June — the overruled panel, the softened penalty — was being re-litigated in public, and the board's leniency looked less like mercy than like delay.
+
 ## Sources & notes
 
 - Research: `writing/notes/ch06_the_hoggett_decision.md`; `research/evidence_map.md`
 - Key reported items: "KPMG board overruled legal, HR on disgraced COO penalty" (The Australian, 4 Jun 2026); "KPMG senior executive Eileen Hoggett demoted" (The Australian, 3 Jun 2026); "Sinking feeling for Hoggett as Dexus says she's a no-go" (The Australian, 3 Jun 2026); "KPMG fails its own character test on Hoggett" (The Australian); "KPMG COO steps aside amid audit leak scandal" (various, Jun 2026)
+- August 2026 hearing: "KPMG Part Deux" / "More tears, less blood at KPMG's Canberra sequel" (The Australian, 14 Aug 2026); "'Naughtiest kid in the class'" (Accountants Daily, 14 Aug 2026); "KPMG's former COO Eileen Hoggett can't remember storing Lendlease documents in locker" (Capital Brief, 14 Aug 2026)
 
 ## Open questions
 
 - The conduct panel's actual findings and recommended penalty (protected by privilege — Tier 1 gap 1.5)
-- Whether Hoggett remains at the firm, and in what capacity, following the leadership overhaul
+- Hoggett's ongoing status — by the 14 August 2026 hearing she appeared as a former COO (Capital Brief), but the circumstances and timing of her final departure from the firm are not yet established
 - The role of the chairman in the overruling decision, and its relevance to the Committee's later scrutiny of Sheppard

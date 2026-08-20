@@ -1,6 +1,6 @@
 # Chapter 10 — The Government's $27.4M Problem
 
-*Status: draft v0.1*
+*Status: draft v0.2*
 
 The Commonwealth of Australia held $27.4m in active KPMG audit contracts when the scandal broke. That number — specific, unglamorous, administrative — became the reference point for a political reckoning that went far beyond one firm. The question the government faced was not whether KPMG had done wrong; it was whether the public sector, which had become one of the big four's most reliable customers, could keep doing business with a firm that had betrayed the trust on which all audit work depends.
 
@@ -24,6 +24,8 @@ The government's problem was not only KPMG. The scandal forced a reckoning with 
 
 The Commonwealth's decision to refer KPMG to the National Anti-Corruption Commission (NACC) added a new dimension. A firm under investigation by the corporate regulator and now referred to the anti-corruption watchdog had crossed a threshold: this was no longer a professional-misconduct matter but a question of integrity in government procurement. The referral did not impose a penalty, but it signalled that the government regarded the conduct as sufficiently serious to warrant the attention of the body created to investigate corruption.
 
+By August, the reckoning had reached the government's own benches: The Nightly reported a push within Labor to stop outsourcing amid the KPMG scandal — a debate over whether the public sector's reliance on the consulting firms had outlived its usefulness.
+
 ## The $27.4m and the $653m
 
 The arithmetic of the affair was never comfortable. The $27.4m in active audit contracts was small relative to the $653m total, but the audit contracts were the symbol. A government that kept its auditor after the auditor was caught leaking client information was a government that had abandoned the principle the audit function exists to protect. The states understood this; the Commonwealth, at least initially, did not.
@@ -33,7 +35,7 @@ The question that remains — and that this chapter will revisit as the story de
 ## Sources & notes
 
 - Research: `writing/notes/ch10_the_government's_$27.4m_proble.md` (172 lines); `research/evidence_map.md`
-- Key reported items: "KPMG at risk of government contract ban over disclosure failings" (AFR); "Scandal-hit KPMG Australia will not bid for new federal work until end-September" (Reuters); "KPMG barred from bidding for federal work for three months" (AFR); "KPMG retains $653m in contracts" (governmentnews.com.au); "KPMG banned from Victorian government work with millions at stake" (AFR); "KPMG referred to anti-corruption watchdog" (The Australian/ABC); "KPMG government work ban a 'slap on the wrist'" (The Australian); NSW ordering contract list (GIPA / NSW Parliament)
+- Key reported items: "KPMG at risk of government contract ban over disclosure failings" (AFR); "Scandal-hit KPMG Australia will not bid for new federal work until end-September" (Reuters); "KPMG barred from bidding for federal work for three months" (AFR); "KPMG retains $653m in contracts" (governmentnews.com.au); "KPMG banned from Victorian government work with millions at stake" (AFR); "KPMG referred to anti-corruption watchdog" (The Australian/ABC); "KPMG government work ban a 'slap on the wrist'" (The Australian); NSW ordering contract list (GIPA / NSW Parliament); "Push within Labor to stop outsourcing amid KPMG scandal" (The Nightly, Aug 2026)
 
 ## Open questions
 

@@ -4188,3 +4188,410 @@
 
 
 ---
+
+## Thu, 09 Jul 2026 07:00:00 GMT — ASIC expands probe into Big Four audit firms after KPMG allegations - SmartCompany
+**Source**: https://news.google.com/rss/articles/CBMikwFBVV95cUxOTWhxdnIxZ000X1hNNFdQdklOVklIZF9VWGJuUmRCc01aY2JnTjNzcUwwQUVnT0FGSkRWbnBGY1ZWdlJ5ZnhuM3o1WVJGdnFUbTBJTjdZdGo1QUd6bU5tbl91amdIUnB5dGFkWGtndXJDMzVKQ3NjLU4tT1RIaTdtRzBXbTBweEx5QkFxTHNvQ2ZYdDQ?oc=5
+**Fetched**: 2026-08-17T09:00:09.056560
+
+
+
+
+---
+
+## Mon, 20 Jul 2026 08:32:57 GMT — Push within Labor to stop outsourcing amid KPMG scandal - The Nightly
+**Source**: https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTEhOamtueEJZQ0VOWlNUc1k3S3ZfcTY1TjZyUGNfUnNtQ3gzUXBmSGw1eGdzOHZJVEtNZlVycEpBc1YzZk9Sb2kyQnBfWElpYWNrX0RmRjRyS1A5ejRqQU1IaVowcGVxOERZOUN3UDBNaFlXa3RLNlJrZ3NjV1Byd0N4aWZyT0d4RTBHNkNURnNkYUl4RTRaWGo2bXgyaXNqZHVYTENQZE9zODRMWlJqZnE4ZTVydzQ2LXh3TWRPbWVHVXRxVnNKMjBoZ2VIZkZpSTE1RGdadjhweFc4YjllckxwbXRBTmRB?oc=5
+**Fetched**: 2026-08-17T09:00:03.607425
+
+
+
+
+---
+
+## Fri, 14 Aug 2026 09:03:00 GMT — KPMG needs more than another apology - afr.com
+**Source**: https://news.google.com/rss/articles/CBMipwFBVV95cUxObTRsZ3VRY3B1ZURhRmtkU3RKU0p4QkNseXlVQmQyZXkxYVJGMlNwYlVzV01lWGFpaDVqWklWNm4yQk5UdlRIYUlMQ2dtRDB1cTNybThvYjZ2cjB4VDEyeVhYWm1PSUpxWmQxVWYwTTRUVmEwUlVzbk5DWk8yaG5uVnZPaTY3M2tBeE5sNS1raHlVXzJSUGIzX0JpWlljbmZPX2djV1BScw?oc=5
+**Fetched**: 2026-08-17T09:00:03.596914
+
+
+
+
+---
+
+## Wed, 12 Aug 2026 01:12:25 GMT — KPMG's HR chief to step down amid leadership exodus - hcamag.com
+**Source**: https://news.google.com/rss/articles/CBMiuAFBVV95cUxQelE2d2xnODNxbXBTdkQtTzB4UGg2WTFXRmNZVk9xNlVSNTZaYXU4X3J2clFIMWNlLUNoSTAweXF2eTFleW5yUjZCcXBMYmcwZ3ZOU2dlMUt1QTlpeDFwalAzdlVrdjNySlJYWHRHUXpwS09qU3pIZHFmbzZLOXQ1S0pLOGJERHJpSG9ySzZKbDE3T0cweFBYay1jTm1RMlpjN242R2FXak0xYXlIZ3BrVXcyMzl2V0xV?oc=5
+**Fetched**: 2026-08-17T09:00:03.601703
+
+
+
+
+---
+
+## Thu, 13 Aug 2026 22:28:00 GMT — Spoiler alert: what to expect at KPMG Part Deux - The Australian
+**Source**: https://news.google.com/rss/articles/CBMiggJBVV95cUxOMWE1ekozdEJxNF8wRWREaXl5NlhJOFJjQTRiQnNLcXFyNkI3YUFXbkhkM2ctSHh3YjZvZ3JxWHFxUnFaOXliUXJMaVJOWWN6SkgxSXQ2UUkzUnNfaGJobkNPSEU4d2NlT3Q1YzBtLTVET3dPTkZSVmFEemR5S2VDeVdQMkpNWkRwUktZYnM1Q2tsRmMxaXo5WEYzSVVSRHpJaFAwMlVsb3puZ1lya3FzYzdGTGZNcVYzTWl1S3VUNW5idTRuQmVvMmNfNGJ1VFVSMlplcFhkejNGT0hWWktjZmVmNVJKejdxRGhqdXBLX202RjUyQzVxOXhyZWlTbml5cWfSAYcCQVVfeXFMTVZ4dXk1Z0hwVy1ZcHdkWFRpVzZwWVBod093ZW13bEtYbmxDQkFLSnlTM1BxVk9BaThkMWZQYm5oOXpreVYyWm8tUURSd2lrdDlzaGUyODhGa3BINHhlZ3A0TjZmdzFzaWltNXVmWGgwMy13ak5zZUdJald5cnhJemg0bVRWZzRocU5ZVFhqOG9vYnBNYm1MY3VlNTRpc09XYmV4VGpIeldDNDVTY2Z2UE8zTDdBaFgyS21FNWxnUzBXRmJXV2R0bmc3Tko3U3NDSVN0MGN2YWJFLTdkY29UWGJfZzZmQnVIZFMyZmRVZnoyQ3plcWtnUlAzVGZMREU4djBnM0xYc2s?oc=5
+**Fetched**: 2026-08-17T09:00:10.663550
+
+
+
+
+---
+
+## Thu, 13 Aug 2026 23:00:21 GMT — Macquarie seeks KPMG guarantee data was not misused to win bank audit work - KELO-AM
+**Source**: https://news.google.com/rss/articles/CBMimwFBVV95cUxNckctRGpYTGZzcHF5UzBPcmpNUHFyU29LbzBtSC1McW9tZ0VqQ0UtQnJCV1NaNVR0bVZOeThtU0czYTNnbUNoVlc4ZDNkSlpMQ252S3dWTzJBcUtNdUE2VFQxRkF3NWF4MUZOYlg3VkFIYkZ6V3JTWEs3cXhZRVgwbGhmNXFXdUtzcUFQb3VyLVk5MThoc2MzbV95bw?oc=5
+**Fetched**: 2026-08-17T09:00:07.484982
+
+
+
+
+---
+
+## Mon, 10 Aug 2026 01:15:00 GMT — KPMG Australia under scrutiny after parliament document release - Yahoo Finance Singapore
+**Source**: https://news.google.com/rss/articles/CBMikwFBVV95cUxPWlJGY1VKazg5TEM0Vlp1SUJ5ZVhmUUFYQy1YWjRXRXk3ZlNjYVZ0NDB2LVB2N2NxZXY5OVJFNXlIb3dqNVNhb1dqUjFKOHRGTmJ6VHJXaE1SSGxpMExZVHRySGtYQ3VaVUF5bk15NjdVQ2dVUVpNbndOYUR4a1NCT256a0lkSmQ2dDJNQzZpTkp3aFU?oc=5
+**Fetched**: 2026-08-17T09:00:07.483707
+
+
+
+
+---
+
+## Fri, 14 Aug 2026 05:41:00 GMT — KPMG is radioactive. But probe also exposes clubby corporate Australia - afr.com
+**Source**: https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeUlJQUg3ZDR2UFNNM1BuQVUxSDVSNnpVTXkyZEpsVlRyWm55VVQ2c08zUlJkQ09wemZYRkdWTFowODJGSGFpMHlpNjFfRnZyQmdsWVpnc3JCaHZINEF2b29VQXlibTl5RFBWbTladU5XWEo5cDRlME80OHNTUEFQTEttc3VRSF9GSzM0MTBDeU1YZ3NQYUhMNjUtczV6cU5BNHJUVG5EN1NSOFp4WUo0WW9GQnRwTm5I?oc=5
+**Fetched**: 2026-08-17T09:00:03.598431
+
+
+
+
+---
+
+## Fri, 14 Aug 2026 01:48:28 GMT — Macquarie seeks KPMG guarantee data was not misused to win bank audit work - The Straits Times
+**Source**: https://news.google.com/rss/articles/CBMiygFBVV95cUxPLTFBc05HcXFUeTBia0pHd2p6em0tQUZWUFZpWk8yeV9NUnlwek9zazV2U3ZGc1YwVkpfNkh6cWpXOUl6R3Bfbk14NGZLQ2FPX1NBelVyWEZiVEhRd3ZzRS1feC1aNWQ4R1BUTVV1N2dWTWo3VC02R1lzelR2b0hJd2NXX3drcGp4UXJlSGJLVDYzVkRhZ0tWQTFVcG5xSTU5YmVFMTB5YnFLSF9XQUhSZzVNbUtUdldRTGh1OXFDSXl2ZFdFUDlNcmVR?oc=5
+**Fetched**: 2026-08-17T09:00:03.603105
+
+
+
+
+---
+
+## Tue, 21 Jul 2026 07:00:00 GMT — KPMG appoints new CEO following audit scandal - ABC News & Headlines – Australian Broadcasting Corporation
+**Source**: https://news.google.com/rss/articles/CBMinwFBVV95cUxOVmFGcjdlU05kaGV5cXZzbVJzazRCZng1MXliSHlZclhHakdOY2hJX2h6WHJjU0I2a195T3hnWnpuaWxDUWhtM1JmREhZU3B1ZThtS3hkT0JGdWh2STBoQ3BNX21TdzcyWmR4YmdZYmxGNzZ3cGVfSVhjTmU1MlozdnlmVVRBbmVxbDZjX19IdTVyemxLTWZxblB2YmlLc1k?oc=5
+**Fetched**: 2026-08-17T09:00:03.608616
+
+
+
+
+---
+
+## Tue, 02 Jun 2026 07:00:00 GMT — KPMG mess part of black hole protecting partnerships - The Australian
+**Source**: https://news.google.com/rss/articles/CBMi-gFBVV95cUxQX1p2VFFqLXhiTWpVTE96ZFFCZ2h2b1c0SXpYZUFZV2M2SWtTNDE0enduaVJ0bVhTX09lSWJFQWltaHVzQTNNRHRKc1MySWhrRTFWWm1JUHBhZC12bXBodlliN3ZxWE1qbXBad3VVUkRBMTlIaHg4R0xoSjlsZWxEdnBPNlZabUlVRHJUWTZndWdpMDMxU2tUVDdkQXlRaDIyNVlkNkxXWm10Zm5YMU05VVJUSGstNXBWM25meTVPSmVseGhLZGhmRnAxcWQ2aDE3ckowQ19ySFNqZ3JSYjB3bzc1djV2Z3U1cjJZcl9uUjV0b0swVDJ6aktB?oc=5
+**Fetched**: 2026-08-17T09:00:07.486512
+
+
+
+
+---
+
+## Wed, 12 Aug 2026 19:19:54 GMT — Former KPMG Execs, Allens, Ashurst To Front KPMG Hearing - Law360
+**Source**: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbmV6UmhkQ09QTUMyM2ZrQUpyTXdHaGdDbTZPTXZCVU9udmIwVXZzbnF6WEVJazhiTExuV3kwWGptRVJkcWZVTFhxSkVGMzdTVWxWTkZLbG50a0tGNi01MUt2VDEzTkt2TUdIX2NDTFVtYlo1eHc3TUpLd1lVa255M2NkeGs0NlB2R1oyYlNjeDI4QlBkNmZrcndBN0NuVXVkaUZqTWlBdlBZQ3RFd2JNZVNEWmQ3SmJhVy040gFYQVVfeXFMT2N2Qlk4QTVFQWFjMU9SeFBpVFRiMVVRTU9aQlhXb01UYjd5X3NHTGIyY1BUM1ZjRXY1aU5EN2FlZU56ck1TcXVaNjZXZm5VM3hGVlhFWVNlcA?oc=5
+**Fetched**: 2026-08-17T09:00:03.602400
+
+
+
+
+---
+
+## Mon, 10 Aug 2026 03:26:00 GMT — KPMG’s Michael Ebeid sends apology to Labor’s Deborah O’Neill as hearing nears - Capital Brief
+**Source**: https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdG9saHdWM0Q2S2FOX2Z0Y0JURzBnb1M5TWc0bExEZjBaazBZaS0zZzR2cmVWQl9UUE1keHJwTHVPMHF0V1VWeEwzeFNPWHdESmdGWFhDTVpVMDRzbUpZWnRSUW15X3R6Q01leE0xVWRQYVBNb0RfaUJ5ejJlV09XVHpHNmFsMEoxUXU5TXVjZXNXQndtQ3FrcXJSMlZrTnp4R183dlA0cWtUOUJhWUpqUEpKVXdNMnNDWnlsQ2EzY1pIRThXUVM0UFNtX2pKYVlpakVRTlJST1oyTFNTMC16NU9kbWtWQQ?oc=5
+**Fetched**: 2026-08-17T09:00:10.663698
+
+
+
+
+---
+
+## Fri, 14 Aug 2026 04:25:36 GMT — Ex-KPMG executives grilled over firm's conduct - ABC News & Headlines – Australian Broadcasting Corporation
+**Source**: https://news.google.com/rss/articles/CBMisAFBVV95cUxOSS01VnZQZGw2MXJ5ZWMyR1dqRXNza3ZVSm1jZWpPMV9Zc1l3VXl6bnh4WXU5SGhSTmRUaG5panpqOGlpaVVWWVN2eTdGa09odGlyV3c1eEl6cGRzOVMta1hJNE83c3pzN2ZYRG13SHVCRVNnRXc4ejUzTkRKQS1menFVMS12VVo2ZnBJYllLTXRPWTFIV3l1WVRWRmhNYzB4dl9BWUlKaGVGZnlOdkVVUA?oc=5
+**Fetched**: 2026-08-17T09:00:03.596540
+
+
+
+
+---
+
+## Fri, 14 Aug 2026 04:56:08 GMT — KPMG scandal: ‘Many, many more’ make claims - News.com.au
+**Source**: https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaF9aNHhaenczZG5zdHAzOVV1WDBUSVVLUUpHU1o0Y2kxSW02cVpIbTVtMzZ1YnhuX1FEcEJfY2R6ZEFhemliVTNtZE9zS2c0WXU5QlNJV2FZY2tCYlJzSnJINjNhMHlwd0gzNzFudFJYTFd0bkdRMHp5YXFyOFhwWXRLM1E1bVFlLURva0NXUDd1UTdTcTBYYTN0YVhGMlUySlNkZExmbUlfVEZFRHRkM09sYnp3SjUxTU5iZG9CSVlUdDFXU0syNGc5WnJmZ0puMmZ3eXpZM0lpdzY0OThxZ3JB0gHnAUFVX3lxTE41V1VRTUxoeFNlWU9PbkM1SmpzOGdaYldSbklfdXBtY2ZlbkdzMEVzTHJGQkE4c3FvNjA3Y3RIVkpMZDBrZENQYkduMlhUT0tZOF9oZU1PQ0x6VTFFX0IxQXEtc081dHJ1TndEb3E3eG81Qk5xTGVoVm55RUxuam1ITDN2Y25KeVZXTGE3TnJ3QmdXanpVVm9oUEdMRHRnVEIzY3FWV1lzNFQ2TFVwd2xtZ1oza1lwV2swV1hTTUt5THFGTlJ6RjdWblZGelVETEtLQW1BbTdRSDFIcjQ1QzBZRnBCMW04OA?oc=5
+**Fetched**: 2026-08-17T09:00:03.597656
+
+
+
+
+---
+
+## Fri, 14 Aug 2026 06:25:00 GMT — KPMG hearing unearths original sins at heart of firm’s cover-up - The Australian
+**Source**: https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSnR3ZGFvbVZrT3pCc3RJODljM1JUWGgwZ1hEWWpOd25PeUxnemlMTk9nbFo2Ry1jcjZuMzF4NjFNZ290ZlJPWmFCOENUNGRVYXZjMExGZFN6UG4yYjExR0Z1bXZlZmszbFVzM29wcEY4d09xVzNweFlka2lZTDl2RGxjemJYMk5tUzNTMVBvYWNMSkpLdmhBbU9wUm93SmRpR0x3QTl4UkZVRENNQ08tRUpaUEZWZW1RN1hZeGxic0F1bFdhWWIyX1JRNGh4RjR6MmZocjRIaFdkd0xqU0d6aFlER05nOERUSG1QUldMNNIB9AFBVV95cUxPQUpxTnRWV2lRcVFoTDZuZXVmcnVSWmdhOVhhMUFzRzgySVVBN1hjaWIwd1V6cXZMNWpvRmFtQ2hvT1VhZExFcHpJYWgyaWthejR3aHVNMjAxQlFxVHUxNDZTc1EyOHVfWmF3YTNzNFgwQ0RqMjhjZ0xKaHRFUURNdzBXZm1tSUczbF91dHdqYkpjOGJyR2d0SkFsM3ZuOG1aYUVEUHFRT0ttVkJRVGo0bHJDZ0U0WFQ2R2VtWGhRQVNkYk00cXFTWkwzTUUyTXJFaHVpdVZWUTBqbzV3RXMwbUZ2M3lyM1I1T0hESnJmZEtJQTBr?oc=5
+**Fetched**: 2026-08-17T09:00:03.598831
+
+
+
+
+---
+
+## Thu, 13 Aug 2026 10:00:00 GMT — KPMG’s global bosses snub Deborah O’Neill’s inquiry - afr.com
+**Source**: https://news.google.com/rss/articles/CBMioAFBVV95cUxOLWxYVGpySjJEc0xmSFM1V2t5VkFaTUJ4TW94N2ZDd0tMczJxUTRKLXN3MUFVZGpRa3ZOWEM4TFEtQ0xpSVlpZ281bGxXNllKZXVNazh5SHVtVXN1VEhOUUFYWkRjMXg2VWdoUFhmNkQyc2RZOHJVNzBpbkowTlpDdWRTTi11WnpBemxpWXFDQzE3MzB1LVlQblRvbGJobjc3?oc=5
+**Fetched**: 2026-08-17T09:00:03.597927
+
+
+
+
+---
+
+## Wed, 12 Aug 2026 19:21:00 GMT — New KPMG chair Ebeid faces a big decision - The Australian
+**Source**: https://news.google.com/rss/articles/CBMikgJBVV95cUxQei0tMXBCTWpINTZpQUpSa21DX3JrSFRzSG0xVjZmU1BVT0tLTFFjUjcza3BsMy1HdF96YkMwRVFGLWZhMW85bzVjZWVQV3kzSzM1VFFvcks0bjd5NzVHTnpjVG52YlIxdGstMllpNXI2ZEdyNlNmQ3RhcmZ2aFZsdkYzZnF3d3d0bjBoSDZVX3o3cGhwZjFIa1ZrYXpIRVQ4aERvS3JadlBFZEhYQklETVBVRXJzc1ZwRmpJTmdPbFYzTHhQeE1kMUc4OXdwV3pJZXR2WFJ1RFQ0bmdsSXFlY1pUQVF4MHY3TU1LR19hbHNYaDZ2V0J6czBkcU1HOUpZZnJ3WmxFTzA1X3JLS2ZYc3lR0gGXAkFVX3lxTE5OSkVERXJoM3hnYW1VQzBZcmhZaXJ4bDlDMEtKT29nbTJoRFRMMjgtaEFxUE5LMGxjZVVjc1FsUFZKejQwc2dCRWpJMkROTkwwRXlQYm9EZV8wdXBhMUNGb0NDNFFFMlZhMzN0cUlNQXZTbzVMSHFCV2JUMGx0QzFyOFBYdU5EOUY4VXoyejZYRkx0dmFKMGJIZnM4bm1CUUI0ZUI0ZHVndG5FNWdqYm1kaWZ2NDVhbnhWWXF3bUpRVXplOEhLcjNsTFMyWnlYVDZzNHF6VXpOS1BwYmp1bF95UFh5SFY4bjljOEloaTZ3S3A0MzBIbHZsclVITnJKVDl2WFdnc1ItdnBmVmpUTzNiVDBFSHpnNA?oc=5
+**Fetched**: 2026-08-17T09:00:10.663325
+
+
+
+
+---
+
+## Thu, 09 Jul 2026 07:00:00 GMT — ASIC launches surveillance into ‘Big 4’ audit firms - Capital Brief
+**Source**: https://news.google.com/rss/articles/CBMiwwFBVV95cUxOamJtbmtTX2M2UzlnRWNQcEdCTExnT0JScUNDdk1MakFzcFp3c0dNaEQ3SmFtM0ZXNUw5MVBsck5OTkU2NTdNRm1HR1N0YkpfUElNemNRd0R2R1UzTjZMY0NpNUp2aFFWd1pySjFGNTVud0hSX2JEaHE4M3RadFBpVVlPYWx4Z1NsNkVKWnF2LUtpSXJIUEZFZnhSNWRDQlQ0aTh3a2JQZGxpZDJCNTNZWTJSVl9sMmZpeUhMSXp3cDFxZXM?oc=5
+**Fetched**: 2026-08-17T09:00:09.056496
+
+
+
+
+---
+
+## Thu, 13 Aug 2026 09:06:00 GMT — Screenshot, email raise new doubts over KPMG scandal - afr.com
+**Source**: https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOWhNbzVYbWFzdHVOVW0ya0tCb1ZjWS1IVi1JZzZkMTBISmUzNTdVcFdnY2puSmhTRFFldUlEOEZCSzlweGlkVHYwdlpfQjFGRlluVUVQTF81dGUtMVlrNkpoNm1tNmRnbUpaZkhheTROcWY3OGd6S05aRzZoNnRYUlhUdlNma2VOTUZ4Zlp6M3NhQzlGOGdEZzlYX2xINi1adlVERDhwZFRKNDVrVF9EYzgyMkZaT29MNkpV?oc=5
+**Fetched**: 2026-08-17T09:00:03.598962
+
+
+
+
+---
+
+## Tue, 11 Aug 2026 22:34:52 GMT — 2 more senior executives depart KPMG - Accounting Times
+**Source**: https://news.google.com/rss/articles/CBMijAFBVV95cUxQeDU1aXJEaTM2dXVsTU9la2c3SnF6d0lxUVVmRU5WUmstcDBOOFUzbnNBdURmS3lxRzgta2ZzMkUwYjNULUptX3VfcW5qVGFFeElSZnVNUkJZZGhlUUlfU2Z4UjZ1WkExT2VvTWtYRlNoQ0lid2E2TUJabWhGQjVuWEVWbzUzbEI3d28zZQ?oc=5
+**Fetched**: 2026-08-17T09:00:03.599519
+
+
+
+
+---
+
+## Fri, 14 Aug 2026 01:08:38 GMT — ‘Resounding no’: Clients blind to KPMG scandal - adelaidenow.com.au
+**Source**: https://news.google.com/rss/articles/CBMi_wFBVV95cUxOQUExNEJoZ01ST182RnlHRTgzNjZyQ3pZVDVsVGVyRjV4ZGNzNXpOWHJSaVc0T2VPUEFqWW1HUFhBWWNlbjBfWWttUldXVDF1SzJodE5HemFmc1ZRWUNJUUR2T3RkVXFISW5ORmNaamlmMXpsc2JhLXl2V1g0bE9kVEpzSUhncnlIUVhwc1VXN2djY2k1eEV2N3g3RE5vVTd6c2YyU3Y2VU4wZFdfb3lYMlNfeWt5NkNZT1NtSEZBR0NkNXFtSGNNejlTWFZMSzdURzB4Wmx1QXpobmdvMnF0SkJHSTFFVWk3U2JNQ0Frai1KLTBVZ2h2V2R5UG5MUk3SAYQCQVVfeXFMT0o5QUNZYlVZZ3Z2TGhHWjQ5NWhzcC1NTGs5blZqUU9URGZRVklTdHlLdmFTY2RyTDViNG9uZWQ2QTNPZ1RDbk1ycUVKY3duUjczRVJOVjF0amk5YVJZRlhIRkt0cGtvZWp3bllMN29XNjVCYkdvdjBWeHM1bjh5ek83ODJhM3pxZFhPQktjVG9mUzRLbTBGVVd0UG9nWDdyVERJNXU0M05VR1BIektXdmt2MWFQckYyLW1YV21xYjhmMVdaZVRfWldCanBVRUdWU09YNEI0dXo5Tml3SGR3YThZaHlMenEzTzY3Yzdad05ULXNNZkYxblRrTlctNXF2akhMelU?oc=5
+**Fetched**: 2026-08-17T09:00:10.662954
+
+
+
+
+---
+
+## Fri, 03 Jul 2026 07:00:00 GMT — New KPMG chair slagged off Labor senator in email - Michael West Media
+**Source**: https://news.google.com/rss/articles/CBMigwFBVV95cUxOSHBBMWlEZ2Z5alc3X0RIVlNUd2NuTTJvcDcwSzRPVjd1MG1SUU9jc1NtRzBUSFdqem5TSV9PR3g3emd4TEpkWXRCWVZVckRJSXhWanVtbnJIZzVCVGNQNFVXSzFsQkgzZE51bmFlQm5oZzh2aUtBMmNnV0FtZkZ4bmQ0RQ?oc=5
+**Fetched**: 2026-08-17T09:00:10.665393
+
+
+
+**Mentions**: Orgs: ATO
+
+---
+
+## Thu, 13 Aug 2026 22:50:41 GMT — ‘Naughtiest kid in the class’: former KPMG Australia COO grilled at hearing - Accountants Daily
+**Source**: https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdEJqb0NCZVBhQzR2dTBkN2dJdWFXal9yUXBxdmo3bUVuNzVUS0xFTUw2aVFGM3R3UWZLREJvZEprSFgxSVlwYkY1NVNZelVzYS1uV0RtUlVYS2hEZWRaQTV3ZDk1bUFuaWgyZXUyenZUeGd2dER3cE1IMVFVWjVnRm1LYk1hTkFQMldORTlXRkxOSlhuUE15QVlybDcweDNFU1hBTjVWb3ZWUTF0b2tNZlhvRVFiOGdjSFNRaUhOR3I?oc=5
+**Fetched**: 2026-08-17T09:00:03.597165
+
+
+
+
+---
+
+## Wed, 15 Jul 2026 21:17:43 GMT — The KPMG scandal: We have seen this show before - The Australia Institute
+**Source**: https://news.google.com/rss/articles/CBMijwFBVV95cUxNT2VvcHdzbTJ5cWs5NHZnbUE5djNUNnhkQlE5Y2w3X2ZIaXExN1RrcTFyaklZdkNkZTl2d3ZYRnFuY0cza0NIQWhZdlZ3SmwzcmlHNDJkWlJ4NlhfMWh2V1Z3SWpOOGxsWlNfa3JFMDY2QmV0YndoeGQyNXJ2R25mQ1pQR2tXMVNDREYzQ1ZfWQ?oc=5
+**Fetched**: 2026-08-17T09:00:03.604680
+
+
+
+
+---
+
+## Wed, 01 Jul 2026 07:00:00 GMT — Australia proposes overhaul of consulting sector following scandals - The Straits Times
+**Source**: https://news.google.com/rss/articles/CBMitwFBVV95cUxQTFEwLUV5dmNDbG5LNG1qQTZsekE4d0ZSMUpQal9IQTZQUG1JQWxtY29RVDlDUVBNczFqdjBPdk81cW0yT2lBak82TWhaWk1XaXFxeFRhMm1IWmZkUGRKeFd1YWJhdVVJSzM2OG9qc3BXQko2SU03YV95eUJwdXk3LWhLRm1nRFFKTy1vYm9XSXIyZnBNNzNjZ09jRndIaGxYMkNBM1BKTzVRMldfTGQwWFZVOVNLdm8?oc=5
+**Fetched**: 2026-08-17T09:00:11.385948
+
+
+
+
+---
+
+## Fri, 14 Aug 2026 00:20:00 GMT — More tears, less blood at KPMG’s Canberra sequel - The Australian
+**Source**: https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSWFxR1ZyTUk1Qi1vcDhlVUI2elZIS0xlZmdoQl9obkZCbno4bXBoNlVGVVVkdWVyM2d4cmNuQVFKaFlWVjhfVlh2elJudUFvWVpQbkRaRTNGM1pZU0cwMmdGRG1ndmhFT2psaExkSE9CRmltTUdQNUhDWGZ6aHV5eHpTMllWYzdzTTFwY19vbFZNRkxVcWpDNklELTBWZTAwZmNrOUNSbU1Obll3dXliU2VwUWo5TTVvVE1hRWxiWUk0cFJtZ3laVDBQTjdJemFFSTMtNDQxUldpNkVZd1VlSWVILXdrQWo5enpBZ2RMSjU3MFN2SDlxX3lCNGhfQdIBgwJBVV95cUxNcHFKLXN6Z3MzbFZfTS04RG9HWjBvdkItN3RUcU94aExBbjFET1FkaWlvX3FlWkJuYkRjMmVxdG9hT2VhTDMyYXNTLTVXNUdWNkFkXzhSbTVUNHhHYVcyeS1mWnlrc0hkNW1KOC1LYTNzVVlkbWdqU1liVGFZTWRJdXNoYnd2NWRTYmYzc0ZFSU51clYxanJDcEx0cjZ6YVVwbG5LY2VaQ2Nxa2R4UUVibnRGM2RiazZLRXVfcnhLYW1QX2xEbDVlbWRWS1hVdEZWbEZpUGlDVFRRbG5YcWdsU1BFVTQybWRkRlJldy00M2gwUnloYUpJMzEwZkNPbDlNcndv?oc=5
+**Fetched**: 2026-08-17T09:00:10.663477
+
+
+
+
+---
+
+## Fri, 14 Aug 2026 08:11:00 GMT — More pain for KPMG — and its lawyers - Capital Brief
+**Source**: https://news.google.com/rss/articles/CBMirgFBVV95cUxOUXJMSDBuUTVaZWFUWTBXeWZsR25sbGNuRmNEVnlJRTlFT2lQc2VKUGI0QlptQ2QxbDd2N0Q2WGJiTFRfV2VZU3YwWXhBSGdQYTdZNGd1VDZiZldWdGlGU21SM09YTHR6Mi12b21UQXA2X1ZjYW9KMzJiVjVHQWN3Q2FISzBhUFJGNmFOa1hENVA1LWE3WnB6MUFnWXJfVVJ2bl9ONFkyWVZMVUFnYUE?oc=5
+**Fetched**: 2026-08-17T09:00:07.483352
+
+
+
+
+---
+
+## Mon, 10 Aug 2026 06:58:00 GMT — Michael Ebeid’s last-ditch effort to save KPMG, and himself - afr.com
+**Source**: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQczJsQXU0MmRVbVRZVWZoa05MRWllSTY0cGtmZVFoSGhuaXZ3ZmtXbUpkM3RSS0Jjc2VvWWNsTmJzVkV1Tl9mdjdhUEJJbUl6QU9NSFh1MWtBMThCbENnSF9iVElBS2pNYjhsRV9xaDBlRnh6b1VEWkhIMGRza1VYeHlLZlBZWUZEVFg1dnJmbnJleGpZbnFmbW5LMWg2Q3RyT09wenhuTnVoZw?oc=5
+**Fetched**: 2026-08-17T09:00:10.663403
+
+
+
+
+---
+
+## Fri, 14 Aug 2026 09:28:00 GMT — KPMG lawyer accuses partners of lying to cover up data scandal - afr.com
+**Source**: https://news.google.com/rss/articles/CBMiygFBVV95cUxNb3VpVkM5ZjFIS3pOakV3QWZ1amN1SVFqQTd1Vm1EQzFxZVV1am1JdlQwR1ROd2JsUS1aVEJkRC1SYWhib21tSXM4WHBtVGdhS3QzNldveXVsMGNBaWZzMFdJTXlfT09sTTQ0cUJBUk1FcE8wOXU4WVlzZTJQdHlGUkdDYjBJV1NyMGY4WU5FOGdpWjRZczlKZlRZSFlYWVdhTmJ3Y3Z2Z3k3TGtLb0NHZERCM2loS0J4ZjI3eGRyaGdrX3U3TzNGLU5R?oc=5
+**Fetched**: 2026-08-17T09:00:03.598703
+
+
+
+
+---
+
+## Wed, 12 Aug 2026 08:13:00 GMT — Ex-RBA chief Glenn Stevens to front MPs over KPMG scandal - The Australian
+**Source**: https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVDFuLUtHbXlJSlh5TlY5YVFpX3R0SS1wTHVjQWZGSXIzaE9mRnp0ZEM4VEIxRGctbjZuWGtkOUtWMFVBUS1nYm9BVHNPMENKS1NEc0tqQWwzcVhFcVBmNmMxX3c2dmVsbTlmSElqR2p3cDhndGRheElmWlppV1hzeVBvdTA1WmoxRXdOS25BSzVnRGhEMDVZWHJ5dEJSWTJ5TlRDTTVjY1F5djZTak80TDdNbENWWktidEV4YVVpUlI3aWIxNXFMcFA5dVkzTGR3YTBBdnVCTlZiRjlTa0IxNDhMdGlRS0dickHSAe8BQVVfeXFMT2dRWE9jY0JEVjVKNDNGcjJnakFTMF9Sa0MxRllWaHVFR1RUQTZwQkJqcUpGSi01aTVCcjZuRkdIMjNFR2tlOHo2UHFIQktSQ0NJYnE4eW9XdnNIVElDOTZGRmJZd3JLRF9HWnp6a2NKVTYtdTgyTFF3TlpQVmJjemtHUk16U1lUVjVfdHVfM1d5b3JUZ0puTUxqXy1wdWdXNzVIeXV1REtLLXQxek96T1FoREJ0REcxdlRoa1BidERLRVZLeXpBejE0d3R6R01keUR5R0Itb3R3Q1lIcE5LUkI2MHdjZmw1TmRDLTg2cVU?oc=5
+**Fetched**: 2026-08-17T09:00:03.599064
+
+
+
+
+---
+
+## Mon, 10 Aug 2026 09:52:32 GMT — 'Naive, embarrassing': KPMG chair-elect's email apology - inkl
+**Source**: https://news.google.com/rss/articles/CBMiggFBVV95cUxONUtGVS1rNjU0T2xCdS1JM3V6UUU3MGY0WnVWRTR2X3ROQVF6alhyVDFVVUJ6XzBFbjN2YXk2UE9sRjJTM1NPR09LZjlidjdVdW1xNEI3SnpvOE5JR0dBRmthVFhBY0lpN2xFZHEzRjZDRVZZRG9kT01NemNRLXN1Yk1R?oc=5
+**Fetched**: 2026-08-17T09:00:07.487250
+
+
+
+
+---
+
+## Mon, 10 Aug 2026 09:58:56 GMT — ‘Naive, embarrassing’: KPMG chair-elect’s email apology - Michael West Media
+**Source**: https://news.google.com/rss/articles/CBMihAFBVV95cUxPVjNISWZOVW5zQzlxMll4SzBMTmluenZXeGczbUxMNDlFNlp3RmxXbkFlSXc0d2x1bXVDX3R2VG5DMkR3QmkyRTB1TzFPcmhkVExpSXp2T096NWw4VnJvVk5NUWxXZ2F0UnhZaFNVa1VUeFhUZFdJRW03eS01NHFMM21tV2o?oc=5
+**Fetched**: 2026-08-17T09:00:07.483497
+
+
+
+
+---
+
+## Wed, 12 Aug 2026 07:55:04 GMT — Former RBA governor dragged into KPMG scandal - SMH.com.au
+**Source**: https://news.google.com/rss/articles/CBMivgFBVV95cUxNLXJHNDUwQk0waUNPVW9ZLU1JdVhFaTF4a2VZU2otUTdJSjhKWDl1Z3NNN3IxbnR1eEhWSkZWcGpvX2pXOTBoRzE1bk5Tb19ud0Zkb25HMkZNU1VLVWVEb3BZNjlYRkZnTmdUSlFLOVdnaDRvLWN1SHpwVnFJdmtlVVpQOWd0TjRBUVA0Y1hGT2NzMzZNQkhXeFVpWlRCNDhMMFAtVlpKeW1KaUVkNjdDWjhZMGdfdXowMEd3SXl3?oc=5
+**Fetched**: 2026-08-17T09:00:03.599291
+
+
+
+
+---
+
+## Tue, 11 Aug 2026 01:42:00 GMT — KPMG general counsel, HR chief quit before Senate inquiry - afr.com
+**Source**: https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWm9xYVh3bXZZRF9FbGZyWWZhRGVGZW1kTVJTOUdTZlh2SU1VTFNfTjBDdWVicnVHaVM2YlU2eGU1QU1YZWY1NHZKRGs4dDFZU2FpdGJlT3NnY3R1N1BDWkh1TWxubWtRbnNaRXlvcnI0QXh2cTJ2VWRQVFBrUS1MZXhjQnBjczJzQXBQNFpJZU1WU2pLQlNadHgzb0Zwd0FQWUgtS0FqeUJ5azBoakdPYS0yVU1Ubm9odVVneVRuX2k5dw?oc=5
+**Fetched**: 2026-08-17T09:00:03.599643
+
+
+
+
+---
+
+## Thu, 13 Aug 2026 07:00:00 GMT — Macquarie seeks KPMG guarantee data was not misused to win bank audit work - Y100 WNCY
+**Source**: https://news.google.com/rss/articles/CBMimwFBVV95cUxNdDV1SU11em1yQnduMzhwNkhER3k0VmNaOFNwWnAwdTRMMzBsTVJMZ3lxT19xMUZYMUxIUVI3QkZGTDJ2Q2xHc2lBdFNPLU9ZWDRNVWNrQ09UY3RlQmM5OU4wb1RJZ19pdmQzZGhOZWRGREptaFU5Yk9Gd3FwYWlVMzItOVJBYzBIVkdIeDg1SEJ2MFgxVUkxUUhFRQ?oc=5
+**Fetched**: 2026-08-17T09:00:03.607846
+
+
+
+
+---
+
+## Thu, 13 Aug 2026 07:00:00 GMT — KPMG Faces Client Revolt After Audit Data Leak Scandal Rocks Australia - streamlinefeed.co.ke
+**Source**: https://news.google.com/rss/articles/CBMipwFBVV95cUxQVm9wcXJ2amhmY0w1M19vcUNfUmI4OTJXeXBFRVJYNmdUWGdjS1VjRllLeUZQemlVV0hRYnBENkZuSktoMWV1WlVkNmVEbWw2V2Rnd08xeEg5blhILVNkaG5NVkRZcHo1X1ZockhYLXlOLUJUNFhlQ1hzX3B1WEJVTmRUYUk3Mm1oV2JSbWJFbl8tZXdTdTNNckxMX21NTHB5VkdYYTliaw?oc=5
+**Fetched**: 2026-08-17T09:00:05.674663
+
+
+
+
+---
+
+## Wed, 12 Aug 2026 02:00:00 GMT — Professional Life: Five things to expect at KPMG’s Friday grilling - afr.com
+**Source**: https://news.google.com/rss/articles/CBMitgFBVV95cUxOY3lpbldHclU4NUs4dTJNbXlrenN1S1JsWnJZWHdadmFUeFdxelVLQ3FEbjdxNFBzRTgxLTU0aUx2Y25qbUU4UVROSzNQUGhFTTRUcTZENHVobEZveEFXUmMtaTRlSjYtc1FkOTdta1Z5cVVWaFNwYjVmbXF0OGpiOGZjWkhsQkRDREJmQnNNVkd5SHp0cTl3VFBIWG5nQ1owZFhnbGdUUV9ZMHBNTHZEMGQwRGlzdw?oc=5
+**Fetched**: 2026-08-17T09:00:03.599169
+
+
+
+
+---
+
+## Wed, 01 Jul 2026 07:00:00 GMT — Australia moves to split Big Four and tighten corporate oversight - Межа. Новини України.
+**Source**: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04andXU1hZTVZPRDNkaE9zQTFoZU9Wa0VoaHc1OE8xVU9xMHp5b0FXek5qclF0NU5kaFVnNm9vNEp1eFpZUUJ0WGloNUYzWlQ0Q1JUc040RGVicDZfdFVQblpjM0pfVDg?oc=5
+**Fetched**: 2026-08-17T09:00:11.385808
+
+
+
+
+---
+
+## Mon, 10 Aug 2026 04:32:00 GMT — ‘Naive, embarrassing, wrong’: KPMG chair eats humble pie - The Australian
+**Source**: https://news.google.com/rss/articles/CBMiigJBVV95cUxOUHFXR0R6ZEhFM2pBSjhEVkRDdmF6SlRPMnBQd2tMY1AwOGJOMGdTdnVaX0lWeC1sUWJaQVlDT3c0d0NyTDFjZzk3dEhCTlNZMVJSdkNKcElqLVRmWWtwS1hsT093UE0tSTR5a3pYcmFmcVN0QXpaSGxPLTJtc3pxSGlobmJHNElnZExvMll5bjA1TFNEUE00YVZ2RzlNUVNwRzBkVXBsRW1JUEJ0bjBlZFUzMFJVS0tnaVdXX1BNR1BTbkFPSnNVaEEtUTBzVXRTbmJsWnh0UG16cFNGS0txRWJFRVRvRklPc09mMWgwR2JWdEc5YXM3Nnp0SHEyYXozdlNtcV83Vl9pZ9IBjwJBVV95cUxPcWF1S1lzWGs0eGczSW1yOXVhM1BhX3RnRTU5Y0tGREd3STVWRFd6N3BCLWlQbVF1ZXFxM21DcE9RME5VQ0EtUVM1TVJjbGdMS01kb0NHV3c4bDNDZS1FNDZyX3R4RjgtOHY4V2NSYzFfQU9vdExMVjk2ajBRWnF0LWtvRFNlVVRtVGp2TzRsX2Roa3UtbTE3VDEtWkZYLXhnbUREeVZhdDIzUUwyREZJZXV3WlVjdk5MTDFVWi1BWkFuelR5bG5wVGExdVFLWGJMR1FZVFlpNTA5YU9jcXVrN3pBc1J1aU1RVmhFMUxSNDRUU2pQOTJrTXVIbEtSSFJCTFlVNVh5MFVoeG8xYTlZ?oc=5
+**Fetched**: 2026-08-17T09:00:10.663623
+
+
+
+
+---
+
+## Thu, 13 Aug 2026 22:00:01 GMT — Macquarie seeks KPMG guarantee data was not misused to win bank audit work - 95 KQDS
+**Source**: https://news.google.com/rss/articles/CBMingFBVV95cUxPOWRUcWpuTE1Nbi1PanEtenhwLUY2YnplYXp2NGJEb3drT2hJbTVENjlXZnRNbmdUR0pSM2tSZDdoSVpYZV9PYjc0ZDg5N2pNT01EZ3QyV2tUanM1cjIwaXZEUjA5czJsUll5ZVNRRlpzR3VTVDR4YmMzeGFmeXB1TXFudmpwOHZHOExGcXg0S0N4OGRkSWNlS0xfQkxwQQ?oc=5
+**Fetched**: 2026-08-17T09:00:03.605108
+
+
+
+
+---
+
+## Mon, 10 Aug 2026 09:05:00 GMT — Law firm cleared KPMG partners before all hell broke loose - The Australian
+**Source**: https://news.google.com/rss/articles/CBMilwJBVV95cUxPaUQ1QTdDNFZmVTdZQkJld3lsT0VQVXVNeTA5TDhkcFFFNlRobGVGbG1XN24zN1M1dnRTMFU5bTJoM0t3THlEajNmY01pdV9qcWoxRmsxai1sQlhFT3hCRGliR2p0OS1oYzB4QkRvcmlnNnFud1ZzSlJmNEQyLXlvWkgtVTFlVTBTXzNsMkd5WjJnbzF2MVdBLXM5UkVSdFZxZUQyMDZObndBZVY4dlpwdmYyQU1ZaE9ab1VZekVLV2hNUkFJMG1tM0VHbUthVm1Ga0VsbUVaQ1J2UElzTlZHbDRISXpUTVN3LWdkNXMxQS1nT2VIbTMwc29HOTVYQlYxaHdYOFM1N3VYUTc0NTdkYmRjcW5DTUnSAZwCQVVfeXFMT08ycXp3MXJURFNwc01BT0dEMlFaWE1yR1FmSEpMZjlKSG5hVXlVTzcxOXBkVTZsbWJvX0hVQXUxU1ZmcklnZkhWbktXZ2xBRTVMWmVFSUhBOGc0M3ZnN3ZzSzVhMHptX0k5d2U1eGFweDNkTkx5eGY1V3hRSTFKYkZ1YUV5ZmV5QVljVm5raHBKblJBbkVENGE2UHRqNndkd0hiZzFuMnNZX2h6TXYwM25Scl81Tk5oVW4zVkdWTkFOeFVSSVZPVFg3VDdoeW1HbHR5OUJKMlhvdVRZamVSSENHYlFxZml3cHhwOUd4NXU0QjBzOW9ROFBweE96VDhOZVlSQXBGMjJqcktpb2VEbW84YUdIZmFpRk1xVmE?oc=5
+**Fetched**: 2026-08-17T09:00:04.663942
+
+
+
+
+---
+
+## Fri, 14 Aug 2026 07:21:31 GMT — An email, a smiling emoji and the expulsion of a KPMG high-flyer - SMH.com.au
+**Source**: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNS0xJQ3k2ZTRsenJDbTU0ZjNxXzNzZVBwQ0h3NkF5NUNtVDhYb2plbUdzWW94TGZCUnRxUHNFd0JKZi16YjdMcWdsSWtzMDhJVE4xZHZFTk9zRzdnRGVQNVVJSzN5NTZiYlJhNlJjR0JTVmNMS18ydEFGZzkwWG1PUkpfaTU5VUQxSTJISG1LMFIyWHJXYVg0R0tzZkxld3hGUGtsTU9saVVKa1h1dVRKZjRXT3Jxb20tckgxbUVoVVhKVTRoM2pZZmgxajVlbldEWFE?oc=5
+**Fetched**: 2026-08-17T09:00:03.597520
+
+
+
+
+---
+
+## Mon, 10 Aug 2026 05:49:44 GMT — KPMG chair-elect admits to sending ‘naive, embarrassing and wrong’ email - SMH.com.au
+**Source**: https://news.google.com/rss/articles/CBMizAFBVV95cUxNQTRvWUdvM0JYVzJjdHZfVDN3eGFOVS10RkM1VldaYUxIRHM0M2dvN1l6Q1dUWl9STnNBRXNNZ1hkQXZZQi1faklLT0dlckhBX0JrUzJBck1mQ1dyVUFRdlRjcXlKdjlhaHNUUmhTQS1iSDdrWE9vQ3dtS29KLXh6X3FDNTVpUUNZek9vaDBCdVNVbWVlelpVb083aldzTC1FZ1NKYVFNUkE3ZGswa2xmbGlERFktaW5uRHVrQk1uSW9aUDFCOGxEX1RrcVM?oc=5
+**Fetched**: 2026-08-17T09:00:03.600709
+
+
+
+
+---
+
+## Sat, 15 Aug 2026 04:01:00 GMT — Five key takeaways from parliamentary hearings into client leaks at KPMG - The Guardian
+**Source**: https://news.google.com/rss/articles/CBMixgFBVV95cUxQWFJ4d05EeDQ0eEdtcmZlVUl5WnBXN0hCSWlHTnI3eUVBbVlJZE96cjE5MVBYRTZTcF9PWXR0UjlGcDluMEoxN2VNd1BJSmpmQjU0OHpNcnkwb3Z6STBTMlpjRG1lWVBicVh1dXZDSHBITzZKNVFjem5OR2JvVjU1VkN6c0tjOWtBZE80Q3Z5X2xVUkpZc1RyakZHRmlfdFRKUnNfeTMxSmplbU9PRGJfVzNZWjlMRmNjUnhvMHJwYnpweHA4NWc?oc=5
+**Fetched**: 2026-08-17T09:00:03.596805
+
+
+
+**Mentions**: Orgs: EY
+
+---

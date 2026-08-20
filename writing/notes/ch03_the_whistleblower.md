@@ -1551,3 +1551,148 @@
 
 
 ---
+
+## Tue, 11 Aug 2026 22:03:00 GMT — KPMG execs resign with $2m payouts ahead of whistleblower inquiry - The Australian
+**Source**: https://news.google.com/rss/articles/CBMi6gFBVV95cUxNc1BRX3BhNkF2VHFpS2lSV3UyRzAzZXdfQklaa2V1Skg2Vkp3UUFpMHVaM0h2Vk90OXRUb0d5Um90QmRCNm1Ic3o5V1NiTnBpMXVWZUNWNkZ4ZGlBd1FLM25SUzJtN3UwVjFWaDJSZTMweU96OTBaZmtuWHBkVUNiM2ZWRk9rd2pxQVV1NFl2TkxOc3FYUUZYNFVWYXhEVGtpRmhJZmp1OTNsTUhzMlpuQjY3cUtSZjFKRlJ3RWx6cHF3dkVmV3NyVnhLQ0dram9Pc1c1NEVORXFVNVAyN3Nsci1zbDRiSjRsQ3fSAe8BQVVfeXFMT1BOLUwtME9fU05ibHdNYjZSSFV5OWliaFZXTjVSeUY1ZkxSZFJCOWgtN0NpRFNieS1qekZzZDczR2JzbUY0QmtqdzdRU0F6SXU4UW9UdzkweWRhWmFaQmVpVjVpcGlJR2NMcW1nX2R0SXBfSVl5dFlVbVB1MV9zQ09tSHhObVNtNV9rM2JzTnZ6a3JBdXBKMFhtOWZfNnJVaHg3OWZPbW5pUzRzRnZYaThnS0hGN213OG9WLU4zRFVHZmVRLWk0T2lZY25VTmpkWlQtVkNXeW1EdEpSdlRnTlhxTFU2TVZld2oyanp5bDA?oc=5
+**Fetched**: 2026-08-17T09:00:03.598118
+
+
+
+
+---
+
+## Thu, 13 Aug 2026 22:44:05 GMT — Settlement payment to tax division whistleblower 'had no impact on investigations', says KPMG - Accounting Times
+**Source**: https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2dZaVBQU3FxcnRaYWdsSi05dEJIMHA1YW9qaEo4dUZ3ZElsT3EwS3l1c3d4dWhfT2tHQU5KeF9iREhkVmZTV0s4YjVIQ3F6UWZtVUcwT210WndtZ3V2LWJKcHRiaTNZVzBLS2xMb2c3RlRtaGlIaU0yYTZZRnJkZ2dWN3FVOEcxWmRsSmRrNU5uS0pXUjV1WWMwbktuVXd5TFBsOHloYXVwdDkzUWc?oc=5
+**Fetched**: 2026-08-17T09:00:03.597405
+
+
+
+
+---
+
+## Thu, 13 Aug 2026 21:00:43 GMT — KPMG Whistleblower Scandal: Unveiling Corporate Audit Failures - Devdiscourse
+**Source**: https://news.google.com/rss/articles/CBMitwFBVV95cUxPbWxSUVJ4RTlNU2NEd182VC1DQVdjUlp5NzNKdkZ3d3ZQSXlwMXMwRkVIQngwYWZ0eHF1eGl3VnFORzFQNVdleU5aZHhpNC1hTzNqNGVrQXpNc0g5RXBZLTFRZmlVS2Fwd0ZKSU9ZdllnYi12MG53WHZZNzVTM1lnakdFQjlYalhxOGg5ay1xR3NWTWdqem5YNUktWEoyck90MVlXVmNKNGY2bk80bE5wSC1NNzBIU3PSAbwBQVVfeXFMTktIRnllT2h2WGl1SGhSMmNXZ3dHVHJOeTVoYkNnUHZTc0pKM3JDUmswNW5Jck9XWEduSXd4X2hCWmJ4R09iaTFvMXB0Ull1S3lHOWQ4S0RvRmpCMm5XazBldDhoUEozM0YwRG1xVzJ6X3FBTXU0aE9nUmEwSmREME1iQ2Q5T0M1eEF3YmFnVVB0YThPRDV5Mkw1MmdtV1VkU01pWUVNbkFYem1maGdKTkNjanQtRFIyUkRGRzM?oc=5
+**Fetched**: 2026-08-17T09:00:03.605453
+
+
+
+
+---
+
+## Fri, 03 Jul 2026 07:00:00 GMT — New KPMG chairman draws fire over dismissive whistleblower email - hcamag.com
+**Source**: https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX0pFNngzVGFTQVlETkRxdHVFenQyVEx2ck5DTGNLcUFwMFlqeUtzRktDa0dxRkVYYjZOZTJvUk5ZYzJiRHFjRFd5SEpPQzNFU2cwaVdBY0laUm4wWnhRYlF5OUdpYkVsQzRGSF8xYzc3ZEFKUVp5aXlpMGwtSGV6Yll4VGZfZUR3bTZ6VHZJUWRwNVlaU0prU21xZnluaGtaREhBalp0dFpjR3d3UlNOWEJjNVZycFZ4cHJNM21lSVE?oc=5
+**Fetched**: 2026-08-17T09:00:07.488294
+
+
+
+
+---
+
+## Fri, 14 Aug 2026 06:58:55 GMT — KPMG Australia faces more whistleblower misconduct claims - rte.ie
+**Source**: https://news.google.com/rss/articles/CBMirgFBVV95cUxPRm5vTGRGUmwwcC1IQ2hvaU9pMUJ3WVYwUG9scnoyd190Z1NYY1VUQjVjODFQS0dvR0Z2bUY4TTRZbXBocE52TzktTUlUOWJEVzJULXFla1dWWl9MTEozWjZnVnFuakFUM3N3RzBwOUYwUW5DTGJMUlNFTURxV0xwXzI4bTgyTDNiTWxxcHZfUUVUZDNDb3JKQm5EcFlKZjdKZFlaSEl4TkdFcXlvSHc?oc=5
+**Fetched**: 2026-08-17T09:00:07.483777
+
+
+
+
+---
+
+## Tue, 11 Aug 2026 07:51:00 GMT — KPMG Withheld Information From Ashurst Perkins Coie in Whistleblower Investigation - Law.com
+**Source**: https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTWcyRE1FYmd6UDRrUkM2U3JndEhZQ2pLaHk1elZKVWZqLUZtN1NvSzJRWFRsSkZDTUJTeHdiQnI1c0JueF9lZ1FfUmRLdXdUWW1Db2NBejNWalFwTU1qd3ZxdnFRTGhHcHlldVQ2VVBkVmlVa0VwellYMGxqWXlzbmlsM1pGZzVPdE1rV1g0XzBXT3FUd2VzNExkRUZ0WnZqTkYwaHlmLUdBaTUtdkdiNDNyUHJsZlZONzhZSVVXQ01LaVNfclBiUFNBSWNxLUJRZEE?oc=5
+**Fetched**: 2026-08-17T09:00:03.602771
+
+
+
+
+---
+
+## Tue, 11 Aug 2026 20:54:27 GMT — KPMG chair apologises for labelling whistleblower allegations as false - Accountants Daily
+**Source**: https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYzRIaS01aW1vZmRxdERTMXd4X2VScGl5LVYzRklVNVZvQ0JBaElhb04zNXJwSnZIU2lIdUljWUtkeE92NFR5N1J4d2VabEE5NDIxZWZDTFZWUGxYaHFIRjlnR0kzZTRsaVVmSzdIUkNrYW9yQUJXMWZyVjcwNkt5RFprTXRHZFdlQjhuaGZhUXVtZElLY2QyZ0trRzRaVzQ0bEk3RnJEX1UwOFNDVFE2b1hRd2JlM2pxSmhaOEx0U24?oc=5
+**Fetched**: 2026-08-17T09:00:10.662880
+
+
+
+
+---
+
+## Wed, 12 Aug 2026 03:32:36 GMT — KPMG’s general counsel leaves as parliamentary inquiry over whistleblower scandal looms - Australasian Lawyer
+**Source**: https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbXdnWktaS0RldFktbWd2WXBYODBhOWRDX1p0MTVLWG83MjhSVTI1WjFKdzQ5TkMweTlaclhoZWxVZlFlWHc5d1JINGZXb3gtZE41VGpFWWxPZnVrSGlVclhKWVpnaHZMMWhlSjRXek1ub05VTlFzM1V5UmJHZkhBWXJvZlRNQU8weDNCMmwxZE1fLUQtTFNaOFMzcDJEMGZ1TDZTY1NDbmU2aV93VVpOTTRocl84WTE2UVZWMXJUQTNSTjNiYldPUkdYQ0RRdWlmWHU5LQ?oc=5
+**Fetched**: 2026-08-17T09:00:03.597782
+
+
+
+
+---
+
+## Sun, 16 Aug 2026 06:57:28 GMT — Whistleblower wins ruling to attack big four’s secretive partner shield - The Australian
+**Source**: https://news.google.com/rss/articles/CBMihAJBVV95cUxOQWdZRUE0ajU2NkZrMnJMM3BfbkEwWDFybFJLdG93aWJlblBldEJRaS1mUzhxb1ZlVXRJSzdKS1JuMzJ3VEJBVTVmMXA0NWVULVNwZlpHWjdKWV9Zd2VTUThFM1huTEF1aFVIWlhCblQ2T3lqVWU1T0MzejRwdmRwLXROUUVPX2NscTdpblJIeEZIR3NMME9qQWJGY3B0cGdUc1ZEdjM3NFgwT19rN0JlMHRrRFRqMnhULU04VXowaFF4VDlud1FXMGJXQjNJOWNZMmNvY0h1QmZ3TkM3U0N0VHNiZFpMYjYxYUVRamtjajhHZ2x6MWVsWlN5bEFWVG5fcFUyZNIBigJBVV95cUxQRUM0ZW96RTZlczZLTG5PeVpTaFhzZ2xRUl9WQ3VpWUFSZkNDTl9RcU8zOFByWGNXeUtoT2QySlEya01tRnNiT0dVd1c1RkxVSmJQVXYxYi05aUthcmtudVV5c092bEhmblJmRUFIX3Q3emttd3BHdHZHQTRjcnkwVmtOTG1DNVFEc3lseEoxNjUyclBqQnR3bzFGOVBQdnFKQVExNG4yY3htUUtXa3J6MGJFVlV6cERSNEU3bGFhVkEtRmxTbU5vYzJnci1vT3JjYmN0OTVvZmZPSFhTRnBDYjN2YWJUZGVkaHNqdXhfX3F6QlhFYURyTDM0alhtczM0RVJSaThFUExJdw?oc=5
+**Fetched**: 2026-08-17T09:00:03.597046
+
+
+
+
+---
+
+## Sat, 15 Aug 2026 02:08:04 GMT — KPMG Australia facing 'many more' whistleblower misconduct claims, parliamentary probe hears - Reuters
+**Source**: https://news.google.com/rss/articles/CBMiswFBVV95cUxPQjVfNVdORTk5dEFyekFEQ2JjRnpOZmlsaXJQbElTTWJrNjBwNEFfQnFpeVBGdlRteU9DVHJUem1UdTRxa3lMazlqWVZSN1E1R2pEYTR3a2tkazNHTEkwMVRLZFpqS0d5SXB3NlppWVV3MU02Vi1ZV0ZPUHZOUnlaZThlWTZQdmpCRldDY0RGTUpDWUhxRDVMSF9WYUNrM1g3YlpGcHBhcElpOTN0VE1CUGdSaw?oc=5
+**Fetched**: 2026-08-17T09:00:03.596671
+
+
+
+
+---
+
+## Wed, 12 Aug 2026 10:00:00 GMT — KPMG paid more than $500,000 to tax division whistleblower - afr.com
+**Source**: https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTUtoUGVSNlVSY3otX05zOFBGd1JxM1U2NTZrUXRNSkxjdG9SVXdmdldTXzViVzhZUjZNQU9WcVZBSURWLUhfMWM5UjJuNW82bnlQRVZPaW5VX09zQzcyd2RXMmVDS1VmQkxlTWY3bm9YV1BRN0xjcU5NXzNlbFB2NG44NVZiS2FIWTVpT3NZQzR2d2hsUjhLQjdIWFBYQml1R1lTRWVlUTBNSEk0QktDVnViZkZsYUJxNWpnb3AwWkR2dm8?oc=5
+**Fetched**: 2026-08-17T09:00:07.483206
+
+
+
+
+---
+
+## Thu, 13 Aug 2026 23:02:00 GMT — KPMG scandal: ‘Many more whistleblowers’ incoming as email blows open allegation denial - The West Australian
+**Source**: https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZXNkMTYwZmY5bmpNOEVHWHMtVjVoaEVoMWlfdFRqVHpRMmlNN2FaTGlSWGdUV01RNHhRdGRudVhMOE1zSUc2aXJrTjgzak05UlVnSVhnWjNibmRXOUdRN1M5ZWcwWGl2R2FiMjhKT2ZnUy00dWtUTHhlSGIySFp0R2lRWGZEMFoxai1neXZ1REJSQUo1Q3lQelJTWkpqMFVEYURJQkxwc3FCR29YeGdfVGoyaXFQVWFWVHpnLXdIVlh4R2FXR3B4VERGQ0N5LTVq?oc=5
+**Fetched**: 2026-08-17T09:00:03.599768
+
+
+
+
+---
+
+## Thu, 23 Jul 2026 07:00:00 GMT — AirTrunk ‘comfortable’ with KPMG switch as emails reveal whistleblower concerns - Capital Brief
+**Source**: https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRkZEX0Z3Y2N0Nlp6S0U3ZkpYS240cnNnTTBnX1E5REg0YWpNODYyTFZIQ3ZLbjI0VncyM2pTaGF4cFJnM2VqamxrYS11TEMyV09jUnpOZ0MySVN1OE5ERE55UFRQYVhiVE1jWTR1X0NXT0xQQjlubHgyNThvbVh1aE94ZXowX0szQ0dUVmtZdXNmMF8wYjlodTJqaDNPUndUUndlMGxKQUZPWXVrc1VjWXBlZ2RmZ3JwSTNWVDZhd05ldl9HX1g1QWNEWGRCdlJEdm43dFdGSmJtTHhjWmZKQ3hRc1V2OGM?oc=5
+**Fetched**: 2026-08-17T09:00:03.604574
+
+
+
+
+---
+
+## Fri, 14 Aug 2026 05:37:06 GMT — KPMG Australia's Whistleblower Storm: Unfolding Scandals - Devdiscourse
+**Source**: https://news.google.com/rss/articles/CBMiswFBVV95cUxPSmxDODBHbmpOY0hma0JjMS1KbG9qckJwdEwxWU5vSDhFU182ckhya3otcUJobWJJSlZ0dlhoblRFLVRBdTl3QUpBcm9PVWgtTlFTRUVRb3RqQlFKNVRDWHdoc1BtcFV4dmF3VWJMZWowaV8taVVUMkJBWkVDOGROeWRENTRHYUFCQ2EwWlJaeVFTeUFZWktqTHlqZVNtYnM2N2tXLUo4SmczVUxnNEFWbXUzVdIBswFBVV95cUxPSmxDODBHbmpOY0hma0JjMS1KbG9qckJwdEwxWU5vSDhFU182ckhya3otcUJobWJJSlZ0dlhoblRFLVRBdTl3QUpBcm9PVWgtTlFTRUVRb3RqQlFKNVRDWHdoc1BtcFV4dmF3VWJMZWowaV8taVVUMkJBWkVDOGROeWRENTRHYUFCQ2EwWlJaeVFTeUFZWktqTHlqZVNtYnM2N2tXLUo4SmczVUxnNEFWbXUzVQ?oc=5
+**Fetched**: 2026-08-17T09:00:03.607978
+
+
+
+
+---
+
+## Thu, 13 Aug 2026 21:00:00 GMT — KPMG Australia facing 'many more' whistleblower claims | Gulf Times - Gulf Times
+**Source**: https://news.google.com/rss/articles/CBMipgFBVV95cUxPQTNpVnV4T1kyRmhTTW1HMmhjZVpoemRzVERjcUlwaDR4YTlQSmRqNHFuS29hMk1uQUc4bmo1bDF2VjZsRjJ0SXo0ZE1PRUZqUktzMldTQWZUSjJiaDkzZDVLQnJCQ3ZpZ19qeDA5UkNIY3NyVmZrS3FwVEtRSHNZeWhrMkl2czRPVU5iLUlaSjlwYTROcW9uYTZBSWlFYkZaY0tmZTVR0gGrAUFVX3lxTE9TSkFxYVJtNncyQ3prb3RGTXVQaXRTTnM4UFJMY2RxaFFKVFdBdU9IV2ViY1hCN0hlYi1wQ1NLSmJ0TnF4R2dJbk9faDJjbWc4TjlmRGVkZ0YyYldGZjdCVWtlSElYdU1mWmFLVTMzS001QmM3LVpZLWt3WDBERFhoY3ZzZmQ4XzhEdEIta09fbkJMaEg2bTNyV2VoWTVRakZULXRMU0ZHZnBCVQ?oc=5
+**Fetched**: 2026-08-17T09:00:10.663919
+
+
+
+
+---
+
+## Fri, 29 May 2026 07:00:00 GMT — KPMG Australia CEO Andrew Yates Resigns Amid Whistleblower Scandal - Cost Structure Review - dars.gov.et
+**Source**: https://news.google.com/rss/articles/CBMirwFBVV95cUxQeF9fRmVtMjExU3Z1M1VoNTJSVmJUQXotQUwtbWhzZjhQekNhM0lWTFNfVDRRVU5nNXkzWVZwTXZGaWFUbjFDSmtyWmxoZnhPSWIzWU9WMURrYmFlWlk2OHFLaTFSc29vTDJ1WEdKUnlNWVpfOGFUX1dTZThWSTJWQ0std2I5UVMyLWRZTWxiM1lpcE9SUjEwc0p4R0QwN0drelN3ZHhXN3IzemtGT0kw?oc=5
+**Fetched**: 2026-08-17T09:00:05.674463
+
+
+
+**Mentions**: People: Andrew Yates
+
+---
