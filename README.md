@@ -30,7 +30,7 @@ Work in progress. All chapters have substantive drafts, written in the open from
 | 9 | [ASIC Enters](chapters/ch09-asic-enters.md) | draft v0.2 |
 | 10 | [The Government's $27.4M Problem](chapters/ch10-the-governments-27.4m-problem.md) | draft v0.2 |
 | 11 | [The Limited Liability Shield](chapters/ch11-the-limited-liability-shield.md) | draft v0.2 |
-| 12 | [The Billing Fraud Whistleblower](chapters/ch12-the-billing-fraud-whistleblower.md) | draft v0.1 |
+| 12 | [The Billing Fraud Whistleblower](chapters/ch12-the-billing-fraud-whistleblower.md) | draft v0.2 |
 | 13 | [Epilogue: The Fire Sale](chapters/ch13-epilogue-the-fire-sale.md) | draft v0.2 |
 | 14 | [Optus Data Breach](chapters/ch14-optus-data-breach.md) | draft v0.1 |
 

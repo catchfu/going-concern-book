@@ -1,6 +1,6 @@
 # Chapter 12 — The Billing Fraud Whistleblower
 
-*Status: draft v0.1*
+*Status: draft v0.2*
 
 The KPMG affair had two whistleblowers, and this book has so far told only one story. The first — the former audit director whose complaint exposed the Lendlease breach — triggered the resignations, the ASIC probe, and the political crisis. The second was a whistleblower with a different allegation entirely: not about confidential documents, but about money. The claim was that KPMG partners had billed clients for work that had not been done — inflated hours, fictional hours, charged to an insurance client in a pattern that the whistleblower described as endemic.
 
@@ -30,6 +30,10 @@ The billing allegations matter for reasons beyond the specific claim. They expla
 
 They also matter because they test the limited liability shield described in Chapter 11. Billing clients for work not performed is not professional negligence; it is, if proven, fraud. And the professional standards caps that protect partners from negligence liability were never designed to protect fraud. If the billing allegations are proven, the shield may not apply — and the partners involved could face personal liability, criminal consequences, or both.
 
+## August: the denial undercut
+
+The August hearing did not centre the billing allegations, but it did undercut the firm's prior denials in a way that left the claims very much alive. The Australian's 14 August coverage noted that "most of those allegations have since proven true" against KPMG over the audit whistleblower — language that cast a pall over the firm's insistence that the billing claims were similarly unsubstantiated. Deputy counsel James McClelland's admission that his investigation had been "fundamentally undermined" by partners who were "misleading, if not directly deceptive" — testimony given as the committee simultaneously examined a second, tax-division settlement disclosed as "larger than $500,000" — confirmed that the firm's first reflexive response to each complaint had been to investigate the complainant rather than the complaint. Whether the billing files are ever produced remains an open question; the posture of the defence does not.
+
 ## The state of the evidence
 
 At the time of writing, the billing fraud allegations remain exactly that: allegations. No public finding has been made. The whistleblower's account has been reported, the firm has denied wrongdoing, and the documents that would resolve the matter are in the firm's hands. This chapter records the allegation as it stands, and flags it as one of the most consequential open questions of the entire affair — because if the billing claims are proven, the KPMG scandal is not only a story about confidentiality and surveillance, but a story about the criminal economics of the big four.
@@ -38,6 +42,7 @@ At the time of writing, the billing fraud allegations remain exactly that: alleg
 
 - Research: `research/evidence_map.md`; `writing/notes/ch03_the_whistleblower.md` ("Blows my mind: KPMG's whistleblower issues collide"); `writing/notes/ch00_general__unclassified.md` (Defence overcharging items)
 - Key reported items: "Consulting firm KPMG overcharged Defence while raking in billions of dollars, whistleblowers say" (ABC, 7 Aug 2023); billing fraud allegations by a second whistleblower re: an insurance client (2026)
+- August 2026: "most of those allegations have since proven true"; McClelland "fundamentally undermined"/"misleading, if not directly deceptive"; "$500,000+ tax-division settlement" (The Australian, 14 & 19 Aug 2026)
 
 ## Open questions
 

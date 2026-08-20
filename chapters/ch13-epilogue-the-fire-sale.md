@@ -26,7 +26,11 @@ The wider question was not whether the agencies would survive without KPMG, but 
 
 ## The exodus ahead of the hearing
 
-The fire sale of assets was matched by a fire sale of people. In the days before the parliamentary hearing of 14 August 2026, KPMG's senior ranks thinned again. The Australian reported on 11 August that KPMG executives had resigned with $2m payouts ahead of the whistleblower inquiry; the AFR reported the same day that the firm's general counsel and HR chief were quitting ahead of the Senate inquiry, and Accounting Times counted two more senior executives departing. hcamag set the HR chief's departure in the context of a wider "leadership exodus." The firm that had begun the year with its leadership intact went into its Canberra reckoning with its legal, human-resources and operational ranks depleted — and with the payout figures themselves entering the public record as evidence of what the firm's discretion had cost.
+The fire sale of assets was matched by a fire sale of people. In the days before the parliamentary hearing of 14 August 2026, KPMG's senior ranks thinned again. On 11 August, The Australian reported that the firm's general counsel, Louise Capon, and its head of human resources, Dorothy Hisgrove, were stepping down suddenly — Capon having overseen the internal investigation the committee was still demanding. The AFR tied the pair's departures to the coming Senate inquiry, and Accounting Times counted two more senior executives departing; hcamag set the HR chief's exit in the context of a wider "leadership exodus."
+
+The scale of the cull became clear after the hearing. On 19 August, The Australian reported that KPMG had begun its "brutal cull" — "conversations" with 50 partners that week, with 450 client-facing staff expected to be axed the following week, confirmed by chief executive John Sams in a partner email that "no final decision had been made on staff numbers." In a cruel twist, none of those expected to go would be from the audit or tax teams — "it needs them on deck to retain clients" — and the same article disclosed that the whistleblower's executive payouts, reported separately, had reached $2m apiece ahead of the inquiry. The firm that had begun the year with its leadership intact went into its Canberra reckoning with its legal, human-resources and operational ranks depleted — and with the payout figures themselves entering the public record as evidence of what the firm's discretion had cost.
+
+The cull sat on top of a financial squeeze that the scandal had made plain. The Australian reported on 19 August that KPMG Australia was carrying borrowings of $557 million — "record high personal borrowings accrued under former chief executive Andrew Yates" — and that the revenue cliff from the scandal landed on top of that debt, forcing the firm to go "cap in hand to KPMG International seeking financing." Clients and government departments were reconsidering some $442 million of contracts with the firm; the Australian Financial Review reported the debt figure equates to roughly $814,000 of personal liability per partner, "a surprisingly large figure" in a firm built of people rather than plant.
 
 ## What remains of KPMG Australia
 
@@ -40,11 +44,13 @@ The post-hearing commentary had already begun to widen the lens. The AFR's verdi
 
 - Research: `writing/notes/ch13_epilogue_the_fire_sale.md`; `research/evidence_map.md`
 - Key reported items: "Vultures circling embattled KPMG: $1 offer to buy defence unit" (The Australian); "Agencies forced to contemplate life after KPMG" (The Mandarin); Capgemini deal terms ($1 + ~$200m entitlements); PJC defence scrutiny
-- August 2026: "KPMG execs resign with $2m payouts ahead of whistleblower inquiry" (The Australian, 11 Aug 2026); "KPMG general counsel, HR chief quit before Senate inquiry" (AFR, 11 Aug 2026); "2 more senior executives depart KPMG" (Accounting Times, 11 Aug 2026); "KPMG's HR chief to step down amid leadership exodus" (hcamag); "KPMG is radioactive. But probe also exposes clubby corporate Australia" (AFR); "KPMG needs more than another apology" (AFR)
+- August 2026: "KPMG axes 500 partners and staff after audit scandal" / "KPMG axes 500 staff, spares audit culprits" (The Australian, 19 Aug 2026); "KPMG begins brutal 500 jobs cull" (The Australian, 19 Aug 2026); GC Capon + HR Hisgrove step down (The Australian "Louise Capon quits", 11 Aug 2026); $557m borrowings / $814,000-per-partner liability / "record high personal borrowings under Yates" / $442m contracts at risk / "cap in hand to KPMG International" (The Australian, 19 Aug 2026)
 
 ## Open questions
 
 - Final terms and completion of the Capgemini transaction (Tier 4 gap 4.4)
+- Whether the 50-partner/450-staff cull extends beyond the August round, and how many partners accept exit packages
+- The precise financial stress signal: whether KPMG breaches its NAB/DBS revenue covenants and what International's financing conditions are
 - What happens to KPMG's other practices — insolvency unit (Kroll interest reported), advisory, audit
 - Whether the PJC approves or blocks the defence sale, and on what conditions
 - The fate of the firm's remaining government work once the September 2026 federal freeze ends
