@@ -6,6 +6,8 @@ The board papers of Lendlease, one of Australia's largest property and infrastru
 
 The allegation at the core of the scandal was precise. KPMG audit partners, the complaint said, had accessed confidential Lendlease board papers and used them in rival proposals involving Macquarie Group, Westpac, and Dexus. The Westpac allegation was the first to be admitted. In May 2026, the AFR reported that KPMG had admitted a partner used confidential Lendlease files in the Westpac pitch. The next day, The Australian reported that partners had been sanctioned after KPMG admitted to the "Lendlease board snoop." A partner admitted to "inappropriate access to documents in procurement of a major Westpac contract," as Accounting Times put it.
 
+![How Lendlease board papers allegedly travelled into rival pitches](../assets/breach.svg)
+
 ## The Westpac pitch
 
 The Westpac contract was one of the most valuable audit mandates in Australia. Westpac had been preparing to move its external audit from PwC, and the audit pitch process — a high-stakes competition among the big four firms — was the point at which the confidential documents were used. According to the whistleblower's account and subsequent reporting, KPMG's pitch team, armed with Lendlease's board papers, set out the arguments for why KPMG could handle a bank of Westpac's size. The misuse of Lendlease data, if proven, would have given KPMG an unfair advantage not merely in the Westpac pitch but in the entire market for large-cap audit work.

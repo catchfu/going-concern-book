@@ -5,7 +5,7 @@ No native binaries required: uses the already-installed `markdown` and
 `reportlab` libraries. Run from the project root:
 
     python automation/build_pdf.py
-    # -> writes dist/book.pdf and dist/book.html
+    # -> writes dist/book.pdf and exports assets/*.svg for the web edition
 """
 import os
 import re
@@ -17,10 +17,13 @@ from reportlab.lib.pagesizes import A4
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.lib.units import mm
 from reportlab.lib import colors
+from reportlab.lib.enums import TA_CENTER
 from reportlab.platypus import (
     BaseDocTemplate, PageTemplate, Frame, Paragraph, Spacer, PageBreak,
 )
 from reportlab.platypus.tableofcontents import TableOfContents
+
+import book_graphics as bg
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CHAP_DIR = os.path.join(ROOT, "chapters")
@@ -44,6 +47,19 @@ LICENSE_LINES = [
     "https://creativecommons.org/licenses/by/4.0/",
 ]
 
+# Figures: chapters embed ![alt](../assets/<key>.svg); the builder maps the
+# filename to a vector drawing from book_graphics and prints the alt as caption.
+GREY_RGB = colors.HexColor("#6B6B70")
+
+
+def figure_flowables(draw_fn, caption, styles, number):
+    """A vector figure from book_graphics plus its numbered caption."""
+    d = draw_fn()
+    return [Spacer(1, 10), d, Spacer(1, 2),
+            Paragraph(html.escape(f"Figure {number}. {caption}"),
+                      styles["FigCaption"]),
+            Spacer(1, 10)]
+
 
 # --- markdown -> reportlab flowables --------------------------------------
 
@@ -62,6 +78,11 @@ def inline_to_markup(el):
         out.append(html.escape(el.text))
     for child in el:
         tag = TAG_MAP.get(child.tag, child.tag)
+        if tag == "img":
+            # images are handled at block level; keep only surrounding text
+            if child.tail:
+                out.append(html.escape(child.tail))
+            continue
         if tag == "a":
             out.append(f'<a href="{child.get("href", "")}">')
             close = "</a>"
@@ -102,7 +123,12 @@ def blocks_from_html(html_text, styles):
             txt = strip_inline(el)
             yield ("h%d" % lvl, txt)
         elif el.tag == "p":
-            yield ("p", inline_to_markup(el))
+            imgs = [c for c in el if c.tag == "img"]
+            if imgs and not strip_inline(el).strip():
+                # a standalone image: hand it to the figure machinery
+                yield ("img", imgs[0].get("src", ""), imgs[0].get("alt", ""))
+            else:
+                yield ("p", inline_to_markup(el))
         elif el.tag in ("ul", "ol"):
             for li in el:
                 if li.tag != "li":
@@ -150,19 +176,23 @@ class NumberedDoc(BaseDocTemplate):
         super().__init__(path, pagesize=A4, **kw)
         frame = Frame(self.leftMargin, self.bottomMargin,
                       self.width, self.height, id="normal")
-        self.addPageTemplates([PageTemplate(id="all", frames=[frame])])
+        self.addPageTemplates([PageTemplate(id="all", frames=[frame],
+                                            onPage=self.on_page)])
 
     def on_page(self, canvas, doc):
         page = self.page
-        if page > 1:
-            canvas.saveState()
-            canvas.setFont("Helvetica", 8)
-            canvas.drawRightString(
-                self.pagesize[0] - self.leftMargin,
-                self.bottomMargin / 2,
-                str(page),
-            )
-            canvas.restoreState()
+        if page == 1:
+            # full-bleed cover art, drawn straight onto the page
+            bg.cover().drawOn(canvas, 0, 0)
+            return
+        canvas.saveState()
+        canvas.setFont("Helvetica", 8)
+        canvas.drawRightString(
+            self.pagesize[0] - self.leftMargin,
+            self.bottomMargin / 2,
+            str(page),
+        )
+        canvas.restoreState()
 
 
 def build_chapter_story():
@@ -180,16 +210,14 @@ def build_chapter_story():
                               leftIndent=18, bulletIndent=6, firstLineIndent=-6))
     styles.add(ParagraphStyle(name="SmallNote", parent=styles["BodyText"],
                               fontSize=9, leading=12))
+    styles.add(ParagraphStyle(name="FigCaption", parent=styles["BodyText"],
+                              fontSize=8, leading=11, textColor=GREY_RGB,
+                              alignment=TA_CENTER))
 
     story = []
 
-    # --- cover ---
-    story.append(Paragraph(TITLE, styles["Title"]))
-    story.append(Spacer(1, 12))
-    story.append(Paragraph(SUBTITLE, styles["Hdg2"]))
-    story.append(Spacer(1, 18))
-    for line in LICENSE_LINES:
-        story.append(Paragraph(line, styles["SmallNote"]))
+    # --- cover: full-bleed art drawn by NumberedDoc.on_page on page 1 ---
+    story.append(Spacer(1, 1))
     story.append(PageBreak())
 
     # --- table of contents ---
@@ -208,14 +236,26 @@ def build_chapter_story():
     for idx, label in enumerate(toc_entries, 1):
         story.append(Paragraph(html.escape(label), styles["BodyText"]))
         story.append(Spacer(1, 4))
+    story.append(Spacer(1, 24))
+    for line in LICENSE_LINES:
+        story.append(Paragraph(html.escape(line), styles["SmallNote"]))
     story.append(PageBreak())
 
     # --- chapters ---
+    fig_no = 0
     for idx, path in enumerate(CHAPTERS, 1):
         with open(os.path.join(CHAP_DIR, path), encoding="utf-8") as fh:
             text = fh.read()
         html_text = mdlib.markdown(text, extensions=["extra", "sane_lists", "tables"])
         for b in blocks_from_html(html_text, styles):
+            if b[0] == "img":
+                _, src, alt = b
+                key = os.path.splitext(os.path.basename(src))[0]
+                draw_fn = bg.FIGURES.get(key)
+                if draw_fn is not None:
+                    fig_no += 1
+                    story.extend(figure_flowables(draw_fn, alt, styles, fig_no))
+                continue
             f = flowable_for(b, styles)
             if isinstance(f, list):
                 story.extend(f)
@@ -227,6 +267,8 @@ def build_chapter_story():
 
 def main():
     os.makedirs(os.path.join(ROOT, "dist"), exist_ok=True)
+    exported = bg.export_assets(os.path.join(ROOT, "assets"))
+    print("SVG assets ->", ", ".join(f"{n}.svg" for n in exported))
     story, styles = build_chapter_story()
     pdf_path = os.path.join(ROOT, "dist", "book.pdf")
     doc = NumberedDoc(pdf_path, title=TITLE, author="Going Concern")

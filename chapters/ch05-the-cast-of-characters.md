@@ -4,6 +4,8 @@
 
 Every scandal is, in the end, a story about people — people who made decisions, people who looked away, and people who refused to stay silent. The KPMG affair had all three in abundance. This chapter introduces the principal figures whose lives and careers collided in 2026.
 
+![The cast at August 2026: who has gone, who is in charge, where the pressure sits](../assets/cast.svg)
+
 ## Andrew Yates — the CEO
 
 Andrew Yates had been KPMG Australia's CEO since 2016, a company veteran who had risen through the ranks and, in the firm's own telling, embodied its values. He had extended his term for a further three years in March 2024, at the very moment the whistleblower's complaint was being investigated internally. When the scandal broke, Yates resigned on 29 May 2026 — days after the whistleblower's allegations became public and weeks after the firm's admission of the Lendlease breach. His resignation was presented as accountability for the mishandling of the complaint, not for the underlying conduct. In his final public appearances before the committee — the "Senate reckoning" the AFR had anticipated — Yates defended the firm's processes while conceding that the outcome had been wrong.

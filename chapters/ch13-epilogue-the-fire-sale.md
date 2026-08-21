@@ -6,6 +6,8 @@ Every chapter of this book has described a falling firm: the breach, the resigna
 
 The $1 deal is the most brutal symbol of the affair. A business unit that had been worth hundreds of millions of dollars — KPMG's defence and national-security consulting practice, a crown jewel of the firm's government work — was to be transferred for a dollar, with the purchaser taking on the unit's liabilities. The price was not a valuation; it was a disposal. KPMG was paying to be rid of a business that had become unsellable at any real price, and that had become a liability to the firm's survival.
 
+![The scoreboard at August 2026](../assets/scoreboard.svg)
+
 ## Vultures circling
 
 The Australian's reporting captured the mood of the market: "Vultures circling embattled KPMG: $1 offer to buy defence unit." The metaphor was apt. The collapse of a big four firm's reputation is not an event but a process, and in that process the firm's assets become prey. The defence unit — a practice built on security clearances, long-term government relationships, and specialised expertise — was the most valuable thing KPMG still owned, and the most compromised. Its clients were government agencies that were, at the same moment, being told by their own ministers that KPMG was no longer acceptable.

@@ -6,6 +6,8 @@ Behind the scandal's drama of resignations and parliamentary hearings sits a str
 
 This chapter is more legal than narrative, because the stakes are legal. When the whistleblower's complaint was dismissed and surveilled, when Lendlease's board papers were leaked into rival pitches, and when confidential Optus information was misused, the question that followed each revelation was the same: who is liable, and how much can they be made to pay?
 
+![The limited-liability shield, layer by layer, and the challenges against it](../assets/shield.svg)
+
 ## The professional standards regime
 
 Australia's professional liability regime is a product of the late 1990s and early 2000s, when a crisis in professional indemnity insurance threatened the viability of the professions. The solution was a bargain: the professions — including accountancy — would submit to statutory oversight of their professional standards, and in return, their members' liability would be capped. For accountants, the effect is that a firm's liability for professional negligence is limited — often dramatically — by the amount of insurance the firm is required to hold, rather than by the scale of the damage its negligence caused.

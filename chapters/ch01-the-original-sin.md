@@ -8,6 +8,8 @@ The Partnership Act of 1892, a New South Wales statute drawn from English law, d
 
 A century later, the discipline was gone, but the form remained. What replaced unlimited personal liability was a confection of statutes and professional rules: the Professional Standards Act, state-based limited liability partnership regimes, and the mutual-holding companies that sit above the brand names. Partners stopped being exposed and started being shareholders in a corporate shell. The risk of catastrophic loss was socialised to clients and, ultimately, to the public; the profits remained private. When The Australian's black hole investigations and AFR reporting began to map this architecture, the phrase that kept recurring was "moral hazard by design."
 
+![The affair on one page, 2024 to August 2026](../assets/timeline.svg)
+
 ## Regulation by moral suasion
 
 The Wallis inquiry of the 1990s examined Australia's financial system but declined to impose meaningful structure on the accounting firms. The result was a regulatory regime that the profession itself largely wrote. Auditors were, and remain, "registered company auditors" — accredited by a professional body, CA ANZ, which also represents their commercial interests. The regulator, ASIC, holds a jurisdictional line that stops at the individual auditor's conduct, not the firm's culture. Firms regulate themselves, investigate themselves, and, as the KPMG saga would show, sometimes overrule their own investigators.
