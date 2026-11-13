@@ -27,3 +27,43 @@
 **Mentions**: People: Eileen Hoggett
 
 ---
+
+## Thu, 03 Sep 2026 01:41:00 GMT — KPMG Australia ex-COO Eileen Hoggett sues firm - Capital Brief
+**Source**: https://news.google.com/rss/articles/CBMivwFBVV95cUxNNG45ZXJid08wcS1icmxhR0Vja09DNXNYZk9qVy02TTBJX0tRdzJqZm9FU1huMXAwZ2VvdE1QWEJmSXZDY3NiQ1FCX1dndmRNMUxGQ2l5b21uemctOUZ6ZDdrajg3WmNJTzB2VmJJcDhlRE41WkhqUGs5dWlYcDFWR3A1M0lEYlcxdGJpSTFTWFNjSTNobXJOVzJ0NGI4Y2VqU1JGMEZMc2xPNC1lQXpDOWppWVpfdi16SHk0Ti1STQ?oc=5
+**Fetched**: 2026-09-07T09:00:03.304593
+
+
+
+**Mentions**: People: Eileen Hoggett
+
+---
+
+## Thu, 03 Sep 2026 07:35:00 GMT — Sacked KPMG exec Eileen Hoggett sues firm - The Australian
+**Source**: https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNHJDT2xjX3dWS19kZDBDZk10eUJ5MDhacXk3cl9yOWpWbG4tSVA4dEx0X3JqRVI4NlhneWF3NUR6bkJnRk1EZU1KaUV2TmRuemRnenFmbzJydjhIa0FmRmdDSi0tUTh4ZEdzOFRRajF3bkRXTmhyS3NWTFcybC1uQ3JCOHREYzhxRURuNUJFay1NTFZzTVRlS21OLUR1QkRXYlRhNWpLQ0JFX0I1VDJmdDdydThEN3NROWd4RG0yVWs2WFhIU2tWS3Q2WjBVYWxXUjVoU2dicHJJOWFIWGfSAeMBQVVfeXFMTlVaSFVYRU1UMlF5NXNLZ0hldTRadzd1Rm0zLTh3Z0tEaHQ1ZHNKRjRjMHhvbmpVZXhFaHJYb3I3b0dqVjRhcU9vUE5pZWVtOS1ubE9VTnFUZEJWXzJ2TDh4UkpTOUY5WGtQQXZYOExDQzBkcExQTEY0ZVpGc2xid0IxQ3I5N3doRVlBN1I1MVpWZTB2ZW5NTm5wbHZoRVRLV3lGamd6aWtKQU5ZWlhWWVl2dzk3bnVlM3ZxVUpITDFXNERraV9iU2w4Z25tbnlLa0JWT3NmazFfckFMWGdySlh2eGM?oc=5
+**Fetched**: 2026-09-07T09:00:03.304086
+
+
+
+**Mentions**: People: Eileen Hoggett
+
+---
+
+## Thu, 03 Sep 2026 07:00:00 GMT — Sacked KPMG exec Eileen Hoggett sues firm - The Daily Telegraph
+**Source**: https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeC1IbHZjM05OWDRMMW53dGx3VzF3dzMyN1otQkVCZDJ0SmNlOENrUlc0MXBCQ3RZVzhuRnBiV3BEcW11MFExTVVVU2ZUeF9FeEdtQnRzMVNhY1hkSV80SUMtWHI2Z1lYTm95YkVnU2FRQW9INXQ5cHRCY1ZLOHJvRzc5NC1vREhpTzVKNjBFY3FiaXVLbndGTHY4Ymh4UktQaHdsbDRsUDdVMEtaeE8tWkxtSHhVazVEVlFEY3hyenUyRTl2d1VBU1lPcm5OVzkyZE5pNkQycllLdVdFVG1V?oc=5
+**Fetched**: 2026-09-14T09:00:04.378592
+
+
+
+**Mentions**: People: Eileen Hoggett
+
+---
+
+## Thu, 03 Sep 2026 07:00:00 GMT — Sacked KPMG exec Eileen Hoggett sues firm - The Australian
+**Source**: https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNHJDT2xjX3dWS19kZDBDZk10eUJ5MDhacXk3cl9yOWpWbG4tSVA4dEx0X3JqRVI4NlhneWF3NUR6bkJnRk1EZU1KaUV2TmRuemRnenFmbzJydjhIa0FmRmdDSi0tUTh4ZEdzOFRRajF3bkRXTmhyS3NWTFcybC1uQ3JCOHREYzhxRURuNUJFay1NTFZzTVRlS21OLUR1QkRXYlRhNWpLQ0JFX0I1VDJmdDdydThEN3NROWd4RG0yVWs2WFhIU2tWS3Q2WjBVYWxXUjVoU2dicHJJOWFIWGc?oc=5
+**Fetched**: 2026-09-21T09:00:04.068332
+
+
+
+**Mentions**: People: Eileen Hoggett
+
+---

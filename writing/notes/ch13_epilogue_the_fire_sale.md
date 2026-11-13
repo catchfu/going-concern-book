@@ -16,3 +16,12 @@
 
 
 ---
+
+## Fri, 11 Sep 2026 07:00:00 GMT — ‘I smell a rat’: Greens decry KPMG defence deal amid federal contract ban - Accounting Times
+**Source**: https://news.google.com/rss/articles/CBMitwFBVV95cUxQSWFzb0lYb2JqcXF5X2phamRwV2I1UHBxdl80UnAwS2tZTUtld2EwVm9Qc2hzWFFYclR3bVBabUcyTFdnVGw1WHJNYi1KSGdjYU5ZQV9BVXNzdEJvdERMZTA2Q2Q1d0x2NDZMZmRJc0RnUThQc0sySDdiTU9QcG9tNDgySjV6UndaRWo5UmZBaENETEFfYnA4OVV0VFFFemkwRTFyY2dqek5STzlYd0lfLUZfQ2tUa2s?oc=5
+**Fetched**: 2026-10-26T09:03:19.446920
+
+
+
+
+---

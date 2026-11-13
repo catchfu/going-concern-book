@@ -170,3 +170,102 @@
 
 
 ---
+
+## Wed, 09 Sep 2026 07:08:00 GMT — KPMG Australia’s ban on government work extended until October - Capital Brief
+**Source**: https://news.google.com/rss/articles/CBMi0wFBVV95cUxQay1nSmZZRG02YllSbUtXekRNZno1ZlVzZzdkbEhyR3AzUlI5ai1pb25TVDNMaVlmQ3NZbVBhUXhJZ2RPNTRSN3lLN21ieWMxVUl5VFFZUEk2RkdCNm8tcTRjbkNKTnZMVjRkaVNVaUhkNFhCSHZ5eXJmN2Z4TDNzN0dJSGtXTXFBb2VXa05JbDhFajkyV2JmOUpJWkxUSmkwalctdjlTSkpRS294dURWQlVUc2hQMUY0N3BsUjRDRElFTExhR2xxYW5lWXdOdHo3bXpv?oc=5
+**Fetched**: 2026-09-14T09:00:04.373476
+
+
+
+
+---
+
+## Fri, 05 Jun 2026 07:00:00 GMT — KPMG faces ban over $27.4m in contracts - Geelong Advertiser
+**Source**: https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQkt5c2JPeFltand2T3BmNGh0cGpCdGNHS3dRUXBYZjBzcUdRNHJFWFFpU0VzR05wZl9ScDZ0c0J4cmp3QlNQMGU4aEp2ZHllZkVSTW9TSTY0SGpXeTd2TjNlZUdPa3Yxd1ozUV9uckRkNWw2QmZCMmZvTTlsRTBmeGU5VG1UUGk1UHY1LUJPQW9BeFp0LVJDMVFfYkhQNXZBZld1UkZfSXBBNldDekxHbFRaOTd1N0dlN2tyYVR4ZlJsZVlFMGVQMVNQVlZVQ19fLU9rdkpkdGpXZ0RWdERRSGltVmF4TWZJT3dPYS1n?oc=5
+**Fetched**: 2026-09-21T09:00:08.714144
+
+
+
+
+---
+
+## Tue, 22 Sep 2026 19:00:00 GMT — Finance Department review could block KPMG from Commonwealth contracts - Capital Brief
+**Source**: https://news.google.com/rss/articles/CBMi6wFBVV95cUxOYUFZODNWekpiS1JkWVBBczE2UFFKYnJNRXFlbWpmdnJYVnBxcEcwek8waWlYR2QtY0xBSkZCMzJqNy1INGgyUW9xN09RMVlfYWJtb2pDTVk3NXdYRVBkZGVERElPdG9QUlZGdGpHRkpiWnVHNDQxejBmYXlQNGdLaDFFbFQ4dkowT09jR0toTWpHQTlTb2xoX3dzdi1PQ2Zqc2lfWDBNdWpZaTBueXdlQ3MzVzRubXlVY1pyVjBUZTRMb1JwZElBN1dZeXVFVGRMWHVrRVA2R2ZnQkxON0Q4cFNrZjFqdThkb253?oc=5
+**Fetched**: 2026-09-28T09:51:34.085183
+
+
+
+
+---
+
+## Fri, 05 Jun 2026 07:00:00 GMT — KPMG faces ban over $27.4m in contracts - The Australian
+**Source**: https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWm5MVnB5Qk85WGg5YjFXcU9DMXlQTl91a01lZDdqRXQ4dS00dHhYODAwLTdXQ2RSUVRmNi03ekJ5SUpJc05pbDBPLWxhQllIT1JpM2JSWHJqdWFpREZ5dnpKV0VuZ0hXNWVuY0JyMTZSWU1tUjVmSUR0SmMtZFpIekUtVDZSTE9RR0l3OHEyMUlQbjMtNkZtUHpxeDBhSDJ2YW5xTWhuWHNmTlI3UkZoRmFSRWRQTHRoT3ZvV05sZGRxM1pGMU9PLVR4LUdaanczbnNwajJ1clRPNmktMDVyVG1OQ2liYlNsZ2tDVGp2WjJZc2hjamc?oc=5
+**Fetched**: 2026-09-28T09:51:37.369167
+
+
+
+
+---
+
+## Sat, 10 Oct 2026 15:31:53 GMT — KPMG Australia government contract awards nearly double to A$59m despite scandal - https://www.big4news.com/
+**Source**: https://news.google.com/rss/articles/CBMifkFVX3lxTE5jTTdjQkJyQzBZcFlSQURhTHI3cXNqS1I2Mjl5Q2M5VldRRTc0TVYyU24wQ2kybHNneF85YlY4cDZubXE0c2NsWV9lNVZHYm5xV1lLTWdLT1RrRG5pS2hfblZ6cFFfNUdBbzlVaENJcGpXci1sOWdWMjVDMVN2dw?oc=5
+**Fetched**: 2026-10-19T10:32:56.616279
+
+
+
+
+---
+
+## Thu, 22 Oct 2026 08:22:20 GMT — Review finds KPMG Australia mishandled whistleblower claims, pause on government work extended - Reuters
+**Source**: https://news.google.com/rss/articles/CBMiywFBVV95cUxOekRoVHNFNE0zOGtLZ2xHcWIzYnFveDdndmxSTDE3ejlfcGZxbW5XdTlQb2szelQ0c1Z6V3piVFBGaEE2dWhjOHprZlZORzhxZzByQTFERThvall3QXBrOFExMkNmdGZVbHd1Mlc1QVZlS2ljSWhZZE9zcjdid0tvWHc2amY2eHdWNWo4OW91NFl0NXU0cERJcnZjREtYQlpORWd5LUlESHp0Q1U5cXctd2JzWEdxc1pQR1lDXzBfS3lwS2p5VVByUVVKWQ?oc=5
+**Fetched**: 2026-10-26T09:03:19.362350
+
+
+
+
+---
+
+## Thu, 22 Oct 2026 06:49:00 GMT — Ban on KPMG doing government work extended until February 2027 - AFR
+**Source**: https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQnBlc1pMallhTXFQQ0xMcmdFWTBIeTlnOGRKZlR5TTMzSjBhQ1hGSnl0ekJZVmFUMU1MMDJxdzZCZjY4MFRRcVFQX0VBVmo2NzVVbTRZTElKUHRseGZ6WDJ2TFUzWUticmNpREcwY3kxZ1lCLWpzSXBTN2UzU0UxMERCUW9Tc19IVnNmcGVrRE1NZm5YSXJVVjFaZmdQejJrSHJ3aEgzS01RSm1ZMmR4Mml3VGp4ZWYxQVNENlVCdks1QQ?oc=5
+**Fetched**: 2026-10-26T09:03:19.362532
+
+
+
+
+---
+
+## Thu, 22 Oct 2026 05:35:31 GMT — KPMG ban on government work extended after 'serious ethical failings' - ABC News & Headlines – Australian Broadcasting Corporation
+**Source**: https://news.google.com/rss/articles/CBMisgFBVV95cUxNaHNQNWxYV2pMblZTSUU4S2hfWFJnZ05oSWdmTXdob3lhMkp6UlMycTltWnRSMHpZV0c3Tm12LU5CeVd6NjhFS2NoQS0zcE01SzRkWE8wZTNfdGtGcFlkNHJ1bkZzVVdub0M2RDU1SEZ3RVhkdm9fWWdWZHY0cWc5bTZJV256OGZlanBwTU01cVRMZ2p3b2llQ2w4YmNLclg3Smt5UlZQUUZ6VmVzQUJoeUR3?oc=5
+**Fetched**: 2026-10-26T09:03:19.362120
+
+
+
+
+---
+
+## Thu, 22 Oct 2026 04:36:00 GMT — Review finds KPMG Australia mishandled whistleblower claims, pause on government work extended - Yahoo Finance
+**Source**: https://news.google.com/rss/articles/CBMipgFBVV95cUxOX19HRUFPZHd6aVo0NkRscGZBR0J1aHoweHh1MjRMeldWLUU2V3F1MDJtdmtQZDhzbVdwWm9lanlDU0JYTGYxWjROV01jSzZ2UEhaOWhpdFBERVFMc3V0aExHQU8xdE81RWZIS0hHRlVBM29zZUpNQnBrMVRqX1hrbUhSd3J2WkJoUWl2Z0pxVlBUT0tZNWxEUF9JbkRQNnhoT1FUdGlR?oc=5
+**Fetched**: 2026-10-26T09:03:19.365375
+
+
+
+
+---
+
+## Sun, 01 Nov 2026 18:00:00 GMT — KPMG to cut up to 400 more roles as government ban bites - AFR
+**Source**: https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRUs2Um9TVU9pQUZUNHJMUWo1LVBmREJuZ0ZtMXJrelNxT2JKb1pGUDVHcnZCOWxrc3BkVzN2MVJvMndxanQ5NVNfSDBBNkxKNWx4ZFdtSXAtblhTWW1zdDVEc3NQOVBOc19tMmFwMXlCamhJYzZteElSRk5IXy1BQXY3Q3ExdWhzYU9RazNRbjVWcmNPVHdDY0xmUkhBZXF4ZDBIZy1Ec1B4d3U3VWpOMjAyRWNWUkVUNTFhbUNVS1NJdw?oc=5
+**Fetched**: 2026-11-02T09:00:04.802103
+
+
+
+
+---
+
+## Thu, 05 Nov 2026 10:02:26 GMT — KPMG Australia Government Contracting Ban Extended to February 2027 - https://www.big4news.com/
+**Source**: https://news.google.com/rss/articles/CBMigwFBVV95cUxQV3RCeUhLSTNZbHFfRG9XU3BxTDIyZUpWT2ktb2NqNzR0ck5tMm90V09tUzJ2UmZ5WThFMFhBaVF6RmZxLW9MV3BzLURkb2xaeFNFNy00N0NkVE9hYUFyRksxU2JPbGYyYTFoN1N4cTU2WTROWjJ4YXZuekFVY0djQXpuSQ?oc=5
+**Fetched**: 2026-11-09T09:00:04.771250
+
+
+
+
+---

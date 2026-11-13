@@ -228,3 +228,40 @@
 
 
 ---
+
+## Thu, 03 Sep 2026 19:00:00 GMT — KPMG hit with fresh ASIC probe over claim it had ‘zero whistleblower complaints’ - Capital Brief
+**Source**: https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcnJSdnBNbk1fcXZGdWJpVE15d21nZUFvVGM3bXZYamZ4X0MwVm5FMjRHbk9ucjhmdVVFbTNZanJjSVc2LUxnd1ktZElqNXIyb05lUDgwSVRNazUzcEVJcWtVQjBMNUR2MmREWmtOQWs5UTFaVnlyT3o4aEtaVUZybmJ5RTVzX01lLVQxcUFGVmNpWnkwQXdVMllDdUxqOUw0bmEzcWlfVVhyVW16a0V3ODJmM0N3WEk5c293NnhScDdzVVhrcTd3Ry0zQzFNQmszMEtGZk5Taw?oc=5
+**Fetched**: 2026-09-07T09:00:03.305471
+
+
+
+
+---
+
+## Thu, 09 Jul 2026 07:00:00 GMT — ASIC probes big four – after gutting its own audit teams - The Australian
+**Source**: https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRE1jdFFUcnFHRnppY0VaVDBfM2FNbElpWDcwc3dnMWZ2MmZjT2FvSkZjTHl6OVI5MUFjTVI4NW5EcWhwUkRCZkpLeTFSOUNPdU8xd0tLUlpZTkl4MzlWWHEtbGw2a0xuQ0RjNG9qb3FUMkhuVkFtWnNiNF9CblZ5a0JRQTJfdHhHVy1Nak9xMHlkcjEzOFkyS1hqWlBNVE1WcDRvNUFOZjdUM2FuQmdyRGlQbWxFVkdDYkFNZndVdUo4c1l5X1MtdHdldW1RdEFfU200eTZYWHZqaTh4bWZ0TG5uNFZOOFNVdHJrUEV4Q0lrbTF1?oc=5
+**Fetched**: 2026-09-21T09:00:14.551029
+
+
+
+
+---
+
+## Fri, 05 Jun 2026 07:00:00 GMT — Lendlease boots tainted KPMG auditors as ASIC probe widens - The Australian
+**Source**: https://news.google.com/rss/articles/CBMihAJBVV95cUxOcGowYVJVS2lQYmpsNFJsaC11eHFvUFRjSGhDSm02WC1aSDc4X2RMRWlfTjhoWkpXRHMxOTE1SDk3aDJxNkNuWm5oMmh2TEFEdUlXUjJiOVpnYWwwUXVIVGRTM29WbXZaelBmaW9RMHgxVHhrSEV5WldxdzBhUzZjREpmdVNZRkJsVFJQZlEwME1VREZYTkVWWTRLRTJjMDZpRmRWc3I2cUhtdnRqYU5TZV9vWHQyMlZrUWlxWVdISWJudnVGVnZDRVBQR0wya1lSeElmTnJUdGFEWGc2aUxvaHk4Zi1LVzlzNGpBd0tsOTByN2JqSjhGNUhGZFo5VEdLSmE1UA?oc=5
+**Fetched**: 2026-09-21T09:00:14.553715
+
+
+
+
+---
+
+## Tue, 13 Oct 2026 02:12:00 GMT — Australia’s corporate regulator to share Big Four surveillance findings after KPMG scandal - The Business Times
+**Source**: https://news.google.com/rss/articles/CBMizgFBVV95cUxOemt2SW94djVLaFRDT05ad0JLYXhFZnJuZWZwOVFtSXAxcTh6cF9pbUMtRVV4eHlVcDl2WFpqeU9XSUFST3AzUXd4ZjI2NXA4VE53S09wMUVwcXp1N0NWYUtHQV9USlJUZWhfWFB4ME9SRHl4N0JpeDY1a0NXMXpXa0llMW5GRHJBSTNxV2QwMnlNWnYtQWs3S1QycFNxbWRzOTVGWmN0bjY1OUJFbEx0SEEzRWFKYUtpaEFxTDVLd3EyRndHaEdIVktMWGRFQQ?oc=5
+**Fetched**: 2026-10-19T10:32:56.611529
+
+
+
+**Mentions**: Orgs: ATO
+
+---

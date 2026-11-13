@@ -1196,3 +1196,137 @@
 **Mentions**: People: Andrew Yates
 
 ---
+
+## Fri, 29 May 2026 07:00:00 GMT — KPMG Australia CEO Andrew Yates Resigns Amid Whistleblower Allegations; Audit Head Also Steps Down - Profit Announcement - dars.gov.et
+**Source**: https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeHpYa1M0OGlvd2Fya0J5SkRYSmVXcnZ3a2VabHYzbHBOVUFxMnhtbU1MNkI3YmpTeXBzVWRPd1NJRjdRZ1BZTGY5M3ZZNWw2ODFRbXlacURFd1BKSW9jTmJDdHhfS0RsMXBTVDRvc0NOLURWWG4yeUlub1NnNXBDWHo4T2RMNjJab0ZjSEdhemFpYzZENm9DVGN1b0hxNHlCcmo0dzY2UFo2NUFlcTRNaGR1cDdwUTNoam1XMlhzSlk2Z1BJT3RuaXVYWmdvMkl1SjlvRFo5cUc?oc=5
+**Fetched**: 2026-09-07T09:00:06.068421
+
+
+
+**Mentions**: People: Andrew Yates
+
+---
+
+## Thu, 03 Sep 2026 01:41:00 GMT — KPMG Australia ex-COO Eileen Hoggett sues firm - Capital Brief
+**Source**: https://news.google.com/rss/articles/CBMivwFBVV95cUxNNG45ZXJid08wcS1icmxhR0Vja09DNXNYZk9qVy02TTBJX0tRdzJqZm9FU1huMXAwZ2VvdE1QWEJmSXZDY3NiQ1FCX1dndmRNMUxGQ2l5b21uemctOUZ6ZDdrajg3WmNJTzB2VmJJcDhlRE41WkhqUGs5dWlYcDFWR3A1M0lEYlcxdGJpSTFTWFNjSTNobXJOVzJ0NGI4Y2VqU1JGMEZMc2xPNC1lQXpDOWppWVpfdi16SHk0Ti1STQ?oc=5
+**Fetched**: 2026-09-07T09:00:03.304593
+
+
+
+**Mentions**: People: Eileen Hoggett
+
+---
+
+## Thu, 03 Sep 2026 07:35:00 GMT — Sacked KPMG exec Eileen Hoggett sues firm - The Australian
+**Source**: https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNHJDT2xjX3dWS19kZDBDZk10eUJ5MDhacXk3cl9yOWpWbG4tSVA4dEx0X3JqRVI4NlhneWF3NUR6bkJnRk1EZU1KaUV2TmRuemRnenFmbzJydjhIa0FmRmdDSi0tUTh4ZEdzOFRRajF3bkRXTmhyS3NWTFcybC1uQ3JCOHREYzhxRURuNUJFay1NTFZzTVRlS21OLUR1QkRXYlRhNWpLQ0JFX0I1VDJmdDdydThEN3NROWd4RG0yVWs2WFhIU2tWS3Q2WjBVYWxXUjVoU2dicHJJOWFIWGfSAeMBQVVfeXFMTlVaSFVYRU1UMlF5NXNLZ0hldTRadzd1Rm0zLTh3Z0tEaHQ1ZHNKRjRjMHhvbmpVZXhFaHJYb3I3b0dqVjRhcU9vUE5pZWVtOS1ubE9VTnFUZEJWXzJ2TDh4UkpTOUY5WGtQQXZYOExDQzBkcExQTEY0ZVpGc2xid0IxQ3I5N3doRVlBN1I1MVpWZTB2ZW5NTm5wbHZoRVRLV3lGamd6aWtKQU5ZWlhWWVl2dzk3bnVlM3ZxVUpITDFXNERraV9iU2w4Z25tbnlLa0JWT3NmazFfckFMWGdySlh2eGM?oc=5
+**Fetched**: 2026-09-07T09:00:03.304086
+
+
+
+**Mentions**: People: Eileen Hoggett
+
+---
+
+## Sat, 30 May 2026 07:00:00 GMT — KPMG CEO Andrew Yates quits over cheating scandal - The Daily Telegraph
+**Source**: https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdFNva0lYTF9UaXpTOWpuYkFlR2hMYjRaRWVqaUdneFdpckVrQ0dHdWNycW5zRVVHWENVUWFoSGF5dm5rWTg0TTc1TmJYd0RfVTVYazAwT01pQWVhbDFrbGJSZzJmODJ3aUNCa2FKTnA3X09yTGdZT01xTjdWR2piYkJmbmNrZV9yZ2hIRERqbTNjOGI5amUyVGlGcGdYOXVOdXFHYkhjVEFFNHd4ak1abW9BbjFJZmdscURqalY0bW5jNGtjbVVCUU1GOXdDVkNnSEwwYlRHN2xfNi1FRDExRVVEWjU?oc=5
+**Fetched**: 2026-09-14T09:00:07.948842
+
+
+
+**Mentions**: People: Andrew Yates
+
+---
+
+## Thu, 03 Sep 2026 07:00:00 GMT — Sacked KPMG exec Eileen Hoggett sues firm - The Daily Telegraph
+**Source**: https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeC1IbHZjM05OWDRMMW53dGx3VzF3dzMyN1otQkVCZDJ0SmNlOENrUlc0MXBCQ3RZVzhuRnBiV3BEcW11MFExTVVVU2ZUeF9FeEdtQnRzMVNhY1hkSV80SUMtWHI2Z1lYTm95YkVnU2FRQW9INXQ5cHRCY1ZLOHJvRzc5NC1vREhpTzVKNjBFY3FiaXVLbndGTHY4Ymh4UktQaHdsbDRsUDdVMEtaeE8tWkxtSHhVazVEVlFEY3hyenUyRTl2d1VBU1lPcm5OVzkyZE5pNkQycllLdVdFVG1V?oc=5
+**Fetched**: 2026-09-14T09:00:04.378592
+
+
+
+**Mentions**: People: Eileen Hoggett
+
+---
+
+## Fri, 19 Jun 2026 07:00:00 GMT — As it happened: Mike Baird says KPMG’s response to whistleblower was too slow - The Age
+**Source**: https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWUp6REN6WDE3LXhyRHVpUXFFZ3ZVSy1sNTlrQ1lGczFHSmJNUWpPd192RFJQSEczY0ZWcU9lVjFlSjk3OFhGeGFtay1iaUkwZHpxV3p4Zm8wR3FnbnUwMElycjhQUDRwNmh1WVZ5X0lWYW03c0szakswOUw1eXgtV0phOFRMNUpLYjV4cDNSTHVMaEEteFRvRjVVN1NkRXpnR19wUEZGVVJyeWpGQ1lyRk4xZlpON1RVWERRaWN1S2ptd3A5bWx6aFU2R2lNaFhFVWEwd05iVG4tWm9wYmc?oc=5
+**Fetched**: 2026-09-14T09:00:05.905723
+
+
+
+
+---
+
+## Thu, 03 Sep 2026 07:00:00 GMT — Sacked KPMG exec Eileen Hoggett sues firm - The Australian
+**Source**: https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNHJDT2xjX3dWS19kZDBDZk10eUJ5MDhacXk3cl9yOWpWbG4tSVA4dEx0X3JqRVI4NlhneWF3NUR6bkJnRk1EZU1KaUV2TmRuemRnenFmbzJydjhIa0FmRmdDSi0tUTh4ZEdzOFRRajF3bkRXTmhyS3NWTFcybC1uQ3JCOHREYzhxRURuNUJFay1NTFZzTVRlS21OLUR1QkRXYlRhNWpLQ0JFX0I1VDJmdDdydThEN3NROWd4RG0yVWs2WFhIU2tWS3Q2WjBVYWxXUjVoU2dicHJJOWFIWGc?oc=5
+**Fetched**: 2026-09-21T09:00:04.068332
+
+
+
+**Mentions**: People: Eileen Hoggett
+
+---
+
+## Wed, 03 Jun 2026 07:00:00 GMT — Sinking feeling for Hoggett as Dexus says she’s a no-go - The Australian
+**Source**: https://news.google.com/rss/articles/CBMikgJBVV95cUxOMno0WVFqU21sNzlxYVltbkUwMWd0b2Fhc1dVTkpLQ1dYS3ZBYmJqRVdGVUVBU2NUVE5fUnpMa1Q5NGpoOXFTeFVPYk42elZFVG1lajd4M2lORWdNZXprZWZQa2JDQ3ItYVctNkIzWGw3cTJpcEtZcXRzR1pMRnB4RklyRzF0cVNLNV84c05IWWN0amZ0RlNjbG82bUxaYnk4WGVRYkZlV0JoWGIzY1hwQk1zODBydjNTaFJvWnF5RnFSR3JqOXRaanFCMm1GdzROX2hvNmI5ckpSdXRHUUl2aVBheUkxMERfSlVOWmpsMjUyVFV0Q0cyRU5ndnlWYTR5UGxVU1NORFc2RkJCZDJrR1Bn?oc=5
+**Fetched**: 2026-09-21T09:00:08.713683
+
+
+
+
+---
+
+## Thu, 11 Jun 2026 07:00:00 GMT — Yates steps out as KPMG scandal triggers accounting crackdown - The Australian
+**Source**: https://news.google.com/rss/articles/CBMihgJBVV95cUxNSFhRSl81NFlKcDF5WWdseml1NWlWeU1xS2JEVWx6bHVKaFhnZXVxUUJlM0lUWHdwZVdNMFVscnlJaGVvcTF6V0Robk9vM0cyNW5zazVyNmhKVnFTZnBfQWZqeV9NWVN5eFJQelYwRzYxSFppQ0NxQm1KUEdhc1J5YnEtcklOd1BSdUtVa3lqclRuMkdXYk00TDlIVjBYSkc4N1lJd2xES2Rtby04Mk14VFdmbGpNQ1JENnZPakQ1RFdlVmN2MC1BSzRSWnhZNWtxeGVUM2hFSkRaZGtONV9Oc2xxNUJjWTF5ejI2Q01ISnoxRGdNa25ZYk1OQjZvbXFLNHp1dkpR?oc=5
+**Fetched**: 2026-09-21T09:00:07.842932
+
+
+
+
+---
+
+## Fri, 05 Jun 2026 07:00:00 GMT — KPMG fails its own character test on Hoggett - The Australian
+**Source**: https://news.google.com/rss/articles/CBMi9AFBVV95cUxNS1JiTzFGUmtha3dkMFZmRmhWOWtlSC1IQldva1hKVDJ0TGFOellfWEdYblVIUkJMQkZBenRzTG9iSS04b0p0NEw3SG9kemhuZ1JhZzFEUnV4Xzlmcldnd19UQ2IzTmVhRlpmTUVBbDl5ZUtGRlpKUklJeWZyS0ZFLUZDRmVhUlVrSGxyeXJLeFBBUFJZdVFFLUFBTDZIQnlPbjJxVU0tQ3pYanJiVExycGtDcmxBZlk4R1dpbGR6UjMtakxmcXpWcjN6SFd1cG5tQkxvVWJIdmdfbUpNYTlHUWlpelk3SjJmSlJabHFyMXJJdGds?oc=5
+**Fetched**: 2026-09-21T09:00:08.714057
+
+
+
+
+---
+
+## Thu, 11 Jun 2026 07:00:00 GMT — KPMG’s Andrew Yates steps out as scandal triggers industry-wide crackdown on Australia’s top accounting firms - The Courier Mail
+**Source**: https://news.google.com/rss/articles/CBMi9gFBVV95cUxORXpjbkZ3S3FFbUFUdkRJOVdsZ2xTWEZyRWJ4bUF2RzNCdTZ1XzZzNjYwbV83TWpDLWtJUHNudFJUZ1lvZjJzMGhxb2UyS1F0X3pwUmVHYXBuMEpYNFEwTjNkVE9sTWNCY05kZF9BT2pBUXBaUGY0OVA2THRfT1hZZVY1eEhxU3Zfc2MyYl9mVHZfeUZHOXVDOFNVVkdRVjUtTkNaUVdySVp5TFcyUEhtcE9aN0QyWEQtbjl1ekw2d2RvNEtPM3Z0cHY2bTJtZWcyblVKRTdKRkg0NFBhQUNlLWVGY2F1ZEl3MmllM1VDNEktSGFvOVE?oc=5
+**Fetched**: 2026-09-28T09:51:36.576041
+
+
+
+**Mentions**: People: Andrew Yates
+
+---
+
+## Thu, 11 Jun 2026 07:00:00 GMT — KPMG’s Andrew Yates steps out as scandal triggers industry-wide crackdown on Australia’s top accounting firms - The Daily Telegraph
+**Source**: https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSlp3SHdQYWhfQ1RNcGFYY0laNzV2bUlFbTc5cGRRVF9rQ3BUN3VNR0hDOVpIeVE3b0ppVzVyM2VzcHVlMUNSWkdEWHFMOGwwUFBMWndzVjhkRndqTG9OOEdGQTNwcXYwTXpkVFQ3MGo5TXRrVDB2MXFXVU9hdURPaURCV0lIVUM0czNlbTB5UFk5b2Y2TjhxWFJBdGJ5MTBsemVOdW92Rmc1OFVlSUZPOFBGRTdnN1RnOXNKMWUwZnpLdkhobVVEeGhDUzdvMHFyTlJYdDRwSkFodGpQcWJyeUR5NUtPSmp3S1NWcnJWcjhsYW9TTk02WHVB?oc=5
+**Fetched**: 2026-10-19T10:32:59.548324
+
+
+
+**Mentions**: People: Andrew Yates
+
+---
+
+## Mon, 22 Jun 2026 07:00:00 GMT — KPMG chairman, partners to exit scandal-tainted firm - News - InDaily Queensland
+**Source**: https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY2s4NEhjcm1GbzBHZy1RMGxfVFkzamIyVjlFOEdsVklNcGdBX1pfLXlvN1FwMmduaEtLUzV3eGI5NjlrY1dFME52M3V2QUlPa0s4QlNEazRzY2p1ejh6QV9SZXItQVowTmdWTzZRdDVmSVJ4cEFPTkxxRUZUUU1NS3RWMzcyZ0plcnNJZlM5b1ZyWTM5VS0zcWttZXVjVlV6Sk1EbHRFaTA?oc=5
+**Fetched**: 2026-10-19T10:33:03.126629
+
+
+
+
+---
+
+## Wed, 12 Aug 2026 07:00:00 GMT — KPMG chair apologises for labelling whistleblower allegations as false - Accountants Daily
+**Source**: https://news.google.com/rss/articles/CBMi9AFBVV95cUxOa29GQ1VlRFRUQVFhNjVYSFlkeXBueGgxWU9lN3VLQWtoZEg1RDhxMEFXUzMwcnEwNlpvOUdZRFA2V2V2Qk0wN0pmRmFkTUNMWlFMb2ZRN3JBb094UGtjZFoxUUdHMVpwYk02UWc0VGdnR3RBN1RQcWxsZDU5Ynk5ZXZKVGVqQXJMMm9EV09FbDhvalkzVlZIdS1zWnZzV1M1OC1ZZlM4a19SQmdqSThTY1p1MWZnN3V5Y054OGVuQmhOY3FxMW1OOGZKNDZUdGpPMXlrWEd4TnNpeENkMmY2Ml9OTDZPSlMxbzZWR2RxMzZsVTBu?oc=5
+**Fetched**: 2026-11-02T09:00:16.662760
+
+
+
+
+---

@@ -1830,3 +1830,415 @@ Maps every claim to its source(s). Updated automatically by synthesize_research.
 **Date**: Fri, 29 May 2026 07:00:00 GMT  
 **Source**: https://news.google.com/rss/articles/CBMirwFBVV95cUxQeF9fRmVtMjExU3Z1M1VoNTJSVmJUQXotQUwtbWhzZjhQekNhM0lWTFNfVDRRVU5nNXkzWVZwTXZGaWFUbjFDSmtyWmxoZnhPSWIzWU9WMURrYmFlWlk2OHFLaTFSc29vTDJ1WEdKUnlNWVpfOGFUX1dTZThWSTJWQ0std2I5UVMyLWRZTWxiM1lpcE9SUjEwc0p4R0QwN0drelN3ZHhXN3IzemtGT0kw?oc=5  
 
+### [Former KPMG chief admits whistleblower felt uncomfortable - The West Australian](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaTVFcXZpNjBOQVVDb1pxelQ1bHhwSHZNTVVIZVM3bjlxZlRQX1BlMklQS01hSjhDYnRXZ0lPQ0RuSkQ3dnZScldtQURlU2hwWmxuSXRpR09sMElIV1k1aC0xTkdpVk0wMm85V3plUGRhcno4ZXlURUJ6YzNrSW1UbDNGb1FZcGVKZG9fUWNwWXFHalE0SnUtY2V1ei1ZQ0EtWDB5NmZDUjM0WW9wNEhVdWRSTmVlU0tzNGVTWXlEejRZWndYRUtneHR2Y1loRjk0TS10dTkzWGZOSFQzeXpjRGctVFJEV1h6a09JNXZBeFUzTGs?oc=5)
+**Chapter**: 3. The Whistleblower  
+**Date**: Thu, 18 Jun 2026 07:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaTVFcXZpNjBOQVVDb1pxelQ1bHhwSHZNTVVIZVM3bjlxZlRQX1BlMklQS01hSjhDYnRXZ0lPQ0RuSkQ3dnZScldtQURlU2hwWmxuSXRpR09sMElIV1k1aC0xTkdpVk0wMm85V3plUGRhcno4ZXlURUJ6YzNrSW1UbDNGb1FZcGVKZG9fUWNwWXFHalE0SnUtY2V1ei1ZQ0EtWDB5NmZDUjM0WW9wNEhVdWRSTmVlU0tzNGVTWXlEejRZWndYRUtneHR2Y1loRjk0TS10dTkzWGZOSFQzeXpjRGctVFJEV1h6a09JNXZBeFUzTGs?oc=5  
+
+### [Deborah O’Neill says KPMG scandal has seen more whistleblowers emerge in ‘shonky, dodgy sector’ - Capital Brief](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZzhtZGU4Z2NFZ0s4ZXEydG1DTVFVWEpHOXFfY0ROakJNYVdHWjZNVm5xd1ViejAyVS1weWFfYkFtMXNJdDRDR2VRc0txNXNmS2s4bGtITmtHUnZLdDZUc2ZGQVZkSHByc2w3cmlZcE5rZ3pWZmpNbHltNjgyOVZQYkU1TTROU243TFEzT01HVVptSkFNWXdiX2Rxcmo1V05DREdyUDRSMm1RNzYzVWZPSnZuU3JfQTJaaHBSNjl5VUJIeXB0MGc0LWh3OWlSUVNPQ2FvcUJOalZCc05VZmV0Mi11MkRPVy14d1NvSGF4QW1jSFJRQlJxc2dR?oc=5)
+**Chapter**: 3. The Whistleblower  
+**Date**: Mon, 17 Aug 2026 19:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZzhtZGU4Z2NFZ0s4ZXEydG1DTVFVWEpHOXFfY0ROakJNYVdHWjZNVm5xd1ViejAyVS1weWFfYkFtMXNJdDRDR2VRc0txNXNmS2s4bGtITmtHUnZLdDZUc2ZGQVZkSHByc2w3cmlZcE5rZ3pWZmpNbHltNjgyOVZQYkU1TTROU243TFEzT01HVVptSkFNWXdiX2Rxcmo1V05DREdyUDRSMm1RNzYzVWZPSnZuU3JfQTJaaHBSNjl5VUJIeXB0MGc0LWh3OWlSUVNPQ2FvcUJOalZCc05VZmV0Mi11MkRPVy14d1NvSGF4QW1jSFJRQlJxc2dR?oc=5  
+
+### [KPMG ceases whistleblower hotline service FairCall for big name audit clients - Capital Brief](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVWdhcnFZeU4wZU52alR6dHB4T3RFNjZhVUJsWGxzbl9QRmtFSl9URUlKbDFiallNREY1eHlhbU9KVl9xczRZejQ3TGMtUHlPSGZ6dTNuRTJMeGd4eW8wNVQ2QV84N2tadVV6YXVMdmdTMzNtLTUwRm1mcVFZWHNEWHVQRmMtdDNOWXF5bHBaOFA5ZG5RUmtRdkZXWHFIODNGNEN2NDZQZFg0Q2JHdE5HdTh0d1JoUXpjcVFRc09hZWFaWjQ3LUR4VGdFbEdBZEtNYkQ0UHJIdFdCODJIQ21vUzlkRFdOanM?oc=5)
+**Chapter**: 3. The Whistleblower  
+**Date**: Tue, 18 Aug 2026 08:42:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVWdhcnFZeU4wZU52alR6dHB4T3RFNjZhVUJsWGxzbl9QRmtFSl9URUlKbDFiallNREY1eHlhbU9KVl9xczRZejQ3TGMtUHlPSGZ6dTNuRTJMeGd4eW8wNVQ2QV84N2tadVV6YXVMdmdTMzNtLTUwRm1mcVFZWHNEWHVQRmMtdDNOWXF5bHBaOFA5ZG5RUmtRdkZXWHFIODNGNEN2NDZQZFg0Q2JHdE5HdTh0d1JoUXpjcVFRc09hZWFaWjQ3LUR4VGdFbEdBZEtNYkQ0UHJIdFdCODJIQ21vUzlkRFdOanM?oc=5  
+
+### [Calls grow for whistleblower protection office after KPMG scandal - hcamag.com](https://news.google.com/rss/articles/CBMixwFBVV95cUxNTUdzQzd1Qjl0OEN6Q0JrWm9mUWR1bG41VDRaaTY4S1dURTJLRThsT1hZdnlBa3RMWEdTeW83eUJUOGRZUDVJWGcyalE1aWlWb1poVHpFXzFUTE1IVUxhTGtjOWFHSGJaQVROcTRsYUN0VnliSC1Gc0xsR1g1MF8weEdONkVWRHlsSW1fVkdyU1BkZ1B0S2RNLUNlR0taeUtoREhaWnl0SGhWd2FfS013NkhfVkM0RGdFRjNDSDFBMGdxRzhNYm8w?oc=5)
+**Chapter**: 3. The Whistleblower  
+**Date**: Mon, 17 Aug 2026 03:55:02 GMT  
+**Source**: https://news.google.com/rss/articles/CBMixwFBVV95cUxNTUdzQzd1Qjl0OEN6Q0JrWm9mUWR1bG41VDRaaTY4S1dURTJLRThsT1hZdnlBa3RMWEdTeW83eUJUOGRZUDVJWGcyalE1aWlWb1poVHpFXzFUTE1IVUxhTGtjOWFHSGJaQVROcTRsYUN0VnliSC1Gc0xsR1g1MF8weEdONkVWRHlsSW1fVkdyU1BkZ1B0S2RNLUNlR0taeUtoREhaWnl0SGhWd2FfS013NkhfVkM0RGdFRjNDSDFBMGdxRzhNYm8w?oc=5  
+
+### [Corporate cop in major expansion of KPMG whistleblower probe - SMH.com.au](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZlMxZ2JQNlg2ak9pYXBFQXhqUWNIay1VWmx3Ry05MWxlbGpqZEN2NUl4LXN6SUQyRW5rMi1hNzY2NXRRYjhrTHdWamN5b2JBaHhMTkVTakFERnB6ZFNUUE93aHp6M19oVU1uNjdGVXl0SHNxWlR6ajdMWWI5MXFFQUlsRHBJSGJVOVlPTnVDRDN1S0hSWEh4R2ljZmJ1SXQxODlBalhBaUdpb0p3c3dhZzhVQ1FnX2ZZQ2J2aHRUR1Y?oc=5)
+**Chapter**: 3. The Whistleblower  
+**Date**: Mon, 17 Aug 2026 19:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZlMxZ2JQNlg2ak9pYXBFQXhqUWNIay1VWmx3Ry05MWxlbGpqZEN2NUl4LXN6SUQyRW5rMi1hNzY2NXRRYjhrTHdWamN5b2JBaHhMTkVTakFERnB6ZFNUUE93aHp6M19oVU1uNjdGVXl0SHNxWlR6ajdMWWI5MXFFQUlsRHBJSGJVOVlPTnVDRDN1S0hSWEh4R2ljZmJ1SXQxODlBalhBaUdpb0p3c3dhZzhVQ1FnX2ZZQ2J2aHRUR1Y?oc=5  
+
+### [KPMG partner admits to inappropriate access to documents in procurement of major Westpac contract - Accounting Times](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTjR5cnFqLWdpMmFwd2FwX2JyelJFNWJZLVdlT2FfbWwzODFaN0hXT2dxQ0Z5czRSYnJGekwzZWVKWmNLYlQ4UHZHQmhxSnlCLWdudFBfOVVWYWpIQzV0b0ZnaVlKRUd0STNEOG5jOFcwR3dDX1dwN3EwTHJZUGpyZHl3T2ZKYnJHWGFnU011am5OeC1ISks1a1NQOVJvX3p6c0FBbHBfdTVRTlYyS0hmWG9xcVFvR21OaFp2WFRlaHhhUm9YeHZ2THZSUElSYXhWV3VEODFlYTcxMkRxOVVEYg?oc=5)
+**Chapter**: 4. The Lendlease Breach  
+**Date**: Mon, 18 May 2026 07:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTjR5cnFqLWdpMmFwd2FwX2JyelJFNWJZLVdlT2FfbWwzODFaN0hXT2dxQ0Z5czRSYnJGekwzZWVKWmNLYlQ4UHZHQmhxSnlCLWdudFBfOVVWYWpIQzV0b0ZnaVlKRUd0STNEOG5jOFcwR3dDX1dwN3EwTHJZUGpyZHl3T2ZKYnJHWGFnU011am5OeC1ISks1a1NQOVJvX3p6c0FBbHBfdTVRTlYyS0hmWG9xcVFvR21OaFp2WFRlaHhhUm9YeHZ2THZSUElSYXhWV3VEODFlYTcxMkRxOVVEYg?oc=5  
+
+### [Macquarie, Westpac to testify in KPMG Australia audit scandal probe - Yahoo Finance](https://news.google.com/rss/articles/CBMijwFBVV95cUxQY1JtU2RULUJGLTRSZTYzMFlybnl3UGRQUm5qbm9uT1pIWXVDeW9MbVJZMHZUWEN6MU9VbjlaMzdXdmlYX1hhcHo4QnZkMURpYmJhb1g1UFFDTTdIOGppX0FwWUhqUzRDUXNvUWVLRVpnRW1GMGhjcUNCTzJFZ1ZqSU1ScHEwU0dINXF1LXQ1VQ?oc=5)
+**Chapter**: 4. The Lendlease Breach  
+**Date**: Thu, 13 Aug 2026 07:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMijwFBVV95cUxQY1JtU2RULUJGLTRSZTYzMFlybnl3UGRQUm5qbm9uT1pIWXVDeW9MbVJZMHZUWEN6MU9VbjlaMzdXdmlYX1hhcHo4QnZkMURpYmJhb1g1UFFDTTdIOGppX0FwWUhqUzRDUXNvUWVLRVpnRW1GMGhjcUNCTzJFZ1ZqSU1ScHEwU0dINXF1LXQ1VQ?oc=5  
+
+### [KPMG Australia to cut hundreds of jobs amid audit leaks scandal - Capital FM Africa](https://news.google.com/rss/articles/CBMikwFBVV95cUxNTXhCTGIwY0gxd3Y5ZlJrZTFYaEdMNW94SUk0WHU3bGNwajl5RGRIYU1rZlR5R1dYSjJ3R1EwRWJRUkgwWk1WSXNxSmJvTmM1MUJva3d0RVBSa244MkJzQ3VrNWlvam8yWDlOMi1uRGMwSlBaNDd2elRjV1hGRm5uZGQ3a2E3THNTQ0ZJeHlhQlZVbFE?oc=5)
+**Chapter**: 4. The Lendlease Breach  
+**Date**: Mon, 24 Aug 2026 07:51:21 GMT  
+**Source**: https://news.google.com/rss/articles/CBMikwFBVV95cUxNTXhCTGIwY0gxd3Y5ZlJrZTFYaEdMNW94SUk0WHU3bGNwajl5RGRIYU1rZlR5R1dYSjJ3R1EwRWJRUkgwWk1WSXNxSmJvTmM1MUJva3d0RVBSa244MkJzQ3VrNWlvam8yWDlOMi1uRGMwSlBaNDd2elRjV1hGRm5uZGQ3a2E3THNTQ0ZJeHlhQlZVbFE?oc=5  
+
+### [As it happened — KPMG chair 'physically and emotionally shaken' after call with whistleblower - ABC News & Headlines – Australian Broadcasting Corporation](https://news.google.com/rss/articles/CBMimgFBVV95cUxQbVBSNUdVMW9xcVZETXpUdjlRYmtuU05KcG03Q09vSDJpMC1KcWR6M2hITXZaYnZMTW1RR0RFZWR5V0pYT3NoVUVTbFN2Vi1lWjhaTFlzUHc2M3hYcGFaUlB5RWNzU0k1am0xQnp0TjRGR1VNNVRzVk5TTVBsVUZfSmZHUU4zMWFsMDBhMWpUMmxSN0hBMzVQM0V3?oc=5)
+**Chapter**: 3. The Whistleblower  
+**Date**: Thu, 13 Aug 2026 07:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMimgFBVV95cUxQbVBSNUdVMW9xcVZETXpUdjlRYmtuU05KcG03Q09vSDJpMC1KcWR6M2hITXZaYnZMTW1RR0RFZWR5V0pYT3NoVUVTbFN2Vi1lWjhaTFlzUHc2M3hYcGFaUlB5RWNzU0k1am0xQnp0TjRGR1VNNVRzVk5TTVBsVUZfSmZHUU4zMWFsMDBhMWpUMmxSN0hBMzVQM0V3?oc=5  
+
+### [KPMG to cut almost 400 jobs after audit leaks scandal - ABC News & Headlines – Australian Broadcasting Corporation](https://news.google.com/rss/articles/CBMiswFBVV95cUxOOExmdlExTzdsSjE4clZId0VVR0xKTzVBU3lKdHRlWExmRkhpSDdlWThpREhvZmhJa29nMlVLckdxVktUR2xWNEkxVlp1dENkS044WEpTeUVkckNoX1FQWU1hM1VldHZvVUlPS2g4QUdtUUpWcXU0bTQzTkVBNVJFR2FQaXJmdEFMREpIQ1ZKcjRxZFlLMjhxdjRYOUJPX1NyZXFIbHlFaXAtdk5fUFpDZG42MA?oc=5)
+**Chapter**: 4. The Lendlease Breach  
+**Date**: Mon, 24 Aug 2026 01:06:37 GMT  
+**Source**: https://news.google.com/rss/articles/CBMiswFBVV95cUxOOExmdlExTzdsSjE4clZId0VVR0xKTzVBU3lKdHRlWExmRkhpSDdlWThpREhvZmhJa29nMlVLckdxVktUR2xWNEkxVlp1dENkS044WEpTeUVkckNoX1FQWU1hM1VldHZvVUlPS2g4QUdtUUpWcXU0bTQzTkVBNVJFR2FQaXJmdEFMREpIQ1ZKcjRxZFlLMjhxdjRYOUJPX1NyZXFIbHlFaXAtdk5fUFpDZG42MA?oc=5  
+
+### [Macquarie drops KPMG Australia as auditor over whistleblower scandal - The Times](https://news.google.com/rss/articles/CBMitwFBVV95cUxPazlEeXZvQnRLLWpGOGV4VHM5b2tfaWVoVDlNYXZ1MVBPVDlpRHd2dlNIUjhmS1RmMVlnSjRtYVkxZXM1TFlvcUhfemFueFVQeU1LQTVmOFVWOGxzcTVSQXNLZWlndVlXbXZUYUpjeHZlZlVjZ0hUS09lQmNJTkxQNEFXcUtlYXVINUpyeU5pZXhxV2ZwOGRnQ05rRUZ2R3BXcGtEYkF3YThKRmNjeHhqUFJZYllnTzQ?oc=5)
+**Chapter**: 3. The Whistleblower  
+**Date**: Wed, 26 Aug 2026 15:41:44 GMT  
+**Source**: https://news.google.com/rss/articles/CBMitwFBVV95cUxPazlEeXZvQnRLLWpGOGV4VHM5b2tfaWVoVDlNYXZ1MVBPVDlpRHd2dlNIUjhmS1RmMVlnSjRtYVkxZXM1TFlvcUhfemFueFVQeU1LQTVmOFVWOGxzcTVSQXNLZWlndVlXbXZUYUpjeHZlZlVjZ0hUS09lQmNJTkxQNEFXcUtlYXVINUpyeU5pZXhxV2ZwOGRnQ05rRUZ2R3BXcGtEYkF3YThKRmNjeHhqUFJZYllnTzQ?oc=5  
+
+### [Macquarie Group dumps KPMG from audit contract - ABC News & Headlines – Australian Broadcasting Corporation](https://news.google.com/rss/articles/CBMinwFBVV95cUxOVzRUT3MwcFJmR1p2MWxIM1hLenNaZG82MkZoSGY0dE5FcVk5MnpUS3pVdmYxVXpPQlFlbXp5SGpadEY3cGstV2RHT2hSVWd4UXZwcEdFdjVUUzctU1JCSTg4ZjBZekpMM3RjazBEbXk4c0dkR1Ztd3lMdW9PczEyYlZUSkpkQXpvRjVvcTZiMWRJWUhOckR4aEt0Y1RZX0E?oc=5)
+**Chapter**: 4. The Lendlease Breach  
+**Date**: Wed, 26 Aug 2026 08:24:41 GMT  
+**Source**: https://news.google.com/rss/articles/CBMinwFBVV95cUxOVzRUT3MwcFJmR1p2MWxIM1hLenNaZG82MkZoSGY0dE5FcVk5MnpUS3pVdmYxVXpPQlFlbXp5SGpadEY3cGstV2RHT2hSVWd4UXZwcEdFdjVUUzctU1JCSTg4ZjBZekpMM3RjazBEbXk4c0dkR1Ztd3lMdW9PczEyYlZUSkpkQXpvRjVvcTZiMWRJWUhOckR4aEt0Y1RZX0E?oc=5  
+
+### [Ex-ATO boss Chris Jordan named by KPMG whistleblower - ABC News & Headlines – Australian Broadcasting Corporation](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOXlqVjZWNGRHcWdERE9jc0RYUFJUYndrdHFFTi1ySE1jYlc3a3UxVjZ2Tkp2OHJzZ1VHT1FEdldaVEdYdGZNUVZZVVE1bEJkMmM2MFJRQjYxOXdyZG5abkdyRWlKVnZyN1NaNUpyb2o4Z3ZybnlwMlRlQV9VaEtOeEhmVXpyOUppdTZPeDlqZU52S0xpTWFXcWo2QjZ2Vlk3ekJvNENwR1lrOFU?oc=5)
+**Chapter**: 3. The Whistleblower  
+**Date**: Mon, 24 Aug 2026 18:27:18 GMT  
+**Source**: https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOXlqVjZWNGRHcWdERE9jc0RYUFJUYndrdHFFTi1ySE1jYlc3a3UxVjZ2Tkp2OHJzZ1VHT1FEdldaVEdYdGZNUVZZVVE1bEJkMmM2MFJRQjYxOXdyZG5abkdyRWlKVnZyN1NaNUpyb2o4Z3ZybnlwMlRlQV9VaEtOeEhmVXpyOUppdTZPeDlqZU52S0xpTWFXcWo2QjZ2Vlk3ekJvNENwR1lrOFU?oc=5  
+
+### ['Blows my mind': KPMG's whistleblower issues collide - aapnews.aap.com.au](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYjlMaS1qS0RYb2FKemdWMEcxQm1pLVZfVWZFWHVYdU82NUxsd1lNeFRxWXIxUkhEX3ZUOEZRaGxXOC1QS0tBWm9KemQybUJnd1VJMjBoc3Y4WDU3cHRyMDF4cHcxb1VuaVozVlJINHl5Ykk2NmY4VHRmM3lyTmxXOFVEV2lmYWZX?oc=5)
+**Chapter**: 3. The Whistleblower  
+**Date**: Fri, 29 May 2026 07:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYjlMaS1qS0RYb2FKemdWMEcxQm1pLVZfVWZFWHVYdU82NUxsd1lNeFRxWXIxUkhEX3ZUOEZRaGxXOC1QS0tBWm9KemQybUJnd1VJMjBoc3Y4WDU3cHRyMDF4cHcxb1VuaVozVlJINHl5Ykk2NmY4VHRmM3lyTmxXOFVEV2lmYWZX?oc=5  
+
+### [The 'condescending' email at the centre of whistleblower concerns - ABC News & Headlines – Australian Broadcasting Corporation](https://news.google.com/rss/articles/CBMikwFBVV95cUxNSzQ1NHJwbk1DcHN0Wkw3RWp3VlNTaTQ4VnVTVndpd0pXcFlTMHcwSERiZGZZWDBhVWNBb1N1YWtaQkNlYThNR2pzeFVLMUxpai1VRmMzQXZ6cjdvZ0tuUnR0TERsU3pGd3VwWmZ3NkRjNk5IRUlkSEhjWDRKcmlSQlFvOVpfdnNfdGNZMTVtel8wS1U?oc=5)
+**Chapter**: 3. The Whistleblower  
+**Date**: Wed, 02 Sep 2026 19:44:03 GMT  
+**Source**: https://news.google.com/rss/articles/CBMikwFBVV95cUxNSzQ1NHJwbk1DcHN0Wkw3RWp3VlNTaTQ4VnVTVndpd0pXcFlTMHcwSERiZGZZWDBhVWNBb1N1YWtaQkNlYThNR2pzeFVLMUxpai1VRmMzQXZ6cjdvZ0tuUnR0TERsU3pGd3VwWmZ3NkRjNk5IRUlkSEhjWDRKcmlSQlFvOVpfdnNfdGNZMTVtel8wS1U?oc=5  
+
+### [Settlement payment to tax division whistleblower 'had no impact on investigations', says KPMG - Accounting Times](https://news.google.com/rss/articles/CBMizwFBVV95cUxOZU1JaG5GWmxBZlNzUkFSS290bTZOeWd0RWI4a2dSbk5NM1lLM1FnaXhFbHVrVW1OZ1lyQlBkRkpCMjNGcl9qbGNPUGt4dmVWQXM1OElZMUVaUDI0M0pNRUpIOTNXbzF6Z2NkbkZVVmpHMXNMdXJzb3ZkcHppakp5eWxIdlZiTFRPX0g5cHhqMGxnZVVvemxGTEhJb3gxRXphMENCbUEteS1HWlgwX1RjeGpGUUgtXzUzY2RlYlNwX3NsVnBvNC1zSmVPdnVpRUE?oc=5)
+**Chapter**: 3. The Whistleblower  
+**Date**: Thu, 13 Aug 2026 22:44:05 GMT  
+**Source**: https://news.google.com/rss/articles/CBMizwFBVV95cUxOZU1JaG5GWmxBZlNzUkFSS290bTZOeWd0RWI4a2dSbk5NM1lLM1FnaXhFbHVrVW1OZ1lyQlBkRkpCMjNGcl9qbGNPUGt4dmVWQXM1OElZMUVaUDI0M0pNRUpIOTNXbzF6Z2NkbkZVVmpHMXNMdXJzb3ZkcHppakp5eWxIdlZiTFRPX0g5cHhqMGxnZVVvemxGTEhJb3gxRXphMENCbUEteS1HWlgwX1RjeGpGUUgtXzUzY2RlYlNwX3NsVnBvNC1zSmVPdnVpRUE?oc=5  
+
+### [KPMG Australia CEO Andrew Yates Resigns Amid Whistleblower Allegations; Audit Head Also Steps Down - Profit Announcement - dars.gov.et](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeHpYa1M0OGlvd2Fya0J5SkRYSmVXcnZ3a2VabHYzbHBOVUFxMnhtbU1MNkI3YmpTeXBzVWRPd1NJRjdRZ1BZTGY5M3ZZNWw2ODFRbXlacURFd1BKSW9jTmJDdHhfS0RsMXBTVDRvc0NOLURWWG4yeUlub1NnNXBDWHo4T2RMNjJab0ZjSEdhemFpYzZENm9DVGN1b0hxNHlCcmo0dzY2UFo2NUFlcTRNaGR1cDdwUTNoam1XMlhzSlk2Z1BJT3RuaXVYWmdvMkl1SjlvRFo5cUc?oc=5)
+**Chapter**: 3. The Whistleblower  
+**Date**: Fri, 29 May 2026 07:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeHpYa1M0OGlvd2Fya0J5SkRYSmVXcnZ3a2VabHYzbHBOVUFxMnhtbU1MNkI3YmpTeXBzVWRPd1NJRjdRZ1BZTGY5M3ZZNWw2ODFRbXlacURFd1BKSW9jTmJDdHhfS0RsMXBTVDRvc0NOLURWWG4yeUlub1NnNXBDWHo4T2RMNjJab0ZjSEdhemFpYzZENm9DVGN1b0hxNHlCcmo0dzY2UFo2NUFlcTRNaGR1cDdwUTNoam1XMlhzSlk2Z1BJT3RuaXVYWmdvMkl1SjlvRFo5cUc?oc=5  
+
+### [Ex-KPMG Australia executive sues firm after sacking over audit leak scandal - The Star](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQnIycDl0V0N2b2VfUkVmLWRpbzA4R3pDaU5fbVBNcU1YMTBjcVduV0dBR1J3OUJtd0hZb0JWdUZCMERsOGh5VmR6WFlMWW90M2dNT20xQWJ4OVkzM09nUFhCWjVhMmhrZXR0czRaS3lpSVBtQkFjOS15QTAyT1FaZnl0MzJuY1FqNF9BN0VYSUpnSFhVMlJ1TmNkYk5WdXFfNnZqblJqREpFV3hzdloyUjVabkZtZ0cxOFlSRGlNeDktRVI4WGVHZ2hndUd2LWFSQ2c?oc=5)
+**Chapter**: 4. The Lendlease Breach  
+**Date**: Thu, 03 Sep 2026 07:52:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQnIycDl0V0N2b2VfUkVmLWRpbzA4R3pDaU5fbVBNcU1YMTBjcVduV0dBR1J3OUJtd0hZb0JWdUZCMERsOGh5VmR6WFlMWW90M2dNT20xQWJ4OVkzM09nUFhCWjVhMmhrZXR0czRaS3lpSVBtQkFjOS15QTAyT1FaZnl0MzJuY1FqNF9BN0VYSUpnSFhVMlJ1TmNkYk5WdXFfNnZqblJqREpFV3hzdloyUjVabkZtZ0cxOFlSRGlNeDktRVI4WGVHZ2hndUd2LWFSQ2c?oc=5  
+
+### [KPMG Australia ex-COO Eileen Hoggett sues firm - Capital Brief](https://news.google.com/rss/articles/CBMivwFBVV95cUxNNG45ZXJid08wcS1icmxhR0Vja09DNXNYZk9qVy02TTBJX0tRdzJqZm9FU1huMXAwZ2VvdE1QWEJmSXZDY3NiQ1FCX1dndmRNMUxGQ2l5b21uemctOUZ6ZDdrajg3WmNJTzB2VmJJcDhlRE41WkhqUGs5dWlYcDFWR3A1M0lEYlcxdGJpSTFTWFNjSTNobXJOVzJ0NGI4Y2VqU1JGMEZMc2xPNC1lQXpDOWppWVpfdi16SHk0Ti1STQ?oc=5)
+**Chapter**: 5. The Cast of Characters  
+**Date**: Thu, 03 Sep 2026 01:41:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMivwFBVV95cUxNNG45ZXJid08wcS1icmxhR0Vja09DNXNYZk9qVy02TTBJX0tRdzJqZm9FU1huMXAwZ2VvdE1QWEJmSXZDY3NiQ1FCX1dndmRNMUxGQ2l5b21uemctOUZ6ZDdrajg3WmNJTzB2VmJJcDhlRE41WkhqUGs5dWlYcDFWR3A1M0lEYlcxdGJpSTFTWFNjSTNobXJOVzJ0NGI4Y2VqU1JGMEZMc2xPNC1lQXpDOWppWVpfdi16SHk0Ti1STQ?oc=5  
+
+### [KPMG whistleblower tried to expose 'systemic misconduct' but was turned away - ABC News & Headlines – Australian Broadcasting Corporation](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWDR3SnpuNzh4aFE2bFd2SXRRWWJXNEtiRmlLLTFjZGFJWVZDYkxBNC10eG91UFJTdU9UZ01LanNFbWtBTVR3el9QOG8tTGRmemFpNUdBVVp6U1RRMUFtNC1FbEVjRklyaXZFVnYyLXVHZkE5dGx4NWplaXNtY1FnYkIzaVBUMjJMajQxai1UUVV3VzFPUWczYUNnX1lVdTAzX2VxLVlFR25xa3NaT3c?oc=5)
+**Chapter**: 3. The Whistleblower  
+**Date**: Thu, 03 Sep 2026 19:30:37 GMT  
+**Source**: https://news.google.com/rss/articles/CBMirgFBVV95cUxQWDR3SnpuNzh4aFE2bFd2SXRRWWJXNEtiRmlLLTFjZGFJWVZDYkxBNC10eG91UFJTdU9UZ01LanNFbWtBTVR3el9QOG8tTGRmemFpNUdBVVp6U1RRMUFtNC1FbEVjRklyaXZFVnYyLXVHZkE5dGx4NWplaXNtY1FnYkIzaVBUMjJMajQxai1UUVV3VzFPUWczYUNnX1lVdTAzX2VxLVlFR25xa3NaT3c?oc=5  
+
+### [Sacked KPMG exec Eileen Hoggett sues firm - The Australian](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNHJDT2xjX3dWS19kZDBDZk10eUJ5MDhacXk3cl9yOWpWbG4tSVA4dEx0X3JqRVI4NlhneWF3NUR6bkJnRk1EZU1KaUV2TmRuemRnenFmbzJydjhIa0FmRmdDSi0tUTh4ZEdzOFRRajF3bkRXTmhyS3NWTFcybC1uQ3JCOHREYzhxRURuNUJFay1NTFZzTVRlS21OLUR1QkRXYlRhNWpLQ0JFX0I1VDJmdDdydThEN3NROWd4RG0yVWs2WFhIU2tWS3Q2WjBVYWxXUjVoU2dicHJJOWFIWGfSAeMBQVVfeXFMTlVaSFVYRU1UMlF5NXNLZ0hldTRadzd1Rm0zLTh3Z0tEaHQ1ZHNKRjRjMHhvbmpVZXhFaHJYb3I3b0dqVjRhcU9vUE5pZWVtOS1ubE9VTnFUZEJWXzJ2TDh4UkpTOUY5WGtQQXZYOExDQzBkcExQTEY0ZVpGc2xid0IxQ3I5N3doRVlBN1I1MVpWZTB2ZW5NTm5wbHZoRVRLV3lGamd6aWtKQU5ZWlhWWVl2dzk3bnVlM3ZxVUpITDFXNERraV9iU2w4Z25tbnlLa0JWT3NmazFfckFMWGdySlh2eGM?oc=5)
+**Chapter**: 5. The Cast of Characters  
+**Date**: Thu, 03 Sep 2026 07:35:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNHJDT2xjX3dWS19kZDBDZk10eUJ5MDhacXk3cl9yOWpWbG4tSVA4dEx0X3JqRVI4NlhneWF3NUR6bkJnRk1EZU1KaUV2TmRuemRnenFmbzJydjhIa0FmRmdDSi0tUTh4ZEdzOFRRajF3bkRXTmhyS3NWTFcybC1uQ3JCOHREYzhxRURuNUJFay1NTFZzTVRlS21OLUR1QkRXYlRhNWpLQ0JFX0I1VDJmdDdydThEN3NROWd4RG0yVWs2WFhIU2tWS3Q2WjBVYWxXUjVoU2dicHJJOWFIWGfSAeMBQVVfeXFMTlVaSFVYRU1UMlF5NXNLZ0hldTRadzd1Rm0zLTh3Z0tEaHQ1ZHNKRjRjMHhvbmpVZXhFaHJYb3I3b0dqVjRhcU9vUE5pZWVtOS1ubE9VTnFUZEJWXzJ2TDh4UkpTOUY5WGtQQXZYOExDQzBkcExQTEY0ZVpGc2xid0IxQ3I5N3doRVlBN1I1MVpWZTB2ZW5NTm5wbHZoRVRLV3lGamd6aWtKQU5ZWlhWWVl2dzk3bnVlM3ZxVUpITDFXNERraV9iU2w4Z25tbnlLa0JWT3NmazFfckFMWGdySlh2eGM?oc=5  
+
+### [Ex-KPMG Australia executive sues firm after sacking over audit leak scandal - marketscreener.com](https://news.google.com/rss/articles/CBMixwFBVV95cUxQRFV1TElpVWFqX0RFWC05YzdxTGFmU1hnVzh1azBNd0JMcEcwd2I4Qm9oaUtWakM0cWU4N1dqUDdWZDRsSXdXS0xqb096eHg4SmY4RDVROFY3azRUWFoyZHZrZnZfSVEzRnZQXzRqQ2dib0FkNGg4cldBS0dpbXIyVmFjSHNnVTk0cHRYWmFKLXNvNFIzQnUzT19CLTdtRzRaYjNWNlB6d1czLUxJU295VUNuNHBoeHM1cExtbGVPWk5HdXBZZjZZ?oc=5)
+**Chapter**: 4. The Lendlease Breach  
+**Date**: Thu, 03 Sep 2026 06:52:50 GMT  
+**Source**: https://news.google.com/rss/articles/CBMixwFBVV95cUxQRFV1TElpVWFqX0RFWC05YzdxTGFmU1hnVzh1azBNd0JMcEcwd2I4Qm9oaUtWakM0cWU4N1dqUDdWZDRsSXdXS0xqb096eHg4SmY4RDVROFY3azRUWFoyZHZrZnZfSVEzRnZQXzRqQ2dib0FkNGg4cldBS0dpbXIyVmFjSHNnVTk0cHRYWmFKLXNvNFIzQnUzT19CLTdtRzRaYjNWNlB6d1czLUxJU295VUNuNHBoeHM1cExtbGVPWk5HdXBZZjZZ?oc=5  
+
+### [KPMG CEO resigns as whistleblower scandal erupts - WAtoday](https://news.google.com/rss/articles/CBMitgFBVV95cUxQZFFaUk9KX3dKRDBxblBHckVzeWFjd09CdVA4Ri1QUXJKLTB2cnJtQ1VmeWRrc3lQNFhVVExsWFk2Y055cVpHaFh4Q0hOVGx6ZDRtLTNoMGVtTk9OVkxZall3eW41S0trOE5SWnBTSmt2b29BTHEyd1BSYkVqLThvanloNHNEZ3V0MkN5OXRDaEN4Ul9JTW9sVG5SaFgyQThMejdMRFpBRzZTaE1QM0Q3bTh1aHF3Zw?oc=5)
+**Chapter**: 3. The Whistleblower  
+**Date**: Fri, 29 May 2026 07:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMitgFBVV95cUxQZFFaUk9KX3dKRDBxblBHckVzeWFjd09CdVA4Ri1QUXJKLTB2cnJtQ1VmeWRrc3lQNFhVVExsWFk2Y055cVpHaFh4Q0hOVGx6ZDRtLTNoMGVtTk9OVkxZall3eW41S0trOE5SWnBTSmt2b29BTHEyd1BSYkVqLThvanloNHNEZ3V0MkN5OXRDaEN4Ul9JTW9sVG5SaFgyQThMejdMRFpBRzZTaE1QM0Q3bTh1aHF3Zw?oc=5  
+
+### [KPMG hit with fresh ASIC probe over claim it had ‘zero whistleblower complaints’ - Capital Brief](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcnJSdnBNbk1fcXZGdWJpVE15d21nZUFvVGM3bXZYamZ4X0MwVm5FMjRHbk9ucjhmdVVFbTNZanJjSVc2LUxnd1ktZElqNXIyb05lUDgwSVRNazUzcEVJcWtVQjBMNUR2MmREWmtOQWs5UTFaVnlyT3o4aEtaVUZybmJ5RTVzX01lLVQxcUFGVmNpWnkwQXdVMllDdUxqOUw0bmEzcWlfVVhyVW16a0V3ODJmM0N3WEk5c293NnhScDdzVVhrcTd3Ry0zQzFNQmszMEtGZk5Taw?oc=5)
+**Chapter**: 3. The Whistleblower  
+**Date**: Thu, 03 Sep 2026 19:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcnJSdnBNbk1fcXZGdWJpVE15d21nZUFvVGM3bXZYamZ4X0MwVm5FMjRHbk9ucjhmdVVFbTNZanJjSVc2LUxnd1ktZElqNXIyb05lUDgwSVRNazUzcEVJcWtVQjBMNUR2MmREWmtOQWs5UTFaVnlyT3o4aEtaVUZybmJ5RTVzX01lLVQxcUFGVmNpWnkwQXdVMllDdUxqOUw0bmEzcWlfVVhyVW16a0V3ODJmM0N3WEk5c293NnhScDdzVVhrcTd3Ry0zQzFNQmszMEtGZk5Taw?oc=5  
+
+### [ASIC launches review of whistleblower complaints at accounting giants - SMH.com.au](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTZ0UFAzQVhKRXZoSDR0dHRCaGFpNE5Cb3JOZ0dGNEdRT0tKYlY1cjZpaE5FazFHV0l0UGdhbXk5cUNBdExydU9zdGo4MEZXZ2t4Y2htTHR6dU44eDlRaVZEczVVUkx2Sy16YWRqR3A5UktUaV9temtKdmYtZjU3bVBsY3RXaFFhb2tZYm4zSnN6bG5HNVhFYWpxM19WZ2hSNEZVdXhnSno?oc=5)
+**Chapter**: 3. The Whistleblower  
+**Date**: Thu, 03 Sep 2026 23:59:06 GMT  
+**Source**: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTZ0UFAzQVhKRXZoSDR0dHRCaGFpNE5Cb3JOZ0dGNEdRT0tKYlY1cjZpaE5FazFHV0l0UGdhbXk5cUNBdExydU9zdGo4MEZXZ2t4Y2htTHR6dU44eDlRaVZEczVVUkx2Sy16YWRqR3A5UktUaV9temtKdmYtZjU3bVBsY3RXaFFhb2tZYm4zSnN6bG5HNVhFYWpxM19WZ2hSNEZVdXhnSno?oc=5  
+
+### [KPMG high-flyer sues over her whistleblower scandal sacking - SMH.com.au](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZEo0U1lTbXFWV01SSDh1UEdRZV9XYW4wN3ZCRnEtd3l6R3hUM0tUOVhqamtyQmZ1anItQjhOdkh4OVc3dC1admlaS0NBU19henYwUFAxa2k3N1hJMUw2cUFXZVBGWm5xTmFlazlIU2ZFRm9ITHlYRlp6bDh3dFFhX2R2X0hYa24xRXhwVHduc2Jyd21NSTNaTEZlTU1FZjZZM3pVektSZkprdmE1U3Mw?oc=5)
+**Chapter**: 3. The Whistleblower  
+**Date**: Thu, 03 Sep 2026 02:31:03 GMT  
+**Source**: https://news.google.com/rss/articles/CBMirwFBVV95cUxQZEo0U1lTbXFWV01SSDh1UEdRZV9XYW4wN3ZCRnEtd3l6R3hUM0tUOVhqamtyQmZ1anItQjhOdkh4OVc3dC1admlaS0NBU19henYwUFAxa2k3N1hJMUw2cUFXZVBGWm5xTmFlazlIU2ZFRm9ITHlYRlp6bDh3dFFhX2R2X0hYa24xRXhwVHduc2Jyd21NSTNaTEZlTU1FZjZZM3pVektSZkprdmE1U3Mw?oc=5  
+
+### [KPMG CEO Andrew Yates quits over cheating scandal - The Daily Telegraph](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdFNva0lYTF9UaXpTOWpuYkFlR2hMYjRaRWVqaUdneFdpckVrQ0dHdWNycW5zRVVHWENVUWFoSGF5dm5rWTg0TTc1TmJYd0RfVTVYazAwT01pQWVhbDFrbGJSZzJmODJ3aUNCa2FKTnA3X09yTGdZT01xTjdWR2piYkJmbmNrZV9yZ2hIRERqbTNjOGI5amUyVGlGcGdYOXVOdXFHYkhjVEFFNHd4ak1abW9BbjFJZmdscURqalY0bW5jNGtjbVVCUU1GOXdDVkNnSEwwYlRHN2xfNi1FRDExRVVEWjU?oc=5)
+**Chapter**: 5. The Cast of Characters  
+**Date**: Sat, 30 May 2026 07:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdFNva0lYTF9UaXpTOWpuYkFlR2hMYjRaRWVqaUdneFdpckVrQ0dHdWNycW5zRVVHWENVUWFoSGF5dm5rWTg0TTc1TmJYd0RfVTVYazAwT01pQWVhbDFrbGJSZzJmODJ3aUNCa2FKTnA3X09yTGdZT01xTjdWR2piYkJmbmNrZV9yZ2hIRERqbTNjOGI5amUyVGlGcGdYOXVOdXFHYkhjVEFFNHd4ak1abW9BbjFJZmdscURqalY0bW5jNGtjbVVCUU1GOXdDVkNnSEwwYlRHN2xfNi1FRDExRVVEWjU?oc=5  
+
+### [Sacked KPMG exec Eileen Hoggett sues firm - The Daily Telegraph](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeC1IbHZjM05OWDRMMW53dGx3VzF3dzMyN1otQkVCZDJ0SmNlOENrUlc0MXBCQ3RZVzhuRnBiV3BEcW11MFExTVVVU2ZUeF9FeEdtQnRzMVNhY1hkSV80SUMtWHI2Z1lYTm95YkVnU2FRQW9INXQ5cHRCY1ZLOHJvRzc5NC1vREhpTzVKNjBFY3FiaXVLbndGTHY4Ymh4UktQaHdsbDRsUDdVMEtaeE8tWkxtSHhVazVEVlFEY3hyenUyRTl2d1VBU1lPcm5OVzkyZE5pNkQycllLdVdFVG1V?oc=5)
+**Chapter**: 5. The Cast of Characters  
+**Date**: Thu, 03 Sep 2026 07:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeC1IbHZjM05OWDRMMW53dGx3VzF3dzMyN1otQkVCZDJ0SmNlOENrUlc0MXBCQ3RZVzhuRnBiV3BEcW11MFExTVVVU2ZUeF9FeEdtQnRzMVNhY1hkSV80SUMtWHI2Z1lYTm95YkVnU2FRQW9INXQ5cHRCY1ZLOHJvRzc5NC1vREhpTzVKNjBFY3FiaXVLbndGTHY4Ymh4UktQaHdsbDRsUDdVMEtaeE8tWkxtSHhVazVEVlFEY3hyenUyRTl2d1VBU1lPcm5OVzkyZE5pNkQycllLdVdFVG1V?oc=5  
+
+### [Lendlease plans auditor change amid regulatory scrutiny of KPMG Australia - Prop News Time](https://news.google.com/rss/articles/CBMiwwFBVV95cUxObk1iVUtfaTg5cmlvQUFJb2hlZDBTTWtKRjdaZEJqNUNiNHo2UkdKX3g3bzVTcm1FMzdpWVczSi03UEFscWZXVlB4OHpUZEpmSEhTMUc3eUxPdG9yOERxd1ZpendsdmlTN1EyQjJENWZLLVVRTHNTajQ3LXVQSlNjZkpnYXYyNXhySTc4NFA5S21GQnFKTmZDSkhWcWJqNjRIM3dXYTZvbGhGVHd1M2RXMVV0YzlJVDZNc1ZacXJ0Z0d4UVE?oc=5)
+**Chapter**: 4. The Lendlease Breach  
+**Date**: Thu, 18 Jun 2026 07:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMiwwFBVV95cUxObk1iVUtfaTg5cmlvQUFJb2hlZDBTTWtKRjdaZEJqNUNiNHo2UkdKX3g3bzVTcm1FMzdpWVczSi03UEFscWZXVlB4OHpUZEpmSEhTMUc3eUxPdG9yOERxd1ZpendsdmlTN1EyQjJENWZLLVVRTHNTajQ3LXVQSlNjZkpnYXYyNXhySTc4NFA5S21GQnFKTmZDSkhWcWJqNjRIM3dXYTZvbGhGVHd1M2RXMVV0YzlJVDZNc1ZacXJ0Z0d4UVE?oc=5  
+
+### [KPMG client Westpac says ‘trust’ key to audit relationship - The Australian](https://news.google.com/rss/articles/CBMi3wFBVV95cUxObjBaRVhtTDlCLThSQThVOTdra0xlQXZfS3dyMWN3eld6SFRvQUNhS3Q2aWp5OUY3T3Z2OE1ZRGowNjhJWEJISnRISmQzbXFQd0p2azJhR01hdXFPUXRNQVpnR2xOZkhnTjVvX2l5N1hiZHRfNi1PTHM2V0lWZUFCMy03VTY4SGt4cmFmRWVla2JzZVBtWWJxMnlTQlBVX0Q4LU5BNTJITHRTSnhQWnM1b0dNVmhfU1BBdTlyX3MyYTFzTE1XYm9Na0dHaFRrbmtwbGl0djNsVTlNQW9OYmVN0gHkAUFVX3lxTE80Zlk5YUlxZWwtdDhIbVdEM3NSUjFOc2tGQUE5QWhTVlVaOVJ5OVJkRmRQZEQtUXBrSmVOVElfY1M4MlNDQmVqdThVUFF1Z2tWM2hRLU05eTJpTS1DNTNDWWlXTFJQSmVabTZTZXgwOERpYUdJalo3ZjBLNV9wWEw4dWhfaGlvR2ZpbUdfand5TUtqZmloWnRVVVdQZktmN1EwS1FhNEZJVG42V2hyM3FZRjZaMW5tV2xnOGdOQlVDT3g2RGNqTW8yTlhDSjQtbk93V1k3T3Y2dFlqSEgyV1pPRFJJQw?oc=5)
+**Chapter**: 4. The Lendlease Breach  
+**Date**: Wed, 09 Sep 2026 05:48:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMi3wFBVV95cUxObjBaRVhtTDlCLThSQThVOTdra0xlQXZfS3dyMWN3eld6SFRvQUNhS3Q2aWp5OUY3T3Z2OE1ZRGowNjhJWEJISnRISmQzbXFQd0p2azJhR01hdXFPUXRNQVpnR2xOZkhnTjVvX2l5N1hiZHRfNi1PTHM2V0lWZUFCMy03VTY4SGt4cmFmRWVla2JzZVBtWWJxMnlTQlBVX0Q4LU5BNTJITHRTSnhQWnM1b0dNVmhfU1BBdTlyX3MyYTFzTE1XYm9Na0dHaFRrbmtwbGl0djNsVTlNQW9OYmVN0gHkAUFVX3lxTE80Zlk5YUlxZWwtdDhIbVdEM3NSUjFOc2tGQUE5QWhTVlVaOVJ5OVJkRmRQZEQtUXBrSmVOVElfY1M4MlNDQmVqdThVUFF1Z2tWM2hRLU05eTJpTS1DNTNDWWlXTFJQSmVabTZTZXgwOERpYUdJalo3ZjBLNV9wWEw4dWhfaGlvR2ZpbUdfand5TUtqZmloWnRVVVdQZktmN1EwS1FhNEZJVG42V2hyM3FZRjZaMW5tV2xnOGdOQlVDT3g2RGNqTW8yTlhDSjQtbk93V1k3T3Y2dFlqSEgyV1pPRFJJQw?oc=5  
+
+### [As it happened: Mike Baird says KPMG’s response to whistleblower was too slow - The Age](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWUp6REN6WDE3LXhyRHVpUXFFZ3ZVSy1sNTlrQ1lGczFHSmJNUWpPd192RFJQSEczY0ZWcU9lVjFlSjk3OFhGeGFtay1iaUkwZHpxV3p4Zm8wR3FnbnUwMElycjhQUDRwNmh1WVZ5X0lWYW03c0szakswOUw1eXgtV0phOFRMNUpLYjV4cDNSTHVMaEEteFRvRjVVN1NkRXpnR19wUEZGVVJyeWpGQ1lyRk4xZlpON1RVWERRaWN1S2ptd3A5bWx6aFU2R2lNaFhFVWEwd05iVG4tWm9wYmc?oc=5)
+**Chapter**: 3. The Whistleblower  
+**Date**: Fri, 19 Jun 2026 07:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWUp6REN6WDE3LXhyRHVpUXFFZ3ZVSy1sNTlrQ1lGczFHSmJNUWpPd192RFJQSEczY0ZWcU9lVjFlSjk3OFhGeGFtay1iaUkwZHpxV3p4Zm8wR3FnbnUwMElycjhQUDRwNmh1WVZ5X0lWYW03c0szakswOUw1eXgtV0phOFRMNUpLYjV4cDNSTHVMaEEteFRvRjVVN1NkRXpnR19wUEZGVVJyeWpGQ1lyRk4xZlpON1RVWERRaWN1S2ptd3A5bWx6aFU2R2lNaFhFVWEwd05iVG4tWm9wYmc?oc=5  
+
+### [Ex-KPMG Australia executive sues firm after sacking over audit leak scandal - Reuters](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOY2hhYUxnOFdHRDdlUmFITGpUTkxJTDFkd29pWVlzNzMzMmFIb1AxWDYzM1AxLTV3OGR5Wkc4N1lNemhfUDVlRXBGd2pfbnczU21SU3VCV2JZR0R2Rk9VQ3ktZncxXzB5Q25la1JyWGs4d2hVUm9ZMm5GZTR6TUVxZjVQR0hYdVVqcDJsN1lMN0tLVU1DNVVnTlhScnJIZlRhYzJWMkVFMzQ3ZnQwa3pOYUxjUGduNkFYeHpqa2tyOEtxUWgtVURRTWJ2SzAyZUNxMGJScjlPbExtSnoxTWJPdU9mc0ZNZw?oc=5)
+**Chapter**: 4. The Lendlease Breach  
+**Date**: Thu, 03 Sep 2026 07:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMi5gFBVV95cUxOY2hhYUxnOFdHRDdlUmFITGpUTkxJTDFkd29pWVlzNzMzMmFIb1AxWDYzM1AxLTV3OGR5Wkc4N1lNemhfUDVlRXBGd2pfbnczU21SU3VCV2JZR0R2Rk9VQ3ktZncxXzB5Q25la1JyWGs4d2hVUm9ZMm5GZTR6TUVxZjVQR0hYdVVqcDJsN1lMN0tLVU1DNVVnTlhScnJIZlRhYzJWMkVFMzQ3ZnQwa3pOYUxjUGduNkFYeHpqa2tyOEtxUWgtVURRTWJ2SzAyZUNxMGJScjlPbExtSnoxTWJPdU9mc0ZNZw?oc=5  
+
+### [KPMG chair quits amid whistleblower scandal - The Weekly Times](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcFFSb0ZUZzUzNV9TRVdDejQzcmFqSWtidjA5QTRMcHlGOG5qZWtTSmNNWG1XMjkxUW1zajJsZ2dVQVpVUldwSzhhTG9FaFJoM3dFbVZmQUJzRGdHOFRid0xUZVRINHdxaHYxZ0xvZUk3am56bkZqeEplNXZHSVNISjdLQUVENi1hMzZKMGhkY3VXcVhENUd3UDN3WWZUczlVVkt6cEpvS3VnSEhzMHZmMnBQazJvZFdSNEQtNnFSSkNLTVN0Zkd6Vl92NzB0SnNx?oc=5)
+**Chapter**: 3. The Whistleblower  
+**Date**: Tue, 23 Jun 2026 07:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcFFSb0ZUZzUzNV9TRVdDejQzcmFqSWtidjA5QTRMcHlGOG5qZWtTSmNNWG1XMjkxUW1zajJsZ2dVQVpVUldwSzhhTG9FaFJoM3dFbVZmQUJzRGdHOFRid0xUZVRINHdxaHYxZ0xvZUk3am56bkZqeEplNXZHSVNISjdLQUVENi1hMzZKMGhkY3VXcVhENUd3UDN3WWZUczlVVkt6cEpvS3VnSEhzMHZmMnBQazJvZFdSNEQtNnFSSkNLTVN0Zkd6Vl92NzB0SnNx?oc=5  
+
+### [KPMG Australia’s ban on government work extended until October - Capital Brief](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQay1nSmZZRG02YllSbUtXekRNZno1ZlVzZzdkbEhyR3AzUlI5ai1pb25TVDNMaVlmQ3NZbVBhUXhJZ2RPNTRSN3lLN21ieWMxVUl5VFFZUEk2RkdCNm8tcTRjbkNKTnZMVjRkaVNVaUhkNFhCSHZ5eXJmN2Z4TDNzN0dJSGtXTXFBb2VXa05JbDhFajkyV2JmOUpJWkxUSmkwalctdjlTSkpRS294dURWQlVUc2hQMUY0N3BsUjRDRElFTExhR2xxYW5lWXdOdHo3bXpv?oc=5)
+**Chapter**: 10. The Government's $27.4M Problem  
+**Date**: Wed, 09 Sep 2026 07:08:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMi0wFBVV95cUxQay1nSmZZRG02YllSbUtXekRNZno1ZlVzZzdkbEhyR3AzUlI5ai1pb25TVDNMaVlmQ3NZbVBhUXhJZ2RPNTRSN3lLN21ieWMxVUl5VFFZUEk2RkdCNm8tcTRjbkNKTnZMVjRkaVNVaUhkNFhCSHZ5eXJmN2Z4TDNzN0dJSGtXTXFBb2VXa05JbDhFajkyV2JmOUpJWkxUSmkwalctdjlTSkpRS294dURWQlVUc2hQMUY0N3BsUjRDRElFTExhR2xxYW5lWXdOdHo3bXpv?oc=5  
+
+### [KPMG’s own review finds approach to whistleblowers ‘overly legalistic’ - AFR](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcnpUaHUwWHhSSmc3ajlKbTljUWJFVi0xMjVjLWt4QlRtaGpKUC1JZmh1cUNlX1JTUThBazYwMkdmN3c5UHBZODJKWHNHVWo3N0ZZTHFJb1F1NzVDR3VYZkhpR3JGT181bHlLY2hfSjdJY0NaMENLTlpuTmhmeGF3cXJFTkpyVmhGY3pBT2RLRkNDcmJ4Skd6WHNKTnVTYXhUSUFkLXhob3VuV0RlWC1oVndnZVVzWjAtaGdCSm4tbDk4OV9HbjgzZEdfdGJRaW0xY0E?oc=5)
+**Chapter**: 3. The Whistleblower  
+**Date**: Thu, 17 Sep 2026 06:25:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcnpUaHUwWHhSSmc3ajlKbTljUWJFVi0xMjVjLWt4QlRtaGpKUC1JZmh1cUNlX1JTUThBazYwMkdmN3c5UHBZODJKWHNHVWo3N0ZZTHFJb1F1NzVDR3VYZkhpR3JGT181bHlLY2hfSjdJY0NaMENLTlpuTmhmeGF3cXJFTkpyVmhGY3pBT2RLRkNDcmJ4Skd6WHNKTnVTYXhUSUFkLXhob3VuV0RlWC1oVndnZVVzWjAtaGdCSm4tbDk4OV9HbjgzZEdfdGJRaW0xY0E?oc=5  
+
+### [‘Under review’: Lendlease looks to close the book on KPMG - The Australian](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQLVZITW5uZHdXSS13MWNyeWlRcVBCcGVoYk1TdUk0MDFGQ2ZvQ3Q3S08teldTU3d0S25wQ1JJdUhmUkVVMk83NC1UeWNMSkJSU2dpQkhxU0VZaVY5dTZMNE5EdE1aTjc1RGlVTm9UODV1eWxIaEVEeGhqX3VRT1lud1FxNGpYeGo3aFlqU21uRU5SNnEwbGRjOFQySXdIV1F1SUJiSF9nOHptd2U0azB6U0lCSTFYY25iRmJYQWEwY3BmZnROTUVLaEh6TW5DQ3lyZUVOSmx4cElqQ25wekxhYXo4TnJGV3VIM1JKSmJEWE1rZHM?oc=5)
+**Chapter**: 4. The Lendlease Breach  
+**Date**: Mon, 01 Jun 2026 07:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMi8wFBVV95cUxQLVZITW5uZHdXSS13MWNyeWlRcVBCcGVoYk1TdUk0MDFGQ2ZvQ3Q3S08teldTU3d0S25wQ1JJdUhmUkVVMk83NC1UeWNMSkJSU2dpQkhxU0VZaVY5dTZMNE5EdE1aTjc1RGlVTm9UODV1eWxIaEVEeGhqX3VRT1lud1FxNGpYeGo3aFlqU21uRU5SNnEwbGRjOFQySXdIV1F1SUJiSF9nOHptd2U0azB6U0lCSTFYY25iRmJYQWEwY3BmZnROTUVLaEh6TW5DQ3lyZUVOSmx4cElqQ25wekxhYXo4TnJGV3VIM1JKSmJEWE1rZHM?oc=5  
+
+### [‘Difficult to read’: damning report prompts KPMG Australia to accept whistleblower failing - International Tax Review](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOVTNESHB6N1VtTXM5NVJFZ05LWEFkdC1lR04xcGpWYlJMeDNHQmJMa3NYalpndjFJdDBjb3VwYlRDRDRIc0xXUGoxWnRYQ2pYeTcwY1ZzS05EZXl6RTl3SHBBdjhpR2dYUl95WDBMVnpWZW5LeDNlYldrNzNvTy1wM1dNQjF6ZEtIZVlwemFqYURWWEZnbjNhSTgzWk81VVJCblk3N2lhZGVMUG5JT2d3Y24yaGpWQkZVSGhEWG5nOFY5ZGlRcjNSd3FLTi16VTFZYk9xd0tQNllNNVNHeUxLQXJYN3g0NjdSZEZXcGRfdjJzM3RJaDdEVDRCRQ?oc=5)
+**Chapter**: 3. The Whistleblower  
+**Date**: Thu, 17 Sep 2026 15:56:06 GMT  
+**Source**: https://news.google.com/rss/articles/CBMi-wFBVV95cUxOVTNESHB6N1VtTXM5NVJFZ05LWEFkdC1lR04xcGpWYlJMeDNHQmJMa3NYalpndjFJdDBjb3VwYlRDRDRIc0xXUGoxWnRYQ2pYeTcwY1ZzS05EZXl6RTl3SHBBdjhpR2dYUl95WDBMVnpWZW5LeDNlYldrNzNvTy1wM1dNQjF6ZEtIZVlwemFqYURWWEZnbjNhSTgzWk81VVJCblk3N2lhZGVMUG5JT2d3Y24yaGpWQkZVSGhEWG5nOFY5ZGlRcjNSd3FLTi16VTFZYk9xd0tQNllNNVNHeUxLQXJYN3g0NjdSZEZXcGRfdjJzM3RJaDdEVDRCRQ?oc=5  
+
+### [KPMG chair quits amid whistleblower scandal - The Australian](https://news.google.com/rss/articles/CBMizwFBVV95cUxPN2NPQ0l6RTlBZFk5WG9HRS1WeWpqbTJKWWwwRVpfTzRLVjFZSkJhM1lGbXZkbUlrenRzbHlxWVhCWGViYUZzZUN5NGFMOHA5MGtvOGR0LUs0c3lKWkRaalJnNE9qVUI5R0o1Qm5aNThZTFgxeHFnVjg3ajhhTl9GOEs4TDd2SlZvNDFibXNTeU9tNGJrdXgzSTRROUZaNExFTXQ1em9UZU81TXpqZ19YUmlZV0JaT3FaZm45SGxOd0RDR3VQc01KclZ2dGJGVDA?oc=5)
+**Chapter**: 3. The Whistleblower  
+**Date**: Tue, 23 Jun 2026 07:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMizwFBVV95cUxPN2NPQ0l6RTlBZFk5WG9HRS1WeWpqbTJKWWwwRVpfTzRLVjFZSkJhM1lGbXZkbUlrenRzbHlxWVhCWGViYUZzZUN5NGFMOHA5MGtvOGR0LUs0c3lKWkRaalJnNE9qVUI5R0o1Qm5aNThZTFgxeHFnVjg3ajhhTl9GOEs4TDd2SlZvNDFibXNTeU9tNGJrdXgzSTRROUZaNExFTXQ1em9UZU81TXpqZ19YUmlZV0JaT3FaZm45SGxOd0RDR3VQc01KclZ2dGJGVDA?oc=5  
+
+### [Sacked KPMG exec Eileen Hoggett sues firm - The Australian](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNHJDT2xjX3dWS19kZDBDZk10eUJ5MDhacXk3cl9yOWpWbG4tSVA4dEx0X3JqRVI4NlhneWF3NUR6bkJnRk1EZU1KaUV2TmRuemRnenFmbzJydjhIa0FmRmdDSi0tUTh4ZEdzOFRRajF3bkRXTmhyS3NWTFcybC1uQ3JCOHREYzhxRURuNUJFay1NTFZzTVRlS21OLUR1QkRXYlRhNWpLQ0JFX0I1VDJmdDdydThEN3NROWd4RG0yVWs2WFhIU2tWS3Q2WjBVYWxXUjVoU2dicHJJOWFIWGc?oc=5)
+**Chapter**: 5. The Cast of Characters  
+**Date**: Thu, 03 Sep 2026 07:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNHJDT2xjX3dWS19kZDBDZk10eUJ5MDhacXk3cl9yOWpWbG4tSVA4dEx0X3JqRVI4NlhneWF3NUR6bkJnRk1EZU1KaUV2TmRuemRnenFmbzJydjhIa0FmRmdDSi0tUTh4ZEdzOFRRajF3bkRXTmhyS3NWTFcybC1uQ3JCOHREYzhxRURuNUJFay1NTFZzTVRlS21OLUR1QkRXYlRhNWpLQ0JFX0I1VDJmdDdydThEN3NROWd4RG0yVWs2WFhIU2tWS3Q2WjBVYWxXUjVoU2dicHJJOWFIWGc?oc=5  
+
+### [KPMG whistleblower seeks cap on potential legal costs - The Australian](https://news.google.com/rss/articles/CBMisAJBVV95cUxNRTlydFRwRktZbXRkZU44RV9WRi1WaUJReHhqRkZOeHNncnZUdUFDWXdrMldsWkJiS0QzZmtQRmFDSnl6elpqU3p4VUxTRjFCYi1id2dxNTJLRndkUmhvYThiVnlMZ1FZZFpITTVVY1lRNkRXNmV2WUJ1OW5fbnAzaXl1bEwxTDlNZFdfb2p1OTlvQldBR3BoQ1RJWTZyVGVJdms1NFpKMlVXcVlwMzZ1TkhMajBYRzFkcmVlaHMtZlUzbjdPMHBUU0NIUmxOUy1FSXVXTXR4NDhDSlZWYWlDY0hwTEE2aWJUTi1yZ1RaMTZWek1waGhmYXVzSVFxSXBmRkl0b1ZjY2t6UHVIZzVFNUZHNm0zUkE0MlI1ZDlBb2x0RDBWWmgyaTg2NXlfazVU?oc=5)
+**Chapter**: 3. The Whistleblower  
+**Date**: Fri, 07 Aug 2026 07:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMisAJBVV95cUxNRTlydFRwRktZbXRkZU44RV9WRi1WaUJReHhqRkZOeHNncnZUdUFDWXdrMldsWkJiS0QzZmtQRmFDSnl6elpqU3p4VUxTRjFCYi1id2dxNTJLRndkUmhvYThiVnlMZ1FZZFpITTVVY1lRNkRXNmV2WUJ1OW5fbnAzaXl1bEwxTDlNZFdfb2p1OTlvQldBR3BoQ1RJWTZyVGVJdms1NFpKMlVXcVlwMzZ1TkhMajBYRzFkcmVlaHMtZlUzbjdPMHBUU0NIUmxOUy1FSXVXTXR4NDhDSlZWYWlDY0hwTEE2aWJUTi1yZ1RaMTZWek1waGhmYXVzSVFxSXBmRkl0b1ZjY2t6UHVIZzVFNUZHNm0zUkE0MlI1ZDlBb2x0RDBWWmgyaTg2NXlfazVU?oc=5  
+
+### [ASIC probes big four – after gutting its own audit teams - The Australian](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRE1jdFFUcnFHRnppY0VaVDBfM2FNbElpWDcwc3dnMWZ2MmZjT2FvSkZjTHl6OVI5MUFjTVI4NW5EcWhwUkRCZkpLeTFSOUNPdU8xd0tLUlpZTkl4MzlWWHEtbGw2a0xuQ0RjNG9qb3FUMkhuVkFtWnNiNF9CblZ5a0JRQTJfdHhHVy1Nak9xMHlkcjEzOFkyS1hqWlBNVE1WcDRvNUFOZjdUM2FuQmdyRGlQbWxFVkdDYkFNZndVdUo4c1l5X1MtdHdldW1RdEFfU200eTZYWHZqaTh4bWZ0TG5uNFZOOFNVdHJrUEV4Q0lrbTF1?oc=5)
+**Chapter**: 9. ASIC Enters  
+**Date**: Thu, 09 Jul 2026 07:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRE1jdFFUcnFHRnppY0VaVDBfM2FNbElpWDcwc3dnMWZ2MmZjT2FvSkZjTHl6OVI5MUFjTVI4NW5EcWhwUkRCZkpLeTFSOUNPdU8xd0tLUlpZTkl4MzlWWHEtbGw2a0xuQ0RjNG9qb3FUMkhuVkFtWnNiNF9CblZ5a0JRQTJfdHhHVy1Nak9xMHlkcjEzOFkyS1hqWlBNVE1WcDRvNUFOZjdUM2FuQmdyRGlQbWxFVkdDYkFNZndVdUo4c1l5X1MtdHdldW1RdEFfU200eTZYWHZqaTh4bWZ0TG5uNFZOOFNVdHJrUEV4Q0lrbTF1?oc=5  
+
+### [After the heavy fallout, KPMG whistleblower says: ‘I would not do it again’ - The Australian](https://news.google.com/rss/articles/CBMilwJBVV95cUxNWWJpWnBXbVViNTJzMzhxVXRHT3hlTExabEZOT1BYUEpoREZKd3lmZGNCeVRBSnpwREJNNExZUUFlNXQtbjZCRFYtblRNclRCNFUxUTRTMjAtY09fanlvUHpIQVYyVmUwTndBUHJIdEZQRVVndi13czVpWTRucFhJZXV6NmpaXzBQb01KdTVKcVpkZzdiWUFtbW9yYkVTVlVWeVNBcEo1RkpIZnFoVGlWeTBKczlDZVRMbGRkdjMtTy03QlU3V0NZUVhFcmxPMzVKRWZSeFhrUWpHZktfaWNiZ1k2RnNvX2xlaHpWd2hQdXpFQjZHQTV6QVF4Y29TT0kzUDdBTWpXa1l0a2FZUlhTeE56YnRveTg?oc=5)
+**Chapter**: 3. The Whistleblower  
+**Date**: Mon, 22 Jun 2026 07:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMilwJBVV95cUxNWWJpWnBXbVViNTJzMzhxVXRHT3hlTExabEZOT1BYUEpoREZKd3lmZGNCeVRBSnpwREJNNExZUUFlNXQtbjZCRFYtblRNclRCNFUxUTRTMjAtY09fanlvUHpIQVYyVmUwTndBUHJIdEZQRVVndi13czVpWTRucFhJZXV6NmpaXzBQb01KdTVKcVpkZzdiWUFtbW9yYkVTVlVWeVNBcEo1RkpIZnFoVGlWeTBKczlDZVRMbGRkdjMtTy03QlU3V0NZUVhFcmxPMzVKRWZSeFhrUWpHZktfaWNiZ1k2RnNvX2xlaHpWd2hQdXpFQjZHQTV6QVF4Y29TT0kzUDdBTWpXa1l0a2FZUlhTeE56YnRveTg?oc=5  
+
+### [Lendlease boots tainted KPMG auditors as ASIC probe widens - The Australian](https://news.google.com/rss/articles/CBMihAJBVV95cUxOcGowYVJVS2lQYmpsNFJsaC11eHFvUFRjSGhDSm02WC1aSDc4X2RMRWlfTjhoWkpXRHMxOTE1SDk3aDJxNkNuWm5oMmh2TEFEdUlXUjJiOVpnYWwwUXVIVGRTM29WbXZaelBmaW9RMHgxVHhrSEV5WldxdzBhUzZjREpmdVNZRkJsVFJQZlEwME1VREZYTkVWWTRLRTJjMDZpRmRWc3I2cUhtdnRqYU5TZV9vWHQyMlZrUWlxWVdISWJudnVGVnZDRVBQR0wya1lSeElmTnJUdGFEWGc2aUxvaHk4Zi1LVzlzNGpBd0tsOTByN2JqSjhGNUhGZFo5VEdLSmE1UA?oc=5)
+**Chapter**: 4. The Lendlease Breach  
+**Date**: Fri, 05 Jun 2026 07:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMihAJBVV95cUxOcGowYVJVS2lQYmpsNFJsaC11eHFvUFRjSGhDSm02WC1aSDc4X2RMRWlfTjhoWkpXRHMxOTE1SDk3aDJxNkNuWm5oMmh2TEFEdUlXUjJiOVpnYWwwUXVIVGRTM29WbXZaelBmaW9RMHgxVHhrSEV5WldxdzBhUzZjREpmdVNZRkJsVFJQZlEwME1VREZYTkVWWTRLRTJjMDZpRmRWc3I2cUhtdnRqYU5TZV9vWHQyMlZrUWlxWVdISWJudnVGVnZDRVBQR0wya1lSeElmTnJUdGFEWGc2aUxvaHk4Zi1LVzlzNGpBd0tsOTByN2JqSjhGNUhGZFo5VEdLSmE1UA?oc=5  
+
+### [Sinking feeling for Hoggett as Dexus says she’s a no-go - The Australian](https://news.google.com/rss/articles/CBMikgJBVV95cUxOMno0WVFqU21sNzlxYVltbkUwMWd0b2Fhc1dVTkpLQ1dYS3ZBYmJqRVdGVUVBU2NUVE5fUnpMa1Q5NGpoOXFTeFVPYk42elZFVG1lajd4M2lORWdNZXprZWZQa2JDQ3ItYVctNkIzWGw3cTJpcEtZcXRzR1pMRnB4RklyRzF0cVNLNV84c05IWWN0amZ0RlNjbG82bUxaYnk4WGVRYkZlV0JoWGIzY1hwQk1zODBydjNTaFJvWnF5RnFSR3JqOXRaanFCMm1GdzROX2hvNmI5ckpSdXRHUUl2aVBheUkxMERfSlVOWmpsMjUyVFV0Q0cyRU5ndnlWYTR5UGxVU1NORFc2RkJCZDJrR1Bn?oc=5)
+**Chapter**: 4. The Lendlease Breach  
+**Date**: Wed, 03 Jun 2026 07:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMikgJBVV95cUxOMno0WVFqU21sNzlxYVltbkUwMWd0b2Fhc1dVTkpLQ1dYS3ZBYmJqRVdGVUVBU2NUVE5fUnpMa1Q5NGpoOXFTeFVPYk42elZFVG1lajd4M2lORWdNZXprZWZQa2JDQ3ItYVctNkIzWGw3cTJpcEtZcXRzR1pMRnB4RklyRzF0cVNLNV84c05IWWN0amZ0RlNjbG82bUxaYnk4WGVRYkZlV0JoWGIzY1hwQk1zODBydjNTaFJvWnF5RnFSR3JqOXRaanFCMm1GdzROX2hvNmI5ckpSdXRHUUl2aVBheUkxMERfSlVOWmpsMjUyVFV0Q0cyRU5ndnlWYTR5UGxVU1NORFc2RkJCZDJrR1Bn?oc=5  
+
+### [KPMG consultant admits to ‘gaps’ in its whistleblower report - SMH.com.au](https://news.google.com/rss/articles/CBMivgFBVV95cUxNeVFxRnZsbWtlZDFFc0hLZVVtUVJLSVNiZ2xWOFpHREc3OEV6TnNYZjh5T0taUmplcXBqakJ5ZEd0VzVlei1EVmJsZGQ3cW1YTzFZS0E2Q3JSZm9DYmREY0FQU0k3VTRYcEZvSmF0MWYxaXlXNGEzTGlkdWJaOGJYcldDdEZuZUd1Q0R2VUVYZm85bEZCOTZhdjNkcFEtM09ndVBIX2NLZHB4VDVlTmtzSDFWTmFfdUJudl92dVBB?oc=5)
+**Chapter**: 3. The Whistleblower  
+**Date**: Thu, 17 Sep 2026 05:56:09 GMT  
+**Source**: https://news.google.com/rss/articles/CBMivgFBVV95cUxNeVFxRnZsbWtlZDFFc0hLZVVtUVJLSVNiZ2xWOFpHREc3OEV6TnNYZjh5T0taUmplcXBqakJ5ZEd0VzVlei1EVmJsZGQ3cW1YTzFZS0E2Q3JSZm9DYmREY0FQU0k3VTRYcEZvSmF0MWYxaXlXNGEzTGlkdWJaOGJYcldDdEZuZUd1Q0R2VUVYZm85bEZCOTZhdjNkcFEtM09ndVBIX2NLZHB4VDVlTmtzSDFWTmFfdUJudl92dVBB?oc=5  
+
+### [Partners sanctioned as KPMG admits Lendlease board snoop - The Australian](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOWJyUG9pZVNEekRoN3RsZXpoTHh2ekwta1Z4VlVoazN0VzY2bHZYWXlNTHhoM0NMd3NJc1FZbTNtYi1fa2JiOTNZVzhtWmRSNlN6UGRCZXNkdWZBb3l2a2pZZWUxRjV2VDZheUFGM0NpbjlHX2gwY3hWZnhfYjFabHZ1NEY5clVXaWtxOFZlakRGQUJ3aWE5RXJSdDVWdnU5bWd6NFd4ME5GU3ZodVhmN3FVdlk3dkNneDVCZjJYRUZ1em1GTlRhR1djamZldjBmNzloODlSYzZaUDc2akFzWnpLSWpsNWo5N1ZQWVVwRkVLRFpOVEp3?oc=5)
+**Chapter**: 4. The Lendlease Breach  
+**Date**: Fri, 15 May 2026 07:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOWJyUG9pZVNEekRoN3RsZXpoTHh2ekwta1Z4VlVoazN0VzY2bHZYWXlNTHhoM0NMd3NJc1FZbTNtYi1fa2JiOTNZVzhtWmRSNlN6UGRCZXNkdWZBb3l2a2pZZWUxRjV2VDZheUFGM0NpbjlHX2gwY3hWZnhfYjFabHZ1NEY5clVXaWtxOFZlakRGQUJ3aWE5RXJSdDVWdnU5bWd6NFd4ME5GU3ZodVhmN3FVdlk3dkNneDVCZjJYRUZ1em1GTlRhR1djamZldjBmNzloODlSYzZaUDc2akFzWnpLSWpsNWo5N1ZQWVVwRkVLRFpOVEp3?oc=5  
+
+### [KPMG faces ban over $27.4m in contracts - Geelong Advertiser](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQkt5c2JPeFltand2T3BmNGh0cGpCdGNHS3dRUXBYZjBzcUdRNHJFWFFpU0VzR05wZl9ScDZ0c0J4cmp3QlNQMGU4aEp2ZHllZkVSTW9TSTY0SGpXeTd2TjNlZUdPa3Yxd1ozUV9uckRkNWw2QmZCMmZvTTlsRTBmeGU5VG1UUGk1UHY1LUJPQW9BeFp0LVJDMVFfYkhQNXZBZld1UkZfSXBBNldDekxHbFRaOTd1N0dlN2tyYVR4ZlJsZVlFMGVQMVNQVlZVQ19fLU9rdkpkdGpXZ0RWdERRSGltVmF4TWZJT3dPYS1n?oc=5)
+**Chapter**: 10. The Government's $27.4M Problem  
+**Date**: Fri, 05 Jun 2026 07:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQkt5c2JPeFltand2T3BmNGh0cGpCdGNHS3dRUXBYZjBzcUdRNHJFWFFpU0VzR05wZl9ScDZ0c0J4cmp3QlNQMGU4aEp2ZHllZkVSTW9TSTY0SGpXeTd2TjNlZUdPa3Yxd1ozUV9uckRkNWw2QmZCMmZvTTlsRTBmeGU5VG1UUGk1UHY1LUJPQW9BeFp0LVJDMVFfYkhQNXZBZld1UkZfSXBBNldDekxHbFRaOTd1N0dlN2tyYVR4ZlJsZVlFMGVQMVNQVlZVQ19fLU9rdkpkdGpXZ0RWdERRSGltVmF4TWZJT3dPYS1n?oc=5  
+
+### [Why audit stench is rising as new KPMG whistleblower emerges - The Australian](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZVpjQmVHQldBdlI5TUZDWHpLOWtlcHpyRVpVSWdERVpxeDZwenJtdm83OVlfUVplY0R6N3lvY1VPdnBTWjRZTU1pcXpHLXQ3QVpkbE50Mk4zSWxac1lpb3NmWHhEV3ZFUGVrT2F5anF3Znd1aDZ1YnNHSnctRWdFUDEtRHlMdjF2SEc1cG92SHhBNGdhcVpGQ0d6cVBldFZBeU90MUptUlJMVEJuNERUU1hIUWk1UC0xUldqODViRExleWhycGtENVFmYlc3bGs2MDRjcllHdXRtNXoza2xIZkhfUmlHZnRlXzY0dEp2aDJvTXBrbFpJ?oc=5)
+**Chapter**: 3. The Whistleblower  
+**Date**: Thu, 28 May 2026 07:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZVpjQmVHQldBdlI5TUZDWHpLOWtlcHpyRVpVSWdERVpxeDZwenJtdm83OVlfUVplY0R6N3lvY1VPdnBTWjRZTU1pcXpHLXQ3QVpkbE50Mk4zSWxac1lpb3NmWHhEV3ZFUGVrT2F5anF3Znd1aDZ1YnNHSnctRWdFUDEtRHlMdjF2SEc1cG92SHhBNGdhcVpGQ0d6cVBldFZBeU90MUptUlJMVEJuNERUU1hIUWk1UC0xUldqODViRExleWhycGtENVFmYlc3bGs2MDRjcllHdXRtNXoza2xIZkhfUmlHZnRlXzY0dEp2aDJvTXBrbFpJ?oc=5  
+
+### [‘Obscene’: KPMG’s whistleblower hotline under fire - The Australian](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOLS1tMDNYWW5sX21mLXRkaWlzU1ItNlAydVB3OUVJVlpXZ2kxT3ZYMlRUYmpoTS1IYTBrdzY0aW13bFh6ZzBCRnUxek5lbnBDWHM3R1pTWGhWcE1NblFBZVBpa1ZYQmhHSzlkWEFfdWIwakgxSlZTMmwxdG9ONGEwckszWnpXQ1JkeFhldVZ4YzNmRmViODZVYUxMdjVuNkhfc3pkNmJ4WFNraVBDdjVUWmM1OGluaUVzVEQyMjFlOGt2ZGl5UnRsdVBodGg4WUpTRXB6dzg2UTVtOVVtRVJDUU9kdmtxYUxkdjZYTEFTdkI4U1NM?oc=5)
+**Chapter**: 3. The Whistleblower  
+**Date**: Sun, 31 May 2026 07:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMi9AFBVV95cUxOLS1tMDNYWW5sX21mLXRkaWlzU1ItNlAydVB3OUVJVlpXZ2kxT3ZYMlRUYmpoTS1IYTBrdzY0aW13bFh6ZzBCRnUxek5lbnBDWHM3R1pTWGhWcE1NblFBZVBpa1ZYQmhHSzlkWEFfdWIwakgxSlZTMmwxdG9ONGEwckszWnpXQ1JkeFhldVZ4YzNmRmViODZVYUxMdjVuNkhfc3pkNmJ4WFNraVBDdjVUWmM1OGluaUVzVEQyMjFlOGt2ZGl5UnRsdVBodGg4WUpTRXB6dzg2UTVtOVVtRVJDUU9kdmtxYUxkdjZYTEFTdkI4U1NM?oc=5  
+
+### [Yates steps out as KPMG scandal triggers accounting crackdown - The Australian](https://news.google.com/rss/articles/CBMihgJBVV95cUxNSFhRSl81NFlKcDF5WWdseml1NWlWeU1xS2JEVWx6bHVKaFhnZXVxUUJlM0lUWHdwZVdNMFVscnlJaGVvcTF6V0Robk9vM0cyNW5zazVyNmhKVnFTZnBfQWZqeV9NWVN5eFJQelYwRzYxSFppQ0NxQm1KUEdhc1J5YnEtcklOd1BSdUtVa3lqclRuMkdXYk00TDlIVjBYSkc4N1lJd2xES2Rtby04Mk14VFdmbGpNQ1JENnZPakQ1RFdlVmN2MC1BSzRSWnhZNWtxeGVUM2hFSkRaZGtONV9Oc2xxNUJjWTF5ejI2Q01ISnoxRGdNa25ZYk1OQjZvbXFLNHp1dkpR?oc=5)
+**Chapter**: 5. The Cast of Characters  
+**Date**: Thu, 11 Jun 2026 07:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMihgJBVV95cUxNSFhRSl81NFlKcDF5WWdseml1NWlWeU1xS2JEVWx6bHVKaFhnZXVxUUJlM0lUWHdwZVdNMFVscnlJaGVvcTF6V0Robk9vM0cyNW5zazVyNmhKVnFTZnBfQWZqeV9NWVN5eFJQelYwRzYxSFppQ0NxQm1KUEdhc1J5YnEtcklOd1BSdUtVa3lqclRuMkdXYk00TDlIVjBYSkc4N1lJd2xES2Rtby04Mk14VFdmbGpNQ1JENnZPakQ1RFdlVmN2MC1BSzRSWnhZNWtxeGVUM2hFSkRaZGtONV9Oc2xxNUJjWTF5ejI2Q01ISnoxRGdNa25ZYk1OQjZvbXFLNHp1dkpR?oc=5  
+
+### [KPMG fails its own character test on Hoggett - The Australian](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNS1JiTzFGUmtha3dkMFZmRmhWOWtlSC1IQldva1hKVDJ0TGFOellfWEdYblVIUkJMQkZBenRzTG9iSS04b0p0NEw3SG9kemhuZ1JhZzFEUnV4Xzlmcldnd19UQ2IzTmVhRlpmTUVBbDl5ZUtGRlpKUklJeWZyS0ZFLUZDRmVhUlVrSGxyeXJLeFBBUFJZdVFFLUFBTDZIQnlPbjJxVU0tQ3pYanJiVExycGtDcmxBZlk4R1dpbGR6UjMtakxmcXpWcjN6SFd1cG5tQkxvVWJIdmdfbUpNYTlHUWlpelk3SjJmSlJabHFyMXJJdGds?oc=5)
+**Chapter**: 5. The Cast of Characters  
+**Date**: Fri, 05 Jun 2026 07:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMi9AFBVV95cUxNS1JiTzFGUmtha3dkMFZmRmhWOWtlSC1IQldva1hKVDJ0TGFOellfWEdYblVIUkJMQkZBenRzTG9iSS04b0p0NEw3SG9kemhuZ1JhZzFEUnV4Xzlmcldnd19UQ2IzTmVhRlpmTUVBbDl5ZUtGRlpKUklJeWZyS0ZFLUZDRmVhUlVrSGxyeXJLeFBBUFJZdVFFLUFBTDZIQnlPbjJxVU0tQ3pYanJiVExycGtDcmxBZlk4R1dpbGR6UjMtakxmcXpWcjN6SFd1cG5tQkxvVWJIdmdfbUpNYTlHUWlpelk3SjJmSlJabHFyMXJJdGds?oc=5  
+
+### [Finance Department review could block KPMG from Commonwealth contracts - Capital Brief](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOYUFZODNWekpiS1JkWVBBczE2UFFKYnJNRXFlbWpmdnJYVnBxcEcwek8waWlYR2QtY0xBSkZCMzJqNy1INGgyUW9xN09RMVlfYWJtb2pDTVk3NXdYRVBkZGVERElPdG9QUlZGdGpHRkpiWnVHNDQxejBmYXlQNGdLaDFFbFQ4dkowT09jR0toTWpHQTlTb2xoX3dzdi1PQ2Zqc2lfWDBNdWpZaTBueXdlQ3MzVzRubXlVY1pyVjBUZTRMb1JwZElBN1dZeXVFVGRMWHVrRVA2R2ZnQkxON0Q4cFNrZjFqdThkb253?oc=5)
+**Chapter**: 10. The Government's $27.4M Problem  
+**Date**: Tue, 22 Sep 2026 19:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMi6wFBVV95cUxOYUFZODNWekpiS1JkWVBBczE2UFFKYnJNRXFlbWpmdnJYVnBxcEcwek8waWlYR2QtY0xBSkZCMzJqNy1INGgyUW9xN09RMVlfYWJtb2pDTVk3NXdYRVBkZGVERElPdG9QUlZGdGpHRkpiWnVHNDQxejBmYXlQNGdLaDFFbFQ4dkowT09jR0toTWpHQTlTb2xoX3dzdi1PQ2Zqc2lfWDBNdWpZaTBueXdlQ3MzVzRubXlVY1pyVjBUZTRMb1JwZElBN1dZeXVFVGRMWHVrRVA2R2ZnQkxON0Q4cFNrZjFqdThkb253?oc=5  
+
+### [KPMG audit scandal expands into Westpac C-suite - AFR](https://news.google.com/rss/articles/CBMitgFBVV95cUxPYjB3WVhGRnAtZlhoM0FRNjFxbU1CSHcwYjEwU3AweVM4UVFOQU5BMUphY3FLakl5dDEwT3hPc0liSm5YSHNsWE5XbEV4M05CSnkwM0l4b3RDOWo4TnVBTVY4VmVSYUNhZUZlOWhuUTVDMGpsNTFMaVRpdG9tUUxNOHJDUDRlLWhrUGJlcGg3Zmx2UzhuSzFzdzNvdjRnRjV3UDUwcE0xeVkzYWtfRy1wOHhVYWU0QQ?oc=5)
+**Chapter**: 4. The Lendlease Breach  
+**Date**: Thu, 24 Sep 2026 19:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMitgFBVV95cUxPYjB3WVhGRnAtZlhoM0FRNjFxbU1CSHcwYjEwU3AweVM4UVFOQU5BMUphY3FLakl5dDEwT3hPc0liSm5YSHNsWE5XbEV4M05CSnkwM0l4b3RDOWo4TnVBTVY4VmVSYUNhZUZlOWhuUTVDMGpsNTFMaVRpdG9tUUxNOHJDUDRlLWhrUGJlcGg3Zmx2UzhuSzFzdzNvdjRnRjV3UDUwcE0xeVkzYWtfRy1wOHhVYWU0QQ?oc=5  
+
+### [KPMG client Westpac says ‘trust’ key to audit relationship - The Australian](https://news.google.com/rss/articles/CBMi3wFBVV95cUxObjBaRVhtTDlCLThSQThVOTdra0xlQXZfS3dyMWN3eld6SFRvQUNhS3Q2aWp5OUY3T3Z2OE1ZRGowNjhJWEJISnRISmQzbXFQd0p2azJhR01hdXFPUXRNQVpnR2xOZkhnTjVvX2l5N1hiZHRfNi1PTHM2V0lWZUFCMy03VTY4SGt4cmFmRWVla2JzZVBtWWJxMnlTQlBVX0Q4LU5BNTJITHRTSnhQWnM1b0dNVmhfU1BBdTlyX3MyYTFzTE1XYm9Na0dHaFRrbmtwbGl0djNsVTlNQW9OYmVN?oc=5)
+**Chapter**: 4. The Lendlease Breach  
+**Date**: Wed, 09 Sep 2026 07:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMi3wFBVV95cUxObjBaRVhtTDlCLThSQThVOTdra0xlQXZfS3dyMWN3eld6SFRvQUNhS3Q2aWp5OUY3T3Z2OE1ZRGowNjhJWEJISnRISmQzbXFQd0p2azJhR01hdXFPUXRNQVpnR2xOZkhnTjVvX2l5N1hiZHRfNi1PTHM2V0lWZUFCMy03VTY4SGt4cmFmRWVla2JzZVBtWWJxMnlTQlBVX0Q4LU5BNTJITHRTSnhQWnM1b0dNVmhfU1BBdTlyX3MyYTFzTE1XYm9Na0dHaFRrbmtwbGl0djNsVTlNQW9OYmVN?oc=5  
+
+### [KPMG faces ban over $27.4m in contracts - The Australian](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWm5MVnB5Qk85WGg5YjFXcU9DMXlQTl91a01lZDdqRXQ4dS00dHhYODAwLTdXQ2RSUVRmNi03ekJ5SUpJc05pbDBPLWxhQllIT1JpM2JSWHJqdWFpREZ5dnpKV0VuZ0hXNWVuY0JyMTZSWU1tUjVmSUR0SmMtZFpIekUtVDZSTE9RR0l3OHEyMUlQbjMtNkZtUHpxeDBhSDJ2YW5xTWhuWHNmTlI3UkZoRmFSRWRQTHRoT3ZvV05sZGRxM1pGMU9PLVR4LUdaanczbnNwajJ1clRPNmktMDVyVG1OQ2liYlNsZ2tDVGp2WjJZc2hjamc?oc=5)
+**Chapter**: 10. The Government's $27.4M Problem  
+**Date**: Fri, 05 Jun 2026 07:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWm5MVnB5Qk85WGg5YjFXcU9DMXlQTl91a01lZDdqRXQ4dS00dHhYODAwLTdXQ2RSUVRmNi03ekJ5SUpJc05pbDBPLWxhQllIT1JpM2JSWHJqdWFpREZ5dnpKV0VuZ0hXNWVuY0JyMTZSWU1tUjVmSUR0SmMtZFpIekUtVDZSTE9RR0l3OHEyMUlQbjMtNkZtUHpxeDBhSDJ2YW5xTWhuWHNmTlI3UkZoRmFSRWRQTHRoT3ZvV05sZGRxM1pGMU9PLVR4LUdaanczbnNwajJ1clRPNmktMDVyVG1OQ2liYlNsZ2tDVGp2WjJZc2hjamc?oc=5  
+
+### [KPMG Australia Audit Leak Scandal: Lendlease, Westpac, Dexus and Optus - big4news.com](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWSm1oa1JwWnVKNFFiTUhwbFU0TWdCMmFwSGxsa2pWelIxVXNVTnpDQVQyWlY1T2h4M0hZSWpXb1o1SlRIbWZDUzc3NjlIRUhnWkx0VlRn?oc=5)
+**Chapter**: 4. The Lendlease Breach  
+**Date**: Mon, 01 Jun 2026 07:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWSm1oa1JwWnVKNFFiTUhwbFU0TWdCMmFwSGxsa2pWelIxVXNVTnpDQVQyWlY1T2h4M0hZSWpXb1o1SlRIbWZDUzc3NjlIRUhnWkx0VlRn?oc=5  
+
+### [ASIC opens formal probe into three KPMG partners over whistleblower claims - Межа. Новини України.](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkbWFQcFljd2taZzhKeE5vSVJyNWlCRXRRdEN1d29YdlBLQjZkRTRBNjhKMi1HQ1lGS29WbkxHVVRieGV1UmRydC1kUXdtdWRHM3FCMllvNWdsLUxfbHZYdVEycUM?oc=5)
+**Chapter**: 3. The Whistleblower  
+**Date**: Fri, 05 Jun 2026 07:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkbWFQcFljd2taZzhKeE5vSVJyNWlCRXRRdEN1d29YdlBLQjZkRTRBNjhKMi1HQ1lGS29WbkxHVVRieGV1UmRydC1kUXdtdWRHM3FCMllvNWdsLUxfbHZYdVEycUM?oc=5  
+
+### [KPMG Whistleblower Complaint: Why Global Leadership Declined to Investigate - big4news.com](https://news.google.com/rss/articles/CBMia0FVX3lxTE00bHNZN0RlYjZCaHhYX25iMHQwSy1US2FMOGRwMnV6dWJLdUE0RWdILWJUY09iZVBzTVV3NTg2ZGRpc0tXOUJJeWVaX3lOU2JoOWpIaTM1UV9jbHg4V2tpMFJPX0tYam8tYW9r?oc=5)
+**Chapter**: 3. The Whistleblower  
+**Date**: Tue, 09 Jun 2026 07:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMia0FVX3lxTE00bHNZN0RlYjZCaHhYX25iMHQwSy1US2FMOGRwMnV6dWJLdUE0RWdILWJUY09iZVBzTVV3NTg2ZGRpc0tXOUJJeWVaX3lOU2JoOWpIaTM1UV9jbHg4V2tpMFJPX0tYam8tYW9r?oc=5  
+
+### [KPMG’s Andrew Yates steps out as scandal triggers industry-wide crackdown on Australia’s top accounting firms - The Courier Mail](https://news.google.com/rss/articles/CBMi9gFBVV95cUxORXpjbkZ3S3FFbUFUdkRJOVdsZ2xTWEZyRWJ4bUF2RzNCdTZ1XzZzNjYwbV83TWpDLWtJUHNudFJUZ1lvZjJzMGhxb2UyS1F0X3pwUmVHYXBuMEpYNFEwTjNkVE9sTWNCY05kZF9BT2pBUXBaUGY0OVA2THRfT1hZZVY1eEhxU3Zfc2MyYl9mVHZfeUZHOXVDOFNVVkdRVjUtTkNaUVdySVp5TFcyUEhtcE9aN0QyWEQtbjl1ekw2d2RvNEtPM3Z0cHY2bTJtZWcyblVKRTdKRkg0NFBhQUNlLWVGY2F1ZEl3MmllM1VDNEktSGFvOVE?oc=5)
+**Chapter**: 5. The Cast of Characters  
+**Date**: Thu, 11 Jun 2026 07:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMi9gFBVV95cUxORXpjbkZ3S3FFbUFUdkRJOVdsZ2xTWEZyRWJ4bUF2RzNCdTZ1XzZzNjYwbV83TWpDLWtJUHNudFJUZ1lvZjJzMGhxb2UyS1F0X3pwUmVHYXBuMEpYNFEwTjNkVE9sTWNCY05kZF9BT2pBUXBaUGY0OVA2THRfT1hZZVY1eEhxU3Zfc2MyYl9mVHZfeUZHOXVDOFNVVkdRVjUtTkNaUVdySVp5TFcyUEhtcE9aN0QyWEQtbjl1ekw2d2RvNEtPM3Z0cHY2bTJtZWcyblVKRTdKRkg0NFBhQUNlLWVGY2F1ZEl3MmllM1VDNEktSGFvOVE?oc=5  
+
+### [‘Just hold fire’: How KPMG’s whistleblower scandal nearly derailed a DFAT contract - Capital Brief](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQb0hPX1dKRU9iR2pjWjVlcUZyc3JUVmx6VUxFYTF6cUtZb3JkbDhNRDdHOGZqby1xLWFMVjVURGwxdGRzTWV2NVNlT0Z6VHNaRV9QS013U1pJNFBvMTZCdzhCNmsyeUFVLVp3cFg2Rjc5VzZmeVVBWFlIbVJITVBnblZ6eXVRbWdkdGxUSkZLbG4xS25PVmlXRHkxbWE4LTA4ZXhVbHFPWXlDckZhRy1UNHRwNHFUSE5xUmJ0ZGtraHpQTERIUWNVUkp4V1hTRVdKUkppRWk4M0s0WWZLNU5IbGlKYTFZWnhHTEUzQzlR?oc=5)
+**Chapter**: 3. The Whistleblower  
+**Date**: Tue, 29 Sep 2026 19:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMi7gFBVV95cUxQb0hPX1dKRU9iR2pjWjVlcUZyc3JUVmx6VUxFYTF6cUtZb3JkbDhNRDdHOGZqby1xLWFMVjVURGwxdGRzTWV2NVNlT0Z6VHNaRV9QS013U1pJNFBvMTZCdzhCNmsyeUFVLVp3cFg2Rjc5VzZmeVVBWFlIbVJITVBnblZ6eXVRbWdkdGxUSkZLbG4xS25PVmlXRHkxbWE4LTA4ZXhVbHFPWXlDckZhRy1UNHRwNHFUSE5xUmJ0ZGtraHpQTERIUWNVUkp4V1hTRVdKUkppRWk4M0s0WWZLNU5IbGlKYTFZWnhHTEUzQzlR?oc=5  
+
+### [Major bank drops KPMG in wake of audit leaks scandal – as it happened - ABC News & Headlines – Australian Broadcasting Corporation](https://news.google.com/rss/articles/CBMikAFBVV95cUxOeTVaUkdwZHg2WDlfblNMR2lIMGEtYWVld2l0RG0yM24xMk9sRHJPU0NSQkoyOFpZZ0ZqbHNXS3JFcXpGRDllNGtPOHJTbXZmS2N1QjgxY1ZZa1Y2WFRkTXhGQTNBZkg4MHk2c2tSTlViZGxadHZwc3NKTWM4dGtlS0dHbmhIMDdrWWpUdjh0bHQ?oc=5)
+**Chapter**: 4. The Lendlease Breach  
+**Date**: Thu, 01 Oct 2026 21:25:53 GMT  
+**Source**: https://news.google.com/rss/articles/CBMikAFBVV95cUxOeTVaUkdwZHg2WDlfblNMR2lIMGEtYWVld2l0RG0yM24xMk9sRHJPU0NSQkoyOFpZZ0ZqbHNXS3JFcXpGRDllNGtPOHJTbXZmS2N1QjgxY1ZZa1Y2WFRkTXhGQTNBZkg4MHk2c2tSTlViZGxadHZwc3NKTWM4dGtlS0dHbmhIMDdrWWpUdjh0bHQ?oc=5  
+
+### [KPMG general counsel retires after Australia whistleblower scandal - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQc3VpTGliSlRTYnVOcWdXVC1mWXU3ak5DTkRna2xYeTZZRGFrZ0VjT1piWVNsMkdRWTVTVW8xT3VXTWE2VC1wbXZheVo0Rk43RXd1SHRfRDJtXzdYOWdFVHlhMHhlU0szb1F1SUVMRnBjMi00QnFBXzVGQjl4X3ROdWk5X3Q?oc=5)
+**Chapter**: 3. The Whistleblower  
+**Date**: Thu, 01 Oct 2026 20:05:03 GMT  
+**Source**: https://news.google.com/rss/articles/CBMihAFBVV95cUxQc3VpTGliSlRTYnVOcWdXVC1mWXU3ak5DTkRna2xYeTZZRGFrZ0VjT1piWVNsMkdRWTVTVW8xT3VXTWE2VC1wbXZheVo0Rk43RXd1SHRfRDJtXzdYOWdFVHlhMHhlU0szb1F1SUVMRnBjMi00QnFBXzVGQjl4X3ROdWk5X3Q?oc=5  
+
+### [KPMG’s global general counsel retires after whistleblower scandal - AFR](https://news.google.com/rss/articles/CBMizgFBVV95cUxPTUpfQXZDaWo0ZTlpR1J4YktVaHJVdkUtb3lEUlQycWxONlZHU0V6WWozcHV3d3R0Q2M0WTZ6U0ktNzBBMWZWd1Z2TlNHdWJpeTd1TGZNME5xUzA2c0JfTW1PMmkzMV9tR2VSMjg5R1E4OVktYmZCZXo4UjFKcDlvOC16RVI3U21ISHpwMFl6ckhSVFptRlNxRjlMbE9Na19WZ2xoc29OZktqOXBYVHRHUkEtcVRCbnJpc0RwXzZJU2EtR0ZRQWlaY3ZhTHhNdw?oc=5)
+**Chapter**: 3. The Whistleblower  
+**Date**: Thu, 01 Oct 2026 22:13:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMizgFBVV95cUxPTUpfQXZDaWo0ZTlpR1J4YktVaHJVdkUtb3lEUlQycWxONlZHU0V6WWozcHV3d3R0Q2M0WTZ6U0ktNzBBMWZWd1Z2TlNHdWJpeTd1TGZNME5xUzA2c0JfTW1PMmkzMV9tR2VSMjg5R1E4OVktYmZCZXo4UjFKcDlvOC16RVI3U21ISHpwMFl6ckhSVFptRlNxRjlMbE9Na19WZ2xoc29OZktqOXBYVHRHUkEtcVRCbnJpc0RwXzZJU2EtR0ZRQWlaY3ZhTHhNdw?oc=5  
+
+### [KPMG Australia government contract awards nearly double to A$59m despite scandal - https://www.big4news.com/](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jTTdjQkJyQzBZcFlSQURhTHI3cXNqS1I2Mjl5Q2M5VldRRTc0TVYyU24wQ2kybHNneF85YlY4cDZubXE0c2NsWV9lNVZHYm5xV1lLTWdLT1RrRG5pS2hfblZ6cFFfNUdBbzlVaENJcGpXci1sOWdWMjVDMVN2dw?oc=5)
+**Chapter**: 10. The Government's $27.4M Problem  
+**Date**: Sat, 10 Oct 2026 15:31:53 GMT  
+**Source**: https://news.google.com/rss/articles/CBMifkFVX3lxTE5jTTdjQkJyQzBZcFlSQURhTHI3cXNqS1I2Mjl5Q2M5VldRRTc0TVYyU24wQ2kybHNneF85YlY4cDZubXE0c2NsWV9lNVZHYm5xV1lLTWdLT1RrRG5pS2hfblZ6cFFfNUdBbzlVaENJcGpXci1sOWdWMjVDMVN2dw?oc=5  
+
+### [KPMG’s Andrew Yates steps out as scandal triggers industry-wide crackdown on Australia’s top accounting firms - The Daily Telegraph](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSlp3SHdQYWhfQ1RNcGFYY0laNzV2bUlFbTc5cGRRVF9rQ3BUN3VNR0hDOVpIeVE3b0ppVzVyM2VzcHVlMUNSWkdEWHFMOGwwUFBMWndzVjhkRndqTG9OOEdGQTNwcXYwTXpkVFQ3MGo5TXRrVDB2MXFXVU9hdURPaURCV0lIVUM0czNlbTB5UFk5b2Y2TjhxWFJBdGJ5MTBsemVOdW92Rmc1OFVlSUZPOFBGRTdnN1RnOXNKMWUwZnpLdkhobVVEeGhDUzdvMHFyTlJYdDRwSkFodGpQcWJyeUR5NUtPSmp3S1NWcnJWcjhsYW9TTk02WHVB?oc=5)
+**Chapter**: 5. The Cast of Characters  
+**Date**: Thu, 11 Jun 2026 07:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSlp3SHdQYWhfQ1RNcGFYY0laNzV2bUlFbTc5cGRRVF9rQ3BUN3VNR0hDOVpIeVE3b0ppVzVyM2VzcHVlMUNSWkdEWHFMOGwwUFBMWndzVjhkRndqTG9OOEdGQTNwcXYwTXpkVFQ3MGo5TXRrVDB2MXFXVU9hdURPaURCV0lIVUM0czNlbTB5UFk5b2Y2TjhxWFJBdGJ5MTBsemVOdW92Rmc1OFVlSUZPOFBGRTdnN1RnOXNKMWUwZnpLdkhobVVEeGhDUzdvMHFyTlJYdDRwSkFodGpQcWJyeUR5NUtPSmp3S1NWcnJWcjhsYW9TTk02WHVB?oc=5  
+
+### [‘Absolute disgrace’: government ditches PwC reforms - The Australian](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQM2poWmstQ0FQQTRZakNGeGR0WExLTzZjTGxRODQ3S05OR2ZIa09pVDk4dlNoOHBRdlExV2NEWDNadVNRaktHeFNaRm94YTliZ2o5MVAtYUpxQVU5RzRnWktreFg2U3d0d0NhbFNTLU96WUdKcWMyVGwtVS1ZNXB1ZXR3UmdxR3Qxbkw2ZkF5QXc3ZXZ5VjZIbW1SajQ4QWt6VG9GUFVZWk52U3FJOWMwTFJEYm5zV1FyTXczb3NMOXZyZlAtUkNxMHZhRkRNYlhxdHdUUEc1RlJQWXhGS1JOVm9hcFZXd1E5Sy1F?oc=5)
+**Chapter**: 2. The PwC Precedent  
+**Date**: Sun, 08 Feb 2026 08:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMi6wFBVV95cUxQM2poWmstQ0FQQTRZakNGeGR0WExLTzZjTGxRODQ3S05OR2ZIa09pVDk4dlNoOHBRdlExV2NEWDNadVNRaktHeFNaRm94YTliZ2o5MVAtYUpxQVU5RzRnWktreFg2U3d0d0NhbFNTLU96WUdKcWMyVGwtVS1ZNXB1ZXR3UmdxR3Qxbkw2ZkF5QXc3ZXZ5VjZIbW1SajQ4QWt6VG9GUFVZWk52U3FJOWMwTFJEYm5zV1FyTXczb3NMOXZyZlAtUkNxMHZhRkRNYlhxdHdUUEc1RlJQWXhGS1JOVm9hcFZXd1E5Sy1F?oc=5  
+
+### [KPMG hinted at internal investigation to Westpac in 2025 - Accounting Times](https://news.google.com/rss/articles/CBMipAFBVV95cUxOUWxYZHdvS1ljWWF6TnRNMDdITjdmUmpNSW9jX2dtb2oyU2Q5eTlPbkRtbTJycGpSMzJVNXBpdjA2aklON2dVejJpTW9pT3UtRUFmd2Z2NGZGSTFINV9ac3hCaWZrOFVOWlJ0Q0s3ekZsUWhVVmRlNi1RdDFIU1RlVFRpUjg0WDV6a1Y5VkJ2RmNZbGdBdW13SEtSblNGaUZaUGJCbg?oc=5)
+**Chapter**: 3. The Whistleblower  
+**Date**: Thu, 10 Sep 2026 07:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMipAFBVV95cUxOUWxYZHdvS1ljWWF6TnRNMDdITjdmUmpNSW9jX2dtb2oyU2Q5eTlPbkRtbTJycGpSMzJVNXBpdjA2aklON2dVejJpTW9pT3UtRUFmd2Z2NGZGSTFINV9ac3hCaWZrOFVOWlJ0Q0s3ekZsUWhVVmRlNi1RdDFIU1RlVFRpUjg0WDV6a1Y5VkJ2RmNZbGdBdW13SEtSblNGaUZaUGJCbg?oc=5  
+**Facts**:
+- [Investigation] to Westpac in 2025 - Accounting Times KPMG hinted at internal investigation to Westpac in 2025  Accounting Times
+
+### [PJC inquiry urges PM to take urgent action on whistleblower protection issues - Accounting Times](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcHE1MFBjalpvVGc3T1lxcUVacnNqbTFDcmMtaXJYdXJ6eFpCQy1HM2N6NnpFbHFxUmZfUVE5ODBMOFhjQUh3aEd0eGNTUnp5S1pGZ05sWl9HMVI1S1VSS09TV1ZrUC1SVXBQLTY4QlhwbU9mTGRVVTN2MDRRVU9RTnlEY2V4V1VlazU1Z2dNb1pEcUNQUHF5azhQd3dtaVM0SDJrVWxwRTgwUXR3RFUwV3pKb1hGRDZSQWNSRlN3OHY?oc=5)
+**Chapter**: 3. The Whistleblower  
+**Date**: Wed, 22 Jul 2026 07:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcHE1MFBjalpvVGc3T1lxcUVacnNqbTFDcmMtaXJYdXJ6eFpCQy1HM2N6NnpFbHFxUmZfUVE5ODBMOFhjQUh3aEd0eGNTUnp5S1pGZ05sWl9HMVI1S1VSS09TV1ZrUC1SVXBQLTY4QlhwbU9mTGRVVTN2MDRRVU9RTnlEY2V4V1VlazU1Z2dNb1pEcUNQUHF5azhQd3dtaVM0SDJrVWxwRTgwUXR3RFUwV3pKb1hGRDZSQWNSRlN3OHY?oc=5  
+
+### [Westpac director latest KPMG casualty as new chair appointed - The Australian](https://news.google.com/rss/articles/CBMijwJBVV95cUxQWGxuT09ESHBRNWtqTDViZGs5Q1dpVGVOM0ZtYlh5bDFLVWhMOGlNMXB6eHROQzhLc0FDajVqNHgyZUZlZlFxTVhtQWU0dGtHS2FRZWlUaWotbTROeG83WlB0bC1xRE5tazU3djZTazdKdTk3NnZfd25UbnlkVk8yYnRpMVV0UW92Rm5vS0VoQlNJWkdnTURDNGZSU0RUcEVIZDlReGRDeUs3STdadDEzZU81eW4xaTE5cFNlRFIyNWNURXRmeHNlZGZaU1ZCX25HZ2NiVzFQa0hxd1F3LUQyRHZwVDFfQ0YxdTRyUmJFVl9HZFdxTUQ5T3lsZnNNbnhXemMweENobWl2SVBWanpF?oc=5)
+**Chapter**: 4. The Lendlease Breach  
+**Date**: Wed, 01 Jul 2026 07:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMijwJBVV95cUxQWGxuT09ESHBRNWtqTDViZGs5Q1dpVGVOM0ZtYlh5bDFLVWhMOGlNMXB6eHROQzhLc0FDajVqNHgyZUZlZlFxTVhtQWU0dGtHS2FRZWlUaWotbTROeG83WlB0bC1xRE5tazU3djZTazdKdTk3NnZfd25UbnlkVk8yYnRpMVV0UW92Rm5vS0VoQlNJWkdnTURDNGZSU0RUcEVIZDlReGRDeUs3STdadDEzZU81eW4xaTE5cFNlRFIyNWNURXRmeHNlZGZaU1ZCX25HZ2NiVzFQa0hxd1F3LUQyRHZwVDFfQ0YxdTRyUmJFVl9HZFdxTUQ5T3lsZnNNbnhXemMweENobWl2SVBWanpF?oc=5  
+
+### [KPMG to stop FairCall for audit clients as whistleblower scandal clouds hotline business - www.big4news.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxNRGNoSkZHanVWT0VvbDZtOF9PVzM5cldBVGQyWWk1c09WQTliODE4bnFxTWxGbnYzcGg1cUxRS29LMWRESGs5NENKdmdkOHpMaldMRkQxenVMZkpDTDBEbUpxU3VxeUpRNUpkOV9rNU1jSEJWRjhQYVNwMDNBbjRSb0FR?oc=5)
+**Chapter**: 3. The Whistleblower  
+**Date**: Sun, 23 Aug 2026 07:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMiggFBVV95cUxNRGNoSkZHanVWT0VvbDZtOF9PVzM5cldBVGQyWWk1c09WQTliODE4bnFxTWxGbnYzcGg1cUxRS29LMWRESGs5NENKdmdkOHpMaldMRkQxenVMZkpDTDBEbUpxU3VxeUpRNUpkOV9rNU1jSEJWRjhQYVNwMDNBbjRSb0FR?oc=5  
+
+### [Australia’s corporate regulator to share Big Four surveillance findings after KPMG scandal - The Business Times](https://news.google.com/rss/articles/CBMizgFBVV95cUxOemt2SW94djVLaFRDT05ad0JLYXhFZnJuZWZwOVFtSXAxcTh6cF9pbUMtRVV4eHlVcDl2WFpqeU9XSUFST3AzUXd4ZjI2NXA4VE53S09wMUVwcXp1N0NWYUtHQV9USlJUZWhfWFB4ME9SRHl4N0JpeDY1a0NXMXpXa0llMW5GRHJBSTNxV2QwMnlNWnYtQWs3S1QycFNxbWRzOTVGWmN0bjY1OUJFbEx0SEEzRWFKYUtpaEFxTDVLd3EyRndHaEdIVktMWGRFQQ?oc=5)
+**Chapter**: 9. ASIC Enters  
+**Date**: Tue, 13 Oct 2026 02:12:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMizgFBVV95cUxOemt2SW94djVLaFRDT05ad0JLYXhFZnJuZWZwOVFtSXAxcTh6cF9pbUMtRVV4eHlVcDl2WFpqeU9XSUFST3AzUXd4ZjI2NXA4VE53S09wMUVwcXp1N0NWYUtHQV9USlJUZWhfWFB4ME9SRHl4N0JpeDY1a0NXMXpXa0llMW5GRHJBSTNxV2QwMnlNWnYtQWs3S1QycFNxbWRzOTVGWmN0bjY1OUJFbEx0SEEzRWFKYUtpaEFxTDVLd3EyRndHaEdIVktMWGRFQQ?oc=5  
+
+### [KPMG chairman, partners to exit scandal-tainted firm - News - InDaily Queensland](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY2s4NEhjcm1GbzBHZy1RMGxfVFkzamIyVjlFOEdsVklNcGdBX1pfLXlvN1FwMmduaEtLUzV3eGI5NjlrY1dFME52M3V2QUlPa0s4QlNEazRzY2p1ejh6QV9SZXItQVowTmdWTzZRdDVmSVJ4cEFPTkxxRUZUUU1NS3RWMzcyZ0plcnNJZlM5b1ZyWTM5VS0zcWttZXVjVlV6Sk1EbHRFaTA?oc=5)
+**Chapter**: 5. The Cast of Characters  
+**Date**: Mon, 22 Jun 2026 07:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY2s4NEhjcm1GbzBHZy1RMGxfVFkzamIyVjlFOEdsVklNcGdBX1pfLXlvN1FwMmduaEtLUzV3eGI5NjlrY1dFME52M3V2QUlPa0s4QlNEazRzY2p1ejh6QV9SZXItQVowTmdWTzZRdDVmSVJ4cEFPTkxxRUZUUU1NS3RWMzcyZ0plcnNJZlM5b1ZyWTM5VS0zcWttZXVjVlV6Sk1EbHRFaTA?oc=5  
+
+### [Review finds KPMG Australia mishandled whistleblower claims, pause on government work extended - Reuters](https://news.google.com/rss/articles/CBMiywFBVV95cUxOekRoVHNFNE0zOGtLZ2xHcWIzYnFveDdndmxSTDE3ejlfcGZxbW5XdTlQb2szelQ0c1Z6V3piVFBGaEE2dWhjOHprZlZORzhxZzByQTFERThvall3QXBrOFExMkNmdGZVbHd1Mlc1QVZlS2ljSWhZZE9zcjdid0tvWHc2amY2eHdWNWo4OW91NFl0NXU0cERJcnZjREtYQlpORWd5LUlESHp0Q1U5cXctd2JzWEdxc1pQR1lDXzBfS3lwS2p5VVByUVVKWQ?oc=5)
+**Chapter**: 3. The Whistleblower  
+**Date**: Thu, 22 Oct 2026 08:22:20 GMT  
+**Source**: https://news.google.com/rss/articles/CBMiywFBVV95cUxOekRoVHNFNE0zOGtLZ2xHcWIzYnFveDdndmxSTDE3ejlfcGZxbW5XdTlQb2szelQ0c1Z6V3piVFBGaEE2dWhjOHprZlZORzhxZzByQTFERThvall3QXBrOFExMkNmdGZVbHd1Mlc1QVZlS2ljSWhZZE9zcjdid0tvWHc2amY2eHdWNWo4OW91NFl0NXU0cERJcnZjREtYQlpORWd5LUlESHp0Q1U5cXctd2JzWEdxc1pQR1lDXzBfS3lwS2p5VVByUVVKWQ?oc=5  
+
+### [Ban on KPMG doing government work extended until February 2027 - AFR](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQnBlc1pMallhTXFQQ0xMcmdFWTBIeTlnOGRKZlR5TTMzSjBhQ1hGSnl0ekJZVmFUMU1MMDJxdzZCZjY4MFRRcVFQX0VBVmo2NzVVbTRZTElKUHRseGZ6WDJ2TFUzWUticmNpREcwY3kxZ1lCLWpzSXBTN2UzU0UxMERCUW9Tc19IVnNmcGVrRE1NZm5YSXJVVjFaZmdQejJrSHJ3aEgzS01RSm1ZMmR4Mml3VGp4ZWYxQVNENlVCdks1QQ?oc=5)
+**Chapter**: 10. The Government's $27.4M Problem  
+**Date**: Thu, 22 Oct 2026 06:49:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQnBlc1pMallhTXFQQ0xMcmdFWTBIeTlnOGRKZlR5TTMzSjBhQ1hGSnl0ekJZVmFUMU1MMDJxdzZCZjY4MFRRcVFQX0VBVmo2NzVVbTRZTElKUHRseGZ6WDJ2TFUzWUticmNpREcwY3kxZ1lCLWpzSXBTN2UzU0UxMERCUW9Tc19IVnNmcGVrRE1NZm5YSXJVVjFaZmdQejJrSHJ3aEgzS01RSm1ZMmR4Mml3VGp4ZWYxQVNENlVCdks1QQ?oc=5  
+
+### [KPMG ban on government work extended after 'serious ethical failings' - ABC News & Headlines – Australian Broadcasting Corporation](https://news.google.com/rss/articles/CBMisgFBVV95cUxNaHNQNWxYV2pMblZTSUU4S2hfWFJnZ05oSWdmTXdob3lhMkp6UlMycTltWnRSMHpZV0c3Tm12LU5CeVd6NjhFS2NoQS0zcE01SzRkWE8wZTNfdGtGcFlkNHJ1bkZzVVdub0M2RDU1SEZ3RVhkdm9fWWdWZHY0cWc5bTZJV256OGZlanBwTU01cVRMZ2p3b2llQ2w4YmNLclg3Smt5UlZQUUZ6VmVzQUJoeUR3?oc=5)
+**Chapter**: 10. The Government's $27.4M Problem  
+**Date**: Thu, 22 Oct 2026 05:35:31 GMT  
+**Source**: https://news.google.com/rss/articles/CBMisgFBVV95cUxNaHNQNWxYV2pMblZTSUU4S2hfWFJnZ05oSWdmTXdob3lhMkp6UlMycTltWnRSMHpZV0c3Tm12LU5CeVd6NjhFS2NoQS0zcE01SzRkWE8wZTNfdGtGcFlkNHJ1bkZzVVdub0M2RDU1SEZ3RVhkdm9fWWdWZHY0cWc5bTZJV256OGZlanBwTU01cVRMZ2p3b2llQ2w4YmNLclg3Smt5UlZQUUZ6VmVzQUJoeUR3?oc=5  
+
+### [‘I smell a rat’: Greens decry KPMG defence deal amid federal contract ban - Accounting Times](https://news.google.com/rss/articles/CBMitwFBVV95cUxQSWFzb0lYb2JqcXF5X2phamRwV2I1UHBxdl80UnAwS2tZTUtld2EwVm9Qc2hzWFFYclR3bVBabUcyTFdnVGw1WHJNYi1KSGdjYU5ZQV9BVXNzdEJvdERMZTA2Q2Q1d0x2NDZMZmRJc0RnUThQc0sySDdiTU9QcG9tNDgySjV6UndaRWo5UmZBaENETEFfYnA4OVV0VFFFemkwRTFyY2dqek5STzlYd0lfLUZfQ2tUa2s?oc=5)
+**Chapter**: 13. Epilogue: The Fire Sale  
+**Date**: Fri, 11 Sep 2026 07:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMitwFBVV95cUxQSWFzb0lYb2JqcXF5X2phamRwV2I1UHBxdl80UnAwS2tZTUtld2EwVm9Qc2hzWFFYclR3bVBabUcyTFdnVGw1WHJNYi1KSGdjYU5ZQV9BVXNzdEJvdERMZTA2Q2Q1d0x2NDZMZmRJc0RnUThQc0sySDdiTU9QcG9tNDgySjV6UndaRWo5UmZBaENETEFfYnA4OVV0VFFFemkwRTFyY2dqek5STzlYd0lfLUZfQ2tUa2s?oc=5  
+
+### [Review finds KPMG Australia mishandled whistleblower claims, pause on government work extended - Yahoo Finance](https://news.google.com/rss/articles/CBMipgFBVV95cUxOX19HRUFPZHd6aVo0NkRscGZBR0J1aHoweHh1MjRMeldWLUU2V3F1MDJtdmtQZDhzbVdwWm9lanlDU0JYTGYxWjROV01jSzZ2UEhaOWhpdFBERVFMc3V0aExHQU8xdE81RWZIS0hHRlVBM29zZUpNQnBrMVRqX1hrbUhSd3J2WkJoUWl2Z0pxVlBUT0tZNWxEUF9JbkRQNnhoT1FUdGlR?oc=5)
+**Chapter**: 3. The Whistleblower  
+**Date**: Thu, 22 Oct 2026 04:36:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMipgFBVV95cUxOX19HRUFPZHd6aVo0NkRscGZBR0J1aHoweHh1MjRMeldWLUU2V3F1MDJtdmtQZDhzbVdwWm9lanlDU0JYTGYxWjROV01jSzZ2UEhaOWhpdFBERVFMc3V0aExHQU8xdE81RWZIS0hHRlVBM29zZUpNQnBrMVRqX1hrbUhSd3J2WkJoUWl2Z0pxVlBUT0tZNWxEUF9JbkRQNnhoT1FUdGlR?oc=5  
+
+### [Friday Footnotes: Firm in Whistleblower Scandal Ends Whistleblower Service For Clients; Evergrande Liquidators Mad at Regulators For Settling | 8.21.26 - Going Concern](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOckc0cnRZMXBxVTdEa3dlVVBpY2UtellqSjZpUFFVOUc1eFhMdzFNUUJqanl3ZGlvT2Ixb2pKUVdQLUFTMk1Xd1J6NUdVbFg0U1M0UllseWUwNVZpd3dGb0lwZTJYR2JNbHlyQXgtSDhqT0FfWWJVNHcxYXRLQ25OY2Z2NHZxRGtNbnRjcGpSMnBDOFplaFphVW42bGZ4Vm16a2RPeHhqNXpVeDJuUUd4Nmo4VjVmUkl4WUdRZERDMmhYMlA1Q3hBeGhiOUppUDUyV3loQ3QyMzBjSHRPZjJTeXB4d3haMmw5cXdIY1prS2t3a05pZUFIMUZEcUdHdjdRTXFURTJrME4?oc=5)
+**Chapter**: 3. The Whistleblower  
+**Date**: Sat, 22 Aug 2026 07:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMiiAJBVV95cUxOckc0cnRZMXBxVTdEa3dlVVBpY2UtellqSjZpUFFVOUc1eFhMdzFNUUJqanl3ZGlvT2Ixb2pKUVdQLUFTMk1Xd1J6NUdVbFg0U1M0UllseWUwNVZpd3dGb0lwZTJYR2JNbHlyQXgtSDhqT0FfWWJVNHcxYXRLQ25OY2Z2NHZxRGtNbnRjcGpSMnBDOFplaFphVW42bGZ4Vm16a2RPeHhqNXpVeDJuUUd4Nmo4VjVmUkl4WUdRZERDMmhYMlA1Q3hBeGhiOUppUDUyV3loQ3QyMzBjSHRPZjJTeXB4d3haMmw5cXdIY1prS2t3a05pZUFIMUZEcUdHdjdRTXFURTJrME4?oc=5  
+
+### [KPMG chair apologises for labelling whistleblower allegations as false - Accountants Daily](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOa29GQ1VlRFRUQVFhNjVYSFlkeXBueGgxWU9lN3VLQWtoZEg1RDhxMEFXUzMwcnEwNlpvOUdZRFA2V2V2Qk0wN0pmRmFkTUNMWlFMb2ZRN3JBb094UGtjZFoxUUdHMVpwYk02UWc0VGdnR3RBN1RQcWxsZDU5Ynk5ZXZKVGVqQXJMMm9EV09FbDhvalkzVlZIdS1zWnZzV1M1OC1ZZlM4a19SQmdqSThTY1p1MWZnN3V5Y054OGVuQmhOY3FxMW1OOGZKNDZUdGpPMXlrWEd4TnNpeENkMmY2Ml9OTDZPSlMxbzZWR2RxMzZsVTBu?oc=5)
+**Chapter**: 3. The Whistleblower  
+**Date**: Wed, 12 Aug 2026 07:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMi9AFBVV95cUxOa29GQ1VlRFRUQVFhNjVYSFlkeXBueGgxWU9lN3VLQWtoZEg1RDhxMEFXUzMwcnEwNlpvOUdZRFA2V2V2Qk0wN0pmRmFkTUNMWlFMb2ZRN3JBb094UGtjZFoxUUdHMVpwYk02UWc0VGdnR3RBN1RQcWxsZDU5Ynk5ZXZKVGVqQXJMMm9EV09FbDhvalkzVlZIdS1zWnZzV1M1OC1ZZlM4a19SQmdqSThTY1p1MWZnN3V5Y054OGVuQmhOY3FxMW1OOGZKNDZUdGpPMXlrWEd4TnNpeENkMmY2Ml9OTDZPSlMxbzZWR2RxMzZsVTBu?oc=5  
+
+### [KPMG to cut up to 400 more roles as government ban bites - AFR](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRUs2Um9TVU9pQUZUNHJMUWo1LVBmREJuZ0ZtMXJrelNxT2JKb1pGUDVHcnZCOWxrc3BkVzN2MVJvMndxanQ5NVNfSDBBNkxKNWx4ZFdtSXAtblhTWW1zdDVEc3NQOVBOc19tMmFwMXlCamhJYzZteElSRk5IXy1BQXY3Q3ExdWhzYU9RazNRbjVWcmNPVHdDY0xmUkhBZXF4ZDBIZy1Ec1B4d3U3VWpOMjAyRWNWUkVUNTFhbUNVS1NJdw?oc=5)
+**Chapter**: 10. The Government's $27.4M Problem  
+**Date**: Sun, 01 Nov 2026 18:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRUs2Um9TVU9pQUZUNHJMUWo1LVBmREJuZ0ZtMXJrelNxT2JKb1pGUDVHcnZCOWxrc3BkVzN2MVJvMndxanQ5NVNfSDBBNkxKNWx4ZFdtSXAtblhTWW1zdDVEc3NQOVBOc19tMmFwMXlCamhJYzZteElSRk5IXy1BQXY3Q3ExdWhzYU9RazNRbjVWcmNPVHdDY0xmUkhBZXF4ZDBIZy1Ec1B4d3U3VWpOMjAyRWNWUkVUNTFhbUNVS1NJdw?oc=5  
+
+### [Banned and bleeding: The growing cost of the KPMG audit leaks scandal - AFR](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSjVPanUyVDJrRTVMSjNwVEsyYXJ4UHRQc1NNVXd4ejhmdGN6ZHZvcXN2dkRZYUc0eWVZWU1CaDlGZ3Nselk1eDdzbmNyMVhocEg3eWxQYlY4NVVnZGo4OFVDdGZiZVlIbGJ4NDktSlZWSjJBTEFFWGN3TVNMSjdOeEtuMlUxRlJTVFlNMlR2eFhVYld2bnR5Sk4wbEVzUGtMQS1qSGt3RUUyTTZEdHBhWWZ5YVZEZ2RfTVROUlNueU1ZN0tYckxlYzQ5ZENmdFRHdkE?oc=5)
+**Chapter**: 4. The Lendlease Breach  
+**Date**: Wed, 28 Oct 2026 01:00:00 GMT  
+**Source**: https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSjVPanUyVDJrRTVMSjNwVEsyYXJ4UHRQc1NNVXd4ejhmdGN6ZHZvcXN2dkRZYUc0eWVZWU1CaDlGZ3Nselk1eDdzbmNyMVhocEg3eWxQYlY4NVVnZGo4OFVDdGZiZVlIbGJ4NDktSlZWSjJBTEFFWGN3TVNMSjdOeEtuMlUxRlJTVFlNMlR2eFhVYld2bnR5Sk4wbEVzUGtMQS1qSGt3RUUyTTZEdHBhWWZ5YVZEZ2RfTVROUlNueU1ZN0tYckxlYzQ5ZENmdFRHdkE?oc=5  
+
+### [KPMG Australia Government Contracting Ban Extended to February 2027 - https://www.big4news.com/](https://news.google.com/rss/articles/CBMigwFBVV95cUxQV3RCeUhLSTNZbHFfRG9XU3BxTDIyZUpWT2ktb2NqNzR0ck5tMm90V09tUzJ2UmZ5WThFMFhBaVF6RmZxLW9MV3BzLURkb2xaeFNFNy00N0NkVE9hYUFyRksxU2JPbGYyYTFoN1N4cTU2WTROWjJ4YXZuekFVY0djQXpuSQ?oc=5)
+**Chapter**: 10. The Government's $27.4M Problem  
+**Date**: Thu, 05 Nov 2026 10:02:26 GMT  
+**Source**: https://news.google.com/rss/articles/CBMigwFBVV95cUxQV3RCeUhLSTNZbHFfRG9XU3BxTDIyZUpWT2ktb2NqNzR0ck5tMm90V09tUzJ2UmZ5WThFMFhBaVF6RmZxLW9MV3BzLURkb2xaeFNFNy00N0NkVE9hYUFyRksxU2JPbGYyYTFoN1N4cTU2WTROWjJ4YXZuekFVY0djQXpuSQ?oc=5  
+

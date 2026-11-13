@@ -25,3 +25,30 @@
 
 
 ---
+
+## Tue, 18 Aug 2026 08:42:00 GMT — KPMG ceases whistleblower hotline service FairCall for big name audit clients - Capital Brief
+**Source**: https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVWdhcnFZeU4wZU52alR6dHB4T3RFNjZhVUJsWGxzbl9QRmtFSl9URUlKbDFiallNREY1eHlhbU9KVl9xczRZejQ3TGMtUHlPSGZ6dTNuRTJMeGd4eW8wNVQ2QV84N2tadVV6YXVMdmdTMzNtLTUwRm1mcVFZWHNEWHVQRmMtdDNOWXF5bHBaOFA5ZG5RUmtRdkZXWHFIODNGNEN2NDZQZFg0Q2JHdE5HdTh0d1JoUXpjcVFRc09hZWFaWjQ3LUR4VGdFbEdBZEtNYkQ0UHJIdFdCODJIQ21vUzlkRFdOanM?oc=5
+**Fetched**: 2026-08-24T09:00:02.725884
+
+
+
+
+---
+
+## Sun, 31 May 2026 07:00:00 GMT — ‘Obscene’: KPMG’s whistleblower hotline under fire - The Australian
+**Source**: https://news.google.com/rss/articles/CBMi9AFBVV95cUxOLS1tMDNYWW5sX21mLXRkaWlzU1ItNlAydVB3OUVJVlpXZ2kxT3ZYMlRUYmpoTS1IYTBrdzY0aW13bFh6ZzBCRnUxek5lbnBDWHM3R1pTWGhWcE1NblFBZVBpa1ZYQmhHSzlkWEFfdWIwakgxSlZTMmwxdG9ONGEwckszWnpXQ1JkeFhldVZ4YzNmRmViODZVYUxMdjVuNkhfc3pkNmJ4WFNraVBDdjVUWmM1OGluaUVzVEQyMjFlOGt2ZGl5UnRsdVBodGg4WUpTRXB6dzg2UTVtOVVtRVJDUU9kdmtxYUxkdjZYTEFTdkI4U1NM?oc=5
+**Fetched**: 2026-09-21T09:00:07.846234
+
+
+
+
+---
+
+## Sun, 23 Aug 2026 07:00:00 GMT — KPMG to stop FairCall for audit clients as whistleblower scandal clouds hotline business - www.big4news.com
+**Source**: https://news.google.com/rss/articles/CBMiggFBVV95cUxNRGNoSkZHanVWT0VvbDZtOF9PVzM5cldBVGQyWWk1c09WQTliODE4bnFxTWxGbnYzcGg1cUxRS29LMWRESGs5NENKdmdkOHpMaldMRkQxenVMZkpDTDBEbUpxU3VxeUpRNUpkOV9rNU1jSEJWRjhQYVNwMDNBbjRSb0FR?oc=5
+**Fetched**: 2026-10-19T10:33:04.795498
+
+
+
+
+---

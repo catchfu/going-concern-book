@@ -705,3 +705,195 @@
 
 
 ---
+
+## Mon, 18 May 2026 07:00:00 GMT — KPMG partner admits to inappropriate access to documents in procurement of major Westpac contract - Accounting Times
+**Source**: https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTjR5cnFqLWdpMmFwd2FwX2JyelJFNWJZLVdlT2FfbWwzODFaN0hXT2dxQ0Z5czRSYnJGekwzZWVKWmNLYlQ4UHZHQmhxSnlCLWdudFBfOVVWYWpIQzV0b0ZnaVlKRUd0STNEOG5jOFcwR3dDX1dwN3EwTHJZUGpyZHl3T2ZKYnJHWGFnU011am5OeC1ISks1a1NQOVJvX3p6c0FBbHBfdTVRTlYyS0hmWG9xcVFvR21OaFp2WFRlaHhhUm9YeHZ2THZSUElSYXhWV3VEODFlYTcxMkRxOVVEYg?oc=5
+**Fetched**: 2026-08-24T09:00:02.731190
+
+
+
+
+---
+
+## Thu, 13 Aug 2026 07:00:00 GMT — Macquarie, Westpac to testify in KPMG Australia audit scandal probe - Yahoo Finance
+**Source**: https://news.google.com/rss/articles/CBMijwFBVV95cUxQY1JtU2RULUJGLTRSZTYzMFlybnl3UGRQUm5qbm9uT1pIWXVDeW9MbVJZMHZUWEN6MU9VbjlaMzdXdmlYX1hhcHo4QnZkMURpYmJhb1g1UFFDTTdIOGppX0FwWUhqUzRDUXNvUWVLRVpnRW1GMGhjcUNCTzJFZ1ZqSU1ScHEwU0dINXF1LXQ1VQ?oc=5
+**Fetched**: 2026-08-24T09:00:02.728791
+
+
+
+
+---
+
+## Mon, 24 Aug 2026 07:51:21 GMT — KPMG Australia to cut hundreds of jobs amid audit leaks scandal - Capital FM Africa
+**Source**: https://news.google.com/rss/articles/CBMikwFBVV95cUxNTXhCTGIwY0gxd3Y5ZlJrZTFYaEdMNW94SUk0WHU3bGNwajl5RGRIYU1rZlR5R1dYSjJ3R1EwRWJRUkgwWk1WSXNxSmJvTmM1MUJva3d0RVBSa244MkJzQ3VrNWlvam8yWDlOMi1uRGMwSlBaNDd2elRjV1hGRm5uZGQ3a2E3THNTQ0ZJeHlhQlZVbFE?oc=5
+**Fetched**: 2026-08-31T09:00:03.096902
+
+
+
+
+---
+
+## Mon, 24 Aug 2026 01:06:37 GMT — KPMG to cut almost 400 jobs after audit leaks scandal - ABC News & Headlines – Australian Broadcasting Corporation
+**Source**: https://news.google.com/rss/articles/CBMiswFBVV95cUxOOExmdlExTzdsSjE4clZId0VVR0xKTzVBU3lKdHRlWExmRkhpSDdlWThpREhvZmhJa29nMlVLckdxVktUR2xWNEkxVlp1dENkS044WEpTeUVkckNoX1FQWU1hM1VldHZvVUlPS2g4QUdtUUpWcXU0bTQzTkVBNVJFR2FQaXJmdEFMREpIQ1ZKcjRxZFlLMjhxdjRYOUJPX1NyZXFIbHlFaXAtdk5fUFpDZG42MA?oc=5
+**Fetched**: 2026-08-31T09:00:03.091583
+
+
+
+
+---
+
+## Wed, 26 Aug 2026 08:24:41 GMT — Macquarie Group dumps KPMG from audit contract - ABC News & Headlines – Australian Broadcasting Corporation
+**Source**: https://news.google.com/rss/articles/CBMinwFBVV95cUxOVzRUT3MwcFJmR1p2MWxIM1hLenNaZG82MkZoSGY0dE5FcVk5MnpUS3pVdmYxVXpPQlFlbXp5SGpadEY3cGstV2RHT2hSVWd4UXZwcEdFdjVUUzctU1JCSTg4ZjBZekpMM3RjazBEbXk4c0dkR1Ztd3lMdW9PczEyYlZUSkpkQXpvRjVvcTZiMWRJWUhOckR4aEt0Y1RZX0E?oc=5
+**Fetched**: 2026-08-31T09:00:03.091363
+
+
+
+
+---
+
+## Thu, 03 Sep 2026 07:52:00 GMT — Ex-KPMG Australia executive sues firm after sacking over audit leak scandal - The Star
+**Source**: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQnIycDl0V0N2b2VfUkVmLWRpbzA4R3pDaU5fbVBNcU1YMTBjcVduV0dBR1J3OUJtd0hZb0JWdUZCMERsOGh5VmR6WFlMWW90M2dNT20xQWJ4OVkzM09nUFhCWjVhMmhrZXR0czRaS3lpSVBtQkFjOS15QTAyT1FaZnl0MzJuY1FqNF9BN0VYSUpnSFhVMlJ1TmNkYk5WdXFfNnZqblJqREpFV3hzdloyUjVabkZtZ0cxOFlSRGlNeDktRVI4WGVHZ2hndUd2LWFSQ2c?oc=5
+**Fetched**: 2026-09-07T09:00:03.304657
+
+
+
+
+---
+
+## Thu, 03 Sep 2026 06:52:50 GMT — Ex-KPMG Australia executive sues firm after sacking over audit leak scandal - marketscreener.com
+**Source**: https://news.google.com/rss/articles/CBMixwFBVV95cUxQRFV1TElpVWFqX0RFWC05YzdxTGFmU1hnVzh1azBNd0JMcEcwd2I4Qm9oaUtWakM0cWU4N1dqUDdWZDRsSXdXS0xqb096eHg4SmY4RDVROFY3azRUWFoyZHZrZnZfSVEzRnZQXzRqQ2dib0FkNGg4cldBS0dpbXIyVmFjSHNnVTk0cHRYWmFKLXNvNFIzQnUzT19CLTdtRzRaYjNWNlB6d1czLUxJU295VUNuNHBoeHM1cExtbGVPWk5HdXBZZjZZ?oc=5
+**Fetched**: 2026-09-07T09:00:03.309309
+
+
+
+
+---
+
+## Thu, 18 Jun 2026 07:00:00 GMT — Lendlease plans auditor change amid regulatory scrutiny of KPMG Australia - Prop News Time
+**Source**: https://news.google.com/rss/articles/CBMiwwFBVV95cUxObk1iVUtfaTg5cmlvQUFJb2hlZDBTTWtKRjdaZEJqNUNiNHo2UkdKX3g3bzVTcm1FMzdpWVczSi03UEFscWZXVlB4OHpUZEpmSEhTMUc3eUxPdG9yOERxd1ZpendsdmlTN1EyQjJENWZLLVVRTHNTajQ3LXVQSlNjZkpnYXYyNXhySTc4NFA5S21GQnFKTmZDSkhWcWJqNjRIM3dXYTZvbGhGVHd1M2RXMVV0YzlJVDZNc1ZacXJ0Z0d4UVE?oc=5
+**Fetched**: 2026-09-14T09:00:05.907023
+
+
+
+**Mentions**: Orgs: ATO
+
+---
+
+## Wed, 09 Sep 2026 05:48:00 GMT — KPMG client Westpac says ‘trust’ key to audit relationship - The Australian
+**Source**: https://news.google.com/rss/articles/CBMi3wFBVV95cUxObjBaRVhtTDlCLThSQThVOTdra0xlQXZfS3dyMWN3eld6SFRvQUNhS3Q2aWp5OUY3T3Z2OE1ZRGowNjhJWEJISnRISmQzbXFQd0p2azJhR01hdXFPUXRNQVpnR2xOZkhnTjVvX2l5N1hiZHRfNi1PTHM2V0lWZUFCMy03VTY4SGt4cmFmRWVla2JzZVBtWWJxMnlTQlBVX0Q4LU5BNTJITHRTSnhQWnM1b0dNVmhfU1BBdTlyX3MyYTFzTE1XYm9Na0dHaFRrbmtwbGl0djNsVTlNQW9OYmVN0gHkAUFVX3lxTE80Zlk5YUlxZWwtdDhIbVdEM3NSUjFOc2tGQUE5QWhTVlVaOVJ5OVJkRmRQZEQtUXBrSmVOVElfY1M4MlNDQmVqdThVUFF1Z2tWM2hRLU05eTJpTS1DNTNDWWlXTFJQSmVabTZTZXgwOERpYUdJalo3ZjBLNV9wWEw4dWhfaGlvR2ZpbUdfand5TUtqZmloWnRVVVdQZktmN1EwS1FhNEZJVG42V2hyM3FZRjZaMW5tV2xnOGdOQlVDT3g2RGNqTW8yTlhDSjQtbk93V1k3T3Y2dFlqSEgyV1pPRFJJQw?oc=5
+**Fetched**: 2026-09-14T09:00:04.373030
+
+
+
+**Mentions**: Orgs: EY
+
+---
+
+## Thu, 03 Sep 2026 07:00:00 GMT — Ex-KPMG Australia executive sues firm after sacking over audit leak scandal - Reuters
+**Source**: https://news.google.com/rss/articles/CBMi5gFBVV95cUxOY2hhYUxnOFdHRDdlUmFITGpUTkxJTDFkd29pWVlzNzMzMmFIb1AxWDYzM1AxLTV3OGR5Wkc4N1lNemhfUDVlRXBGd2pfbnczU21SU3VCV2JZR0R2Rk9VQ3ktZncxXzB5Q25la1JyWGs4d2hVUm9ZMm5GZTR6TUVxZjVQR0hYdVVqcDJsN1lMN0tLVU1DNVVnTlhScnJIZlRhYzJWMkVFMzQ3ZnQwa3pOYUxjUGduNkFYeHpqa2tyOEtxUWgtVURRTWJ2SzAyZUNxMGJScjlPbExtSnoxTWJPdU9mc0ZNZw?oc=5
+**Fetched**: 2026-09-14T09:00:04.375046
+
+
+
+
+---
+
+## Mon, 01 Jun 2026 07:00:00 GMT — ‘Under review’: Lendlease looks to close the book on KPMG - The Australian
+**Source**: https://news.google.com/rss/articles/CBMi8wFBVV95cUxQLVZITW5uZHdXSS13MWNyeWlRcVBCcGVoYk1TdUk0MDFGQ2ZvQ3Q3S08teldTU3d0S25wQ1JJdUhmUkVVMk83NC1UeWNMSkJSU2dpQkhxU0VZaVY5dTZMNE5EdE1aTjc1RGlVTm9UODV1eWxIaEVEeGhqX3VRT1lud1FxNGpYeGo3aFlqU21uRU5SNnEwbGRjOFQySXdIV1F1SUJiSF9nOHptd2U0azB6U0lCSTFYY25iRmJYQWEwY3BmZnROTUVLaEh6TW5DQ3lyZUVOSmx4cElqQ25wekxhYXo4TnJGV3VIM1JKSmJEWE1rZHM?oc=5
+**Fetched**: 2026-09-21T09:00:05.911247
+
+
+
+
+---
+
+## Fri, 05 Jun 2026 07:00:00 GMT — Lendlease boots tainted KPMG auditors as ASIC probe widens - The Australian
+**Source**: https://news.google.com/rss/articles/CBMihAJBVV95cUxOcGowYVJVS2lQYmpsNFJsaC11eHFvUFRjSGhDSm02WC1aSDc4X2RMRWlfTjhoWkpXRHMxOTE1SDk3aDJxNkNuWm5oMmh2TEFEdUlXUjJiOVpnYWwwUXVIVGRTM29WbXZaelBmaW9RMHgxVHhrSEV5WldxdzBhUzZjREpmdVNZRkJsVFJQZlEwME1VREZYTkVWWTRLRTJjMDZpRmRWc3I2cUhtdnRqYU5TZV9vWHQyMlZrUWlxWVdISWJudnVGVnZDRVBQR0wya1lSeElmTnJUdGFEWGc2aUxvaHk4Zi1LVzlzNGpBd0tsOTByN2JqSjhGNUhGZFo5VEdLSmE1UA?oc=5
+**Fetched**: 2026-09-21T09:00:14.553715
+
+
+
+
+---
+
+## Wed, 03 Jun 2026 07:00:00 GMT — Sinking feeling for Hoggett as Dexus says she’s a no-go - The Australian
+**Source**: https://news.google.com/rss/articles/CBMikgJBVV95cUxOMno0WVFqU21sNzlxYVltbkUwMWd0b2Fhc1dVTkpLQ1dYS3ZBYmJqRVdGVUVBU2NUVE5fUnpMa1Q5NGpoOXFTeFVPYk42elZFVG1lajd4M2lORWdNZXprZWZQa2JDQ3ItYVctNkIzWGw3cTJpcEtZcXRzR1pMRnB4RklyRzF0cVNLNV84c05IWWN0amZ0RlNjbG82bUxaYnk4WGVRYkZlV0JoWGIzY1hwQk1zODBydjNTaFJvWnF5RnFSR3JqOXRaanFCMm1GdzROX2hvNmI5ckpSdXRHUUl2aVBheUkxMERfSlVOWmpsMjUyVFV0Q0cyRU5ndnlWYTR5UGxVU1NORFc2RkJCZDJrR1Bn?oc=5
+**Fetched**: 2026-09-21T09:00:08.713683
+
+
+
+
+---
+
+## Fri, 15 May 2026 07:00:00 GMT — Partners sanctioned as KPMG admits Lendlease board snoop - The Australian
+**Source**: https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOWJyUG9pZVNEekRoN3RsZXpoTHh2ekwta1Z4VlVoazN0VzY2bHZYWXlNTHhoM0NMd3NJc1FZbTNtYi1fa2JiOTNZVzhtWmRSNlN6UGRCZXNkdWZBb3l2a2pZZWUxRjV2VDZheUFGM0NpbjlHX2gwY3hWZnhfYjFabHZ1NEY5clVXaWtxOFZlakRGQUJ3aWE5RXJSdDVWdnU5bWd6NFd4ME5GU3ZodVhmN3FVdlk3dkNneDVCZjJYRUZ1em1GTlRhR1djamZldjBmNzloODlSYzZaUDc2akFzWnpLSWpsNWo5N1ZQWVVwRkVLRFpOVEp3?oc=5
+**Fetched**: 2026-09-21T09:00:05.912584
+
+
+
+
+---
+
+## Thu, 24 Sep 2026 19:00:00 GMT — KPMG audit scandal expands into Westpac C-suite - AFR
+**Source**: https://news.google.com/rss/articles/CBMitgFBVV95cUxPYjB3WVhGRnAtZlhoM0FRNjFxbU1CSHcwYjEwU3AweVM4UVFOQU5BMUphY3FLakl5dDEwT3hPc0liSm5YSHNsWE5XbEV4M05CSnkwM0l4b3RDOWo4TnVBTVY4VmVSYUNhZUZlOWhuUTVDMGpsNTFMaVRpdG9tUUxNOHJDUDRlLWhrUGJlcGg3Zmx2UzhuSzFzdzNvdjRnRjV3UDUwcE0xeVkzYWtfRy1wOHhVYWU0QQ?oc=5
+**Fetched**: 2026-09-28T09:51:34.084246
+
+
+
+
+---
+
+## Wed, 09 Sep 2026 07:00:00 GMT — KPMG client Westpac says ‘trust’ key to audit relationship - The Australian
+**Source**: https://news.google.com/rss/articles/CBMi3wFBVV95cUxObjBaRVhtTDlCLThSQThVOTdra0xlQXZfS3dyMWN3eld6SFRvQUNhS3Q2aWp5OUY3T3Z2OE1ZRGowNjhJWEJISnRISmQzbXFQd0p2azJhR01hdXFPUXRNQVpnR2xOZkhnTjVvX2l5N1hiZHRfNi1PTHM2V0lWZUFCMy03VTY4SGt4cmFmRWVla2JzZVBtWWJxMnlTQlBVX0Q4LU5BNTJITHRTSnhQWnM1b0dNVmhfU1BBdTlyX3MyYTFzTE1XYm9Na0dHaFRrbmtwbGl0djNsVTlNQW9OYmVN?oc=5
+**Fetched**: 2026-09-28T09:51:34.091784
+
+
+
+**Mentions**: Orgs: EY
+
+---
+
+## Mon, 01 Jun 2026 07:00:00 GMT — KPMG Australia Audit Leak Scandal: Lendlease, Westpac, Dexus and Optus - big4news.com
+**Source**: https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWSm1oa1JwWnVKNFFiTUhwbFU0TWdCMmFwSGxsa2pWelIxVXNVTnpDQVQyWlY1T2h4M0hZSWpXb1o1SlRIbWZDUzc3NjlIRUhnWkx0VlRn?oc=5
+**Fetched**: 2026-09-28T09:51:35.257347
+
+
+
+
+---
+
+## Thu, 01 Oct 2026 21:25:53 GMT — Major bank drops KPMG in wake of audit leaks scandal – as it happened - ABC News & Headlines – Australian Broadcasting Corporation
+**Source**: https://news.google.com/rss/articles/CBMikAFBVV95cUxOeTVaUkdwZHg2WDlfblNMR2lIMGEtYWVld2l0RG0yM24xMk9sRHJPU0NSQkoyOFpZZ0ZqbHNXS3JFcXpGRDllNGtPOHJTbXZmS2N1QjgxY1ZZa1Y2WFRkTXhGQTNBZkg4MHk2c2tSTlViZGxadHZwc3NKTWM4dGtlS0dHbmhIMDdrWWpUdjh0bHQ?oc=5
+**Fetched**: 2026-10-05T09:00:03.421473
+
+
+
+
+---
+
+## Thu, 10 Sep 2026 07:00:00 GMT — KPMG hinted at internal investigation to Westpac in 2025 - Accounting Times
+**Source**: https://news.google.com/rss/articles/CBMipAFBVV95cUxOUWxYZHdvS1ljWWF6TnRNMDdITjdmUmpNSW9jX2dtb2oyU2Q5eTlPbkRtbTJycGpSMzJVNXBpdjA2aklON2dVejJpTW9pT3UtRUFmd2Z2NGZGSTFINV9ac3hCaWZrOFVOWlJ0Q0s3ekZsUWhVVmRlNi1RdDFIU1RlVFRpUjg0WDV6a1Y5VkJ2RmNZbGdBdW13SEtSblNGaUZaUGJCbg?oc=5
+**Fetched**: 2026-10-19T10:32:56.611366
+
+[Investigation] to Westpac in 2025 - Accounting Times KPMG hinted at internal investigation to Westpac in 2025  Accounting Times
+
+
+---
+
+## Wed, 01 Jul 2026 07:00:00 GMT — Westpac director latest KPMG casualty as new chair appointed - The Australian
+**Source**: https://news.google.com/rss/articles/CBMijwJBVV95cUxQWGxuT09ESHBRNWtqTDViZGs5Q1dpVGVOM0ZtYlh5bDFLVWhMOGlNMXB6eHROQzhLc0FDajVqNHgyZUZlZlFxTVhtQWU0dGtHS2FRZWlUaWotbTROeG83WlB0bC1xRE5tazU3djZTazdKdTk3NnZfd25UbnlkVk8yYnRpMVV0UW92Rm5vS0VoQlNJWkdnTURDNGZSU0RUcEVIZDlReGRDeUs3STdadDEzZU81eW4xaTE5cFNlRFIyNWNURXRmeHNlZGZaU1ZCX25HZ2NiVzFQa0hxd1F3LUQyRHZwVDFfQ0YxdTRyUmJFVl9HZFdxTUQ5T3lsZnNNbnhXemMweENobWl2SVBWanpF?oc=5
+**Fetched**: 2026-10-19T10:33:03.129841
+
+
+
+
+---
+
+## Wed, 28 Oct 2026 01:00:00 GMT — Banned and bleeding: The growing cost of the KPMG audit leaks scandal - AFR
+**Source**: https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSjVPanUyVDJrRTVMSjNwVEsyYXJ4UHRQc1NNVXd4ejhmdGN6ZHZvcXN2dkRZYUc0eWVZWU1CaDlGZ3Nselk1eDdzbmNyMVhocEg3eWxQYlY4NVVnZGo4OFVDdGZiZVlIbGJ4NDktSlZWSjJBTEFFWGN3TVNMSjdOeEtuMlUxRlJTVFlNMlR2eFhVYld2bnR5Sk4wbEVzUGtMQS1qSGt3RUUyTTZEdHBhWWZ5YVZEZ2RfTVROUlNueU1ZN0tYckxlYzQ5ZENmdFRHdkE?oc=5
+**Fetched**: 2026-11-02T09:00:04.802660
+
+
+
+
+---

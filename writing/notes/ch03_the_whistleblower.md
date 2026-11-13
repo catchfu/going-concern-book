@@ -1696,3 +1696,356 @@
 **Mentions**: People: Andrew Yates
 
 ---
+
+## Thu, 18 Jun 2026 07:00:00 GMT — Former KPMG chief admits whistleblower felt uncomfortable - The West Australian
+**Source**: https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaTVFcXZpNjBOQVVDb1pxelQ1bHhwSHZNTVVIZVM3bjlxZlRQX1BlMklQS01hSjhDYnRXZ0lPQ0RuSkQ3dnZScldtQURlU2hwWmxuSXRpR09sMElIV1k1aC0xTkdpVk0wMm85V3plUGRhcno4ZXlURUJ6YzNrSW1UbDNGb1FZcGVKZG9fUWNwWXFHalE0SnUtY2V1ei1ZQ0EtWDB5NmZDUjM0WW9wNEhVdWRSTmVlU0tzNGVTWXlEejRZWndYRUtneHR2Y1loRjk0TS10dTkzWGZOSFQzeXpjRGctVFJEV1h6a09JNXZBeFUzTGs?oc=5
+**Fetched**: 2026-08-24T09:00:03.734857
+
+
+
+
+---
+
+## Mon, 17 Aug 2026 19:00:00 GMT — Deborah O’Neill says KPMG scandal has seen more whistleblowers emerge in ‘shonky, dodgy sector’ - Capital Brief
+**Source**: https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZzhtZGU4Z2NFZ0s4ZXEydG1DTVFVWEpHOXFfY0ROakJNYVdHWjZNVm5xd1ViejAyVS1weWFfYkFtMXNJdDRDR2VRc0txNXNmS2s4bGtITmtHUnZLdDZUc2ZGQVZkSHByc2w3cmlZcE5rZ3pWZmpNbHltNjgyOVZQYkU1TTROU243TFEzT01HVVptSkFNWXdiX2Rxcmo1V05DREdyUDRSMm1RNzYzVWZPSnZuU3JfQTJaaHBSNjl5VUJIeXB0MGc0LWh3OWlSUVNPQ2FvcUJOalZCc05VZmV0Mi11MkRPVy14d1NvSGF4QW1jSFJRQlJxc2dR?oc=5
+**Fetched**: 2026-08-24T09:00:02.726326
+
+
+
+
+---
+
+## Tue, 18 Aug 2026 08:42:00 GMT — KPMG ceases whistleblower hotline service FairCall for big name audit clients - Capital Brief
+**Source**: https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVWdhcnFZeU4wZU52alR6dHB4T3RFNjZhVUJsWGxzbl9QRmtFSl9URUlKbDFiallNREY1eHlhbU9KVl9xczRZejQ3TGMtUHlPSGZ6dTNuRTJMeGd4eW8wNVQ2QV84N2tadVV6YXVMdmdTMzNtLTUwRm1mcVFZWHNEWHVQRmMtdDNOWXF5bHBaOFA5ZG5RUmtRdkZXWHFIODNGNEN2NDZQZFg0Q2JHdE5HdTh0d1JoUXpjcVFRc09hZWFaWjQ3LUR4VGdFbEdBZEtNYkQ0UHJIdFdCODJIQ21vUzlkRFdOanM?oc=5
+**Fetched**: 2026-08-24T09:00:02.725884
+
+
+
+
+---
+
+## Mon, 17 Aug 2026 03:55:02 GMT — Calls grow for whistleblower protection office after KPMG scandal - hcamag.com
+**Source**: https://news.google.com/rss/articles/CBMixwFBVV95cUxNTUdzQzd1Qjl0OEN6Q0JrWm9mUWR1bG41VDRaaTY4S1dURTJLRThsT1hZdnlBa3RMWEdTeW83eUJUOGRZUDVJWGcyalE1aWlWb1poVHpFXzFUTE1IVUxhTGtjOWFHSGJaQVROcTRsYUN0VnliSC1Gc0xsR1g1MF8weEdONkVWRHlsSW1fVkdyU1BkZ1B0S2RNLUNlR0taeUtoREhaWnl0SGhWd2FfS013NkhfVkM0RGdFRjNDSDFBMGdxRzhNYm8w?oc=5
+**Fetched**: 2026-08-24T09:00:02.727709
+
+
+
+
+---
+
+## Mon, 17 Aug 2026 19:00:00 GMT — Corporate cop in major expansion of KPMG whistleblower probe - SMH.com.au
+**Source**: https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZlMxZ2JQNlg2ak9pYXBFQXhqUWNIay1VWmx3Ry05MWxlbGpqZEN2NUl4LXN6SUQyRW5rMi1hNzY2NXRRYjhrTHdWamN5b2JBaHhMTkVTakFERnB6ZFNUUE93aHp6M19oVU1uNjdGVXl0SHNxWlR6ajdMWWI5MXFFQUlsRHBJSGJVOVlPTnVDRDN1S0hSWEh4R2ljZmJ1SXQxODlBalhBaUdpb0p3c3dhZzhVQ1FnX2ZZQ2J2aHRUR1Y?oc=5
+**Fetched**: 2026-08-24T09:00:02.724990
+
+
+
+
+---
+
+## Thu, 13 Aug 2026 07:00:00 GMT — As it happened — KPMG chair 'physically and emotionally shaken' after call with whistleblower - ABC News & Headlines – Australian Broadcasting Corporation
+**Source**: https://news.google.com/rss/articles/CBMimgFBVV95cUxQbVBSNUdVMW9xcVZETXpUdjlRYmtuU05KcG03Q09vSDJpMC1KcWR6M2hITXZaYnZMTW1RR0RFZWR5V0pYT3NoVUVTbFN2Vi1lWjhaTFlzUHc2M3hYcGFaUlB5RWNzU0k1am0xQnp0TjRGR1VNNVRzVk5TTVBsVUZfSmZHUU4zMWFsMDBhMWpUMmxSN0hBMzVQM0V3?oc=5
+**Fetched**: 2026-08-31T09:00:03.091445
+
+
+
+
+---
+
+## Wed, 26 Aug 2026 15:41:44 GMT — Macquarie drops KPMG Australia as auditor over whistleblower scandal - The Times
+**Source**: https://news.google.com/rss/articles/CBMitwFBVV95cUxPazlEeXZvQnRLLWpGOGV4VHM5b2tfaWVoVDlNYXZ1MVBPVDlpRHd2dlNIUjhmS1RmMVlnSjRtYVkxZXM1TFlvcUhfemFueFVQeU1LQTVmOFVWOGxzcTVSQXNLZWlndVlXbXZUYUpjeHZlZlVjZ0hUS09lQmNJTkxQNEFXcUtlYXVINUpyeU5pZXhxV2ZwOGRnQ05rRUZ2R3BXcGtEYkF3YThKRmNjeHhqUFJZYllnTzQ?oc=5
+**Fetched**: 2026-08-31T09:00:03.093145
+
+
+
+
+---
+
+## Mon, 24 Aug 2026 18:27:18 GMT — Ex-ATO boss Chris Jordan named by KPMG whistleblower - ABC News & Headlines – Australian Broadcasting Corporation
+**Source**: https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOXlqVjZWNGRHcWdERE9jc0RYUFJUYndrdHFFTi1ySE1jYlc3a3UxVjZ2Tkp2OHJzZ1VHT1FEdldaVEdYdGZNUVZZVVE1bEJkMmM2MFJRQjYxOXdyZG5abkdyRWlKVnZyN1NaNUpyb2o4Z3ZybnlwMlRlQV9VaEtOeEhmVXpyOUppdTZPeDlqZU52S0xpTWFXcWo2QjZ2Vlk3ekJvNENwR1lrOFU?oc=5
+**Fetched**: 2026-08-31T09:00:03.093284
+
+
+
+
+---
+
+## Fri, 29 May 2026 07:00:00 GMT — 'Blows my mind': KPMG's whistleblower issues collide - aapnews.aap.com.au
+**Source**: https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYjlMaS1qS0RYb2FKemdWMEcxQm1pLVZfVWZFWHVYdU82NUxsd1lNeFRxWXIxUkhEX3ZUOEZRaGxXOC1QS0tBWm9KemQybUJnd1VJMjBoc3Y4WDU3cHRyMDF4cHcxb1VuaVozVlJINHl5Ykk2NmY4VHRmM3lyTmxXOFVEV2lmYWZX?oc=5
+**Fetched**: 2026-08-31T09:00:07.787002
+
+
+
+
+---
+
+## Wed, 02 Sep 2026 19:44:03 GMT — The 'condescending' email at the centre of whistleblower concerns - ABC News & Headlines – Australian Broadcasting Corporation
+**Source**: https://news.google.com/rss/articles/CBMikwFBVV95cUxNSzQ1NHJwbk1DcHN0Wkw3RWp3VlNTaTQ4VnVTVndpd0pXcFlTMHcwSERiZGZZWDBhVWNBb1N1YWtaQkNlYThNR2pzeFVLMUxpai1VRmMzQXZ6cjdvZ0tuUnR0TERsU3pGd3VwWmZ3NkRjNk5IRUlkSEhjWDRKcmlSQlFvOVpfdnNfdGNZMTVtel8wS1U?oc=5
+**Fetched**: 2026-09-07T09:00:03.304013
+
+
+
+
+---
+
+## Thu, 13 Aug 2026 22:44:05 GMT — Settlement payment to tax division whistleblower 'had no impact on investigations', says KPMG - Accounting Times
+**Source**: https://news.google.com/rss/articles/CBMizwFBVV95cUxOZU1JaG5GWmxBZlNzUkFSS290bTZOeWd0RWI4a2dSbk5NM1lLM1FnaXhFbHVrVW1OZ1lyQlBkRkpCMjNGcl9qbGNPUGt4dmVWQXM1OElZMUVaUDI0M0pNRUpIOTNXbzF6Z2NkbkZVVmpHMXNMdXJzb3ZkcHppakp5eWxIdlZiTFRPX0g5cHhqMGxnZVVvemxGTEhJb3gxRXphMENCbUEteS1HWlgwX1RjeGpGUUgtXzUzY2RlYlNwX3NsVnBvNC1zSmVPdnVpRUE?oc=5
+**Fetched**: 2026-09-07T09:00:03.307387
+
+
+
+
+---
+
+## Fri, 29 May 2026 07:00:00 GMT — KPMG Australia CEO Andrew Yates Resigns Amid Whistleblower Allegations; Audit Head Also Steps Down - Profit Announcement - dars.gov.et
+**Source**: https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeHpYa1M0OGlvd2Fya0J5SkRYSmVXcnZ3a2VabHYzbHBOVUFxMnhtbU1MNkI3YmpTeXBzVWRPd1NJRjdRZ1BZTGY5M3ZZNWw2ODFRbXlacURFd1BKSW9jTmJDdHhfS0RsMXBTVDRvc0NOLURWWG4yeUlub1NnNXBDWHo4T2RMNjJab0ZjSEdhemFpYzZENm9DVGN1b0hxNHlCcmo0dzY2UFo2NUFlcTRNaGR1cDdwUTNoam1XMlhzSlk2Z1BJT3RuaXVYWmdvMkl1SjlvRFo5cUc?oc=5
+**Fetched**: 2026-09-07T09:00:06.068421
+
+
+
+**Mentions**: People: Andrew Yates
+
+---
+
+## Thu, 03 Sep 2026 19:30:37 GMT — KPMG whistleblower tried to expose 'systemic misconduct' but was turned away - ABC News & Headlines – Australian Broadcasting Corporation
+**Source**: https://news.google.com/rss/articles/CBMirgFBVV95cUxQWDR3SnpuNzh4aFE2bFd2SXRRWWJXNEtiRmlLLTFjZGFJWVZDYkxBNC10eG91UFJTdU9UZ01LanNFbWtBTVR3el9QOG8tTGRmemFpNUdBVVp6U1RRMUFtNC1FbEVjRklyaXZFVnYyLXVHZkE5dGx4NWplaXNtY1FnYkIzaVBUMjJMajQxai1UUVV3VzFPUWczYUNnX1lVdTAzX2VxLVlFR25xa3NaT3c?oc=5
+**Fetched**: 2026-09-07T09:00:03.304777
+
+
+
+
+---
+
+## Fri, 29 May 2026 07:00:00 GMT — KPMG CEO resigns as whistleblower scandal erupts - WAtoday
+**Source**: https://news.google.com/rss/articles/CBMitgFBVV95cUxQZFFaUk9KX3dKRDBxblBHckVzeWFjd09CdVA4Ri1QUXJKLTB2cnJtQ1VmeWRrc3lQNFhVVExsWFk2Y055cVpHaFh4Q0hOVGx6ZDRtLTNoMGVtTk9OVkxZall3eW41S0trOE5SWnBTSmt2b29BTHEyd1BSYkVqLThvanloNHNEZ3V0MkN5OXRDaEN4Ul9JTW9sVG5SaFgyQThMejdMRFpBRzZTaE1QM0Q3bTh1aHF3Zw?oc=5
+**Fetched**: 2026-09-07T09:00:06.065648
+
+
+
+
+---
+
+## Thu, 03 Sep 2026 19:00:00 GMT — KPMG hit with fresh ASIC probe over claim it had ‘zero whistleblower complaints’ - Capital Brief
+**Source**: https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcnJSdnBNbk1fcXZGdWJpVE15d21nZUFvVGM3bXZYamZ4X0MwVm5FMjRHbk9ucjhmdVVFbTNZanJjSVc2LUxnd1ktZElqNXIyb05lUDgwSVRNazUzcEVJcWtVQjBMNUR2MmREWmtOQWs5UTFaVnlyT3o4aEtaVUZybmJ5RTVzX01lLVQxcUFGVmNpWnkwQXdVMllDdUxqOUw0bmEzcWlfVVhyVW16a0V3ODJmM0N3WEk5c293NnhScDdzVVhrcTd3Ry0zQzFNQmszMEtGZk5Taw?oc=5
+**Fetched**: 2026-09-07T09:00:03.305471
+
+
+
+
+---
+
+## Thu, 03 Sep 2026 23:59:06 GMT — ASIC launches review of whistleblower complaints at accounting giants - SMH.com.au
+**Source**: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTZ0UFAzQVhKRXZoSDR0dHRCaGFpNE5Cb3JOZ0dGNEdRT0tKYlY1cjZpaE5FazFHV0l0UGdhbXk5cUNBdExydU9zdGo4MEZXZ2t4Y2htTHR6dU44eDlRaVZEczVVUkx2Sy16YWRqR3A5UktUaV9temtKdmYtZjU3bVBsY3RXaFFhb2tZYm4zSnN6bG5HNVhFYWpxM19WZ2hSNEZVdXhnSno?oc=5
+**Fetched**: 2026-09-07T09:00:03.304154
+
+
+
+
+---
+
+## Thu, 03 Sep 2026 02:31:03 GMT — KPMG high-flyer sues over her whistleblower scandal sacking - SMH.com.au
+**Source**: https://news.google.com/rss/articles/CBMirwFBVV95cUxQZEo0U1lTbXFWV01SSDh1UEdRZV9XYW4wN3ZCRnEtd3l6R3hUM0tUOVhqamtyQmZ1anItQjhOdkh4OVc3dC1admlaS0NBU19henYwUFAxa2k3N1hJMUw2cUFXZVBGWm5xTmFlazlIU2ZFRm9ITHlYRlp6bDh3dFFhX2R2X0hYa24xRXhwVHduc2Jyd21NSTNaTEZlTU1FZjZZM3pVektSZkprdmE1U3Mw?oc=5
+**Fetched**: 2026-09-07T09:00:04.735483
+
+
+
+
+---
+
+## Fri, 19 Jun 2026 07:00:00 GMT — As it happened: Mike Baird says KPMG’s response to whistleblower was too slow - The Age
+**Source**: https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWUp6REN6WDE3LXhyRHVpUXFFZ3ZVSy1sNTlrQ1lGczFHSmJNUWpPd192RFJQSEczY0ZWcU9lVjFlSjk3OFhGeGFtay1iaUkwZHpxV3p4Zm8wR3FnbnUwMElycjhQUDRwNmh1WVZ5X0lWYW03c0szakswOUw1eXgtV0phOFRMNUpLYjV4cDNSTHVMaEEteFRvRjVVN1NkRXpnR19wUEZGVVJyeWpGQ1lyRk4xZlpON1RVWERRaWN1S2ptd3A5bWx6aFU2R2lNaFhFVWEwd05iVG4tWm9wYmc?oc=5
+**Fetched**: 2026-09-14T09:00:05.905723
+
+
+
+
+---
+
+## Tue, 23 Jun 2026 07:00:00 GMT — KPMG chair quits amid whistleblower scandal - The Weekly Times
+**Source**: https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcFFSb0ZUZzUzNV9TRVdDejQzcmFqSWtidjA5QTRMcHlGOG5qZWtTSmNNWG1XMjkxUW1zajJsZ2dVQVpVUldwSzhhTG9FaFJoM3dFbVZmQUJzRGdHOFRid0xUZVRINHdxaHYxZ0xvZUk3am56bkZqeEplNXZHSVNISjdLQUVENi1hMzZKMGhkY3VXcVhENUd3UDN3WWZUczlVVkt6cEpvS3VnSEhzMHZmMnBQazJvZFdSNEQtNnFSSkNLTVN0Zkd6Vl92NzB0SnNx?oc=5
+**Fetched**: 2026-09-14T09:00:11.425400
+
+
+
+
+---
+
+## Thu, 17 Sep 2026 06:25:00 GMT — KPMG’s own review finds approach to whistleblowers ‘overly legalistic’ - AFR
+**Source**: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcnpUaHUwWHhSSmc3ajlKbTljUWJFVi0xMjVjLWt4QlRtaGpKUC1JZmh1cUNlX1JTUThBazYwMkdmN3c5UHBZODJKWHNHVWo3N0ZZTHFJb1F1NzVDR3VYZkhpR3JGT181bHlLY2hfSjdJY0NaMENLTlpuTmhmeGF3cXJFTkpyVmhGY3pBT2RLRkNDcmJ4Skd6WHNKTnVTYXhUSUFkLXhob3VuV0RlWC1oVndnZVVzWjAtaGdCSm4tbDk4OV9HbjgzZEdfdGJRaW0xY0E?oc=5
+**Fetched**: 2026-09-21T09:00:04.066413
+
+
+
+
+---
+
+## Thu, 17 Sep 2026 15:56:06 GMT — ‘Difficult to read’: damning report prompts KPMG Australia to accept whistleblower failing - International Tax Review
+**Source**: https://news.google.com/rss/articles/CBMi-wFBVV95cUxOVTNESHB6N1VtTXM5NVJFZ05LWEFkdC1lR04xcGpWYlJMeDNHQmJMa3NYalpndjFJdDBjb3VwYlRDRDRIc0xXUGoxWnRYQ2pYeTcwY1ZzS05EZXl6RTl3SHBBdjhpR2dYUl95WDBMVnpWZW5LeDNlYldrNzNvTy1wM1dNQjF6ZEtIZVlwemFqYURWWEZnbjNhSTgzWk81VVJCblk3N2lhZGVMUG5JT2d3Y24yaGpWQkZVSGhEWG5nOFY5ZGlRcjNSd3FLTi16VTFZYk9xd0tQNllNNVNHeUxLQXJYN3g0NjdSZEZXcGRfdjJzM3RJaDdEVDRCRQ?oc=5
+**Fetched**: 2026-09-21T09:00:04.066757
+
+
+
+
+---
+
+## Tue, 23 Jun 2026 07:00:00 GMT — KPMG chair quits amid whistleblower scandal - The Australian
+**Source**: https://news.google.com/rss/articles/CBMizwFBVV95cUxPN2NPQ0l6RTlBZFk5WG9HRS1WeWpqbTJKWWwwRVpfTzRLVjFZSkJhM1lGbXZkbUlrenRzbHlxWVhCWGViYUZzZUN5NGFMOHA5MGtvOGR0LUs0c3lKWkRaalJnNE9qVUI5R0o1Qm5aNThZTFgxeHFnVjg3ajhhTl9GOEs4TDd2SlZvNDFibXNTeU9tNGJrdXgzSTRROUZaNExFTXQ1em9UZU81TXpqZ19YUmlZV0JaT3FaZm45SGxOd0RDR3VQc01KclZ2dGJGVDA?oc=5
+**Fetched**: 2026-09-21T09:00:10.845912
+
+
+
+
+---
+
+## Fri, 07 Aug 2026 07:00:00 GMT — KPMG whistleblower seeks cap on potential legal costs - The Australian
+**Source**: https://news.google.com/rss/articles/CBMisAJBVV95cUxNRTlydFRwRktZbXRkZU44RV9WRi1WaUJReHhqRkZOeHNncnZUdUFDWXdrMldsWkJiS0QzZmtQRmFDSnl6elpqU3p4VUxTRjFCYi1id2dxNTJLRndkUmhvYThiVnlMZ1FZZFpITTVVY1lRNkRXNmV2WUJ1OW5fbnAzaXl1bEwxTDlNZFdfb2p1OTlvQldBR3BoQ1RJWTZyVGVJdms1NFpKMlVXcVlwMzZ1TkhMajBYRzFkcmVlaHMtZlUzbjdPMHBUU0NIUmxOUy1FSXVXTXR4NDhDSlZWYWlDY0hwTEE2aWJUTi1yZ1RaMTZWek1waGhmYXVzSVFxSXBmRkl0b1ZjY2t6UHVIZzVFNUZHNm0zUkE0MlI1ZDlBb2x0RDBWWmgyaTg2NXlfazVU?oc=5
+**Fetched**: 2026-09-21T09:00:04.073301
+
+
+
+
+---
+
+## Mon, 22 Jun 2026 07:00:00 GMT — After the heavy fallout, KPMG whistleblower says: ‘I would not do it again’ - The Australian
+**Source**: https://news.google.com/rss/articles/CBMilwJBVV95cUxNWWJpWnBXbVViNTJzMzhxVXRHT3hlTExabEZOT1BYUEpoREZKd3lmZGNCeVRBSnpwREJNNExZUUFlNXQtbjZCRFYtblRNclRCNFUxUTRTMjAtY09fanlvUHpIQVYyVmUwTndBUHJIdEZQRVVndi13czVpWTRucFhJZXV6NmpaXzBQb01KdTVKcVpkZzdiWUFtbW9yYkVTVlVWeVNBcEo1RkpIZnFoVGlWeTBKczlDZVRMbGRkdjMtTy03QlU3V0NZUVhFcmxPMzVKRWZSeFhrUWpHZktfaWNiZ1k2RnNvX2xlaHpWd2hQdXpFQjZHQTV6QVF4Y29TT0kzUDdBTWpXa1l0a2FZUlhTeE56YnRveTg?oc=5
+**Fetched**: 2026-09-21T09:00:10.852216
+
+
+
+
+---
+
+## Thu, 17 Sep 2026 05:56:09 GMT — KPMG consultant admits to ‘gaps’ in its whistleblower report - SMH.com.au
+**Source**: https://news.google.com/rss/articles/CBMivgFBVV95cUxNeVFxRnZsbWtlZDFFc0hLZVVtUVJLSVNiZ2xWOFpHREc3OEV6TnNYZjh5T0taUmplcXBqakJ5ZEd0VzVlei1EVmJsZGQ3cW1YTzFZS0E2Q3JSZm9DYmREY0FQU0k3VTRYcEZvSmF0MWYxaXlXNGEzTGlkdWJaOGJYcldDdEZuZUd1Q0R2VUVYZm85bEZCOTZhdjNkcFEtM09ndVBIX2NLZHB4VDVlTmtzSDFWTmFfdUJudl92dVBB?oc=5
+**Fetched**: 2026-09-21T09:00:04.066683
+
+
+
+
+---
+
+## Thu, 28 May 2026 07:00:00 GMT — Why audit stench is rising as new KPMG whistleblower emerges - The Australian
+**Source**: https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZVpjQmVHQldBdlI5TUZDWHpLOWtlcHpyRVpVSWdERVpxeDZwenJtdm83OVlfUVplY0R6N3lvY1VPdnBTWjRZTU1pcXpHLXQ3QVpkbE50Mk4zSWxac1lpb3NmWHhEV3ZFUGVrT2F5anF3Znd1aDZ1YnNHSnctRWdFUDEtRHlMdjF2SEc1cG92SHhBNGdhcVpGQ0d6cVBldFZBeU90MUptUlJMVEJuNERUU1hIUWk1UC0xUldqODViRExleWhycGtENVFmYlc3bGs2MDRjcllHdXRtNXoza2xIZkhfUmlHZnRlXzY0dEp2aDJvTXBrbFpJ?oc=5
+**Fetched**: 2026-09-21T09:00:05.910697
+
+
+
+
+---
+
+## Sun, 31 May 2026 07:00:00 GMT — ‘Obscene’: KPMG’s whistleblower hotline under fire - The Australian
+**Source**: https://news.google.com/rss/articles/CBMi9AFBVV95cUxOLS1tMDNYWW5sX21mLXRkaWlzU1ItNlAydVB3OUVJVlpXZ2kxT3ZYMlRUYmpoTS1IYTBrdzY0aW13bFh6ZzBCRnUxek5lbnBDWHM3R1pTWGhWcE1NblFBZVBpa1ZYQmhHSzlkWEFfdWIwakgxSlZTMmwxdG9ONGEwckszWnpXQ1JkeFhldVZ4YzNmRmViODZVYUxMdjVuNkhfc3pkNmJ4WFNraVBDdjVUWmM1OGluaUVzVEQyMjFlOGt2ZGl5UnRsdVBodGg4WUpTRXB6dzg2UTVtOVVtRVJDUU9kdmtxYUxkdjZYTEFTdkI4U1NM?oc=5
+**Fetched**: 2026-09-21T09:00:07.846234
+
+
+
+
+---
+
+## Fri, 05 Jun 2026 07:00:00 GMT — ASIC opens formal probe into three KPMG partners over whistleblower claims - Межа. Новини України.
+**Source**: https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkbWFQcFljd2taZzhKeE5vSVJyNWlCRXRRdEN1d29YdlBLQjZkRTRBNjhKMi1HQ1lGS29WbkxHVVRieGV1UmRydC1kUXdtdWRHM3FCMllvNWdsLUxfbHZYdVEycUM?oc=5
+**Fetched**: 2026-09-28T09:51:41.781811
+
+
+
+
+---
+
+## Tue, 09 Jun 2026 07:00:00 GMT — KPMG Whistleblower Complaint: Why Global Leadership Declined to Investigate - big4news.com
+**Source**: https://news.google.com/rss/articles/CBMia0FVX3lxTE00bHNZN0RlYjZCaHhYX25iMHQwSy1US2FMOGRwMnV6dWJLdUE0RWdILWJUY09iZVBzTVV3NTg2ZGRpc0tXOUJJeWVaX3lOU2JoOWpIaTM1UV9jbHg4V2tpMFJPX0tYam8tYW9r?oc=5
+**Fetched**: 2026-09-28T09:51:35.258252
+
+
+
+
+---
+
+## Tue, 29 Sep 2026 19:00:00 GMT — ‘Just hold fire’: How KPMG’s whistleblower scandal nearly derailed a DFAT contract - Capital Brief
+**Source**: https://news.google.com/rss/articles/CBMi7gFBVV95cUxQb0hPX1dKRU9iR2pjWjVlcUZyc3JUVmx6VUxFYTF6cUtZb3JkbDhNRDdHOGZqby1xLWFMVjVURGwxdGRzTWV2NVNlT0Z6VHNaRV9QS013U1pJNFBvMTZCdzhCNmsyeUFVLVp3cFg2Rjc5VzZmeVVBWFlIbVJITVBnblZ6eXVRbWdkdGxUSkZLbG4xS25PVmlXRHkxbWE4LTA4ZXhVbHFPWXlDckZhRy1UNHRwNHFUSE5xUmJ0ZGtraHpQTERIUWNVUkp4V1hTRVdKUkppRWk4M0s0WWZLNU5IbGlKYTFZWnhHTEUzQzlR?oc=5
+**Fetched**: 2026-10-05T09:00:03.422057
+
+
+
+
+---
+
+## Thu, 01 Oct 2026 20:05:03 GMT — KPMG general counsel retires after Australia whistleblower scandal - Financial Times
+**Source**: https://news.google.com/rss/articles/CBMihAFBVV95cUxQc3VpTGliSlRTYnVOcWdXVC1mWXU3ak5DTkRna2xYeTZZRGFrZ0VjT1piWVNsMkdRWTVTVW8xT3VXTWE2VC1wbXZheVo0Rk43RXd1SHRfRDJtXzdYOWdFVHlhMHhlU0szb1F1SUVMRnBjMi00QnFBXzVGQjl4X3ROdWk5X3Q?oc=5
+**Fetched**: 2026-10-05T09:00:03.421546
+
+
+
+
+---
+
+## Thu, 01 Oct 2026 22:13:00 GMT — KPMG’s global general counsel retires after whistleblower scandal - AFR
+**Source**: https://news.google.com/rss/articles/CBMizgFBVV95cUxPTUpfQXZDaWo0ZTlpR1J4YktVaHJVdkUtb3lEUlQycWxONlZHU0V6WWozcHV3d3R0Q2M0WTZ6U0ktNzBBMWZWd1Z2TlNHdWJpeTd1TGZNME5xUzA2c0JfTW1PMmkzMV9tR2VSMjg5R1E4OVktYmZCZXo4UjFKcDlvOC16RVI3U21ISHpwMFl6ckhSVFptRlNxRjlMbE9Na19WZ2xoc29OZktqOXBYVHRHUkEtcVRCbnJpc0RwXzZJU2EtR0ZRQWlaY3ZhTHhNdw?oc=5
+**Fetched**: 2026-10-05T09:00:03.422692
+
+
+
+
+---
+
+## Thu, 10 Sep 2026 07:00:00 GMT — KPMG hinted at internal investigation to Westpac in 2025 - Accounting Times
+**Source**: https://news.google.com/rss/articles/CBMipAFBVV95cUxOUWxYZHdvS1ljWWF6TnRNMDdITjdmUmpNSW9jX2dtb2oyU2Q5eTlPbkRtbTJycGpSMzJVNXBpdjA2aklON2dVejJpTW9pT3UtRUFmd2Z2NGZGSTFINV9ac3hCaWZrOFVOWlJ0Q0s3ekZsUWhVVmRlNi1RdDFIU1RlVFRpUjg0WDV6a1Y5VkJ2RmNZbGdBdW13SEtSblNGaUZaUGJCbg?oc=5
+**Fetched**: 2026-10-19T10:32:56.611366
+
+[Investigation] to Westpac in 2025 - Accounting Times KPMG hinted at internal investigation to Westpac in 2025  Accounting Times
+
+
+---
+
+## Wed, 22 Jul 2026 07:00:00 GMT — PJC inquiry urges PM to take urgent action on whistleblower protection issues - Accounting Times
+**Source**: https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcHE1MFBjalpvVGc3T1lxcUVacnNqbTFDcmMtaXJYdXJ6eFpCQy1HM2N6NnpFbHFxUmZfUVE5ODBMOFhjQUh3aEd0eGNTUnp5S1pGZ05sWl9HMVI1S1VSS09TV1ZrUC1SVXBQLTY4QlhwbU9mTGRVVTN2MDRRVU9RTnlEY2V4V1VlazU1Z2dNb1pEcUNQUHF5azhQd3dtaVM0SDJrVWxwRTgwUXR3RFUwV3pKb1hGRDZSQWNSRlN3OHY?oc=5
+**Fetched**: 2026-10-19T10:33:08.031232
+
+
+
+
+---
+
+## Sun, 23 Aug 2026 07:00:00 GMT — KPMG to stop FairCall for audit clients as whistleblower scandal clouds hotline business - www.big4news.com
+**Source**: https://news.google.com/rss/articles/CBMiggFBVV95cUxNRGNoSkZHanVWT0VvbDZtOF9PVzM5cldBVGQyWWk1c09WQTliODE4bnFxTWxGbnYzcGg1cUxRS29LMWRESGs5NENKdmdkOHpMaldMRkQxenVMZkpDTDBEbUpxU3VxeUpRNUpkOV9rNU1jSEJWRjhQYVNwMDNBbjRSb0FR?oc=5
+**Fetched**: 2026-10-19T10:33:04.795498
+
+
+
+
+---
+
+## Thu, 22 Oct 2026 08:22:20 GMT — Review finds KPMG Australia mishandled whistleblower claims, pause on government work extended - Reuters
+**Source**: https://news.google.com/rss/articles/CBMiywFBVV95cUxOekRoVHNFNE0zOGtLZ2xHcWIzYnFveDdndmxSTDE3ejlfcGZxbW5XdTlQb2szelQ0c1Z6V3piVFBGaEE2dWhjOHprZlZORzhxZzByQTFERThvall3QXBrOFExMkNmdGZVbHd1Mlc1QVZlS2ljSWhZZE9zcjdid0tvWHc2amY2eHdWNWo4OW91NFl0NXU0cERJcnZjREtYQlpORWd5LUlESHp0Q1U5cXctd2JzWEdxc1pQR1lDXzBfS3lwS2p5VVByUVVKWQ?oc=5
+**Fetched**: 2026-10-26T09:03:19.362350
+
+
+
+
+---
+
+## Thu, 22 Oct 2026 04:36:00 GMT — Review finds KPMG Australia mishandled whistleblower claims, pause on government work extended - Yahoo Finance
+**Source**: https://news.google.com/rss/articles/CBMipgFBVV95cUxOX19HRUFPZHd6aVo0NkRscGZBR0J1aHoweHh1MjRMeldWLUU2V3F1MDJtdmtQZDhzbVdwWm9lanlDU0JYTGYxWjROV01jSzZ2UEhaOWhpdFBERVFMc3V0aExHQU8xdE81RWZIS0hHRlVBM29zZUpNQnBrMVRqX1hrbUhSd3J2WkJoUWl2Z0pxVlBUT0tZNWxEUF9JbkRQNnhoT1FUdGlR?oc=5
+**Fetched**: 2026-10-26T09:03:19.365375
+
+
+
+
+---
+
+## Sat, 22 Aug 2026 07:00:00 GMT — Friday Footnotes: Firm in Whistleblower Scandal Ends Whistleblower Service For Clients; Evergrande Liquidators Mad at Regulators For Settling | 8.21.26 - Going Concern
+**Source**: https://news.google.com/rss/articles/CBMiiAJBVV95cUxOckc0cnRZMXBxVTdEa3dlVVBpY2UtellqSjZpUFFVOUc1eFhMdzFNUUJqanl3ZGlvT2Ixb2pKUVdQLUFTMk1Xd1J6NUdVbFg0U1M0UllseWUwNVZpd3dGb0lwZTJYR2JNbHlyQXgtSDhqT0FfWWJVNHcxYXRLQ25OY2Z2NHZxRGtNbnRjcGpSMnBDOFplaFphVW42bGZ4Vm16a2RPeHhqNXpVeDJuUUd4Nmo4VjVmUkl4WUdRZERDMmhYMlA1Q3hBeGhiOUppUDUyV3loQ3QyMzBjSHRPZjJTeXB4d3haMmw5cXdIY1prS2t3a05pZUFIMUZEcUdHdjdRTXFURTJrME4?oc=5
+**Fetched**: 2026-11-02T09:00:13.298483
+
+
+
+**Mentions**: Orgs: ATO
+
+---
+
+## Wed, 12 Aug 2026 07:00:00 GMT — KPMG chair apologises for labelling whistleblower allegations as false - Accountants Daily
+**Source**: https://news.google.com/rss/articles/CBMi9AFBVV95cUxOa29GQ1VlRFRUQVFhNjVYSFlkeXBueGgxWU9lN3VLQWtoZEg1RDhxMEFXUzMwcnEwNlpvOUdZRFA2V2V2Qk0wN0pmRmFkTUNMWlFMb2ZRN3JBb094UGtjZFoxUUdHMVpwYk02UWc0VGdnR3RBN1RQcWxsZDU5Ynk5ZXZKVGVqQXJMMm9EV09FbDhvalkzVlZIdS1zWnZzV1M1OC1ZZlM4a19SQmdqSThTY1p1MWZnN3V5Y054OGVuQmhOY3FxMW1OOGZKNDZUdGpPMXlrWEd4TnNpeENkMmY2Ml9OTDZPSlMxbzZWR2RxMzZsVTBu?oc=5
+**Fetched**: 2026-11-02T09:00:16.662760
+
+
+
+
+---
