@@ -69,3 +69,13 @@ The Canberra hearing widened the scandal beyond politics. Senator Barbara Pocock
 - The identity of the audit head who resigned alongside Yates, and the full scope of the surveillance (laptop vs phone)
 - Whether the internal investigation file will ever be produced to the committee
 - The scope of the "many more" whistleblower misconduct claims the inquiry heard on 14–15 August 2026, and what became of the tax-division whistleblower's settlement
+
+## The review concedes
+
+In September 2026, three months after the hearing, the firm's own review caught up with the whistleblower's original account. The AFR reported on 17 September that KPMG's review had found the firm's approach to whistleblowers "overly legalistic" — the phrase a confession in management language: the firm had treated the person who reported misconduct as a legal problem to be contained rather than a messenger to be heard. The same day, International Tax Review reported that the "difficult to read" report had prompted KPMG Australia to accept its whistleblower failing, and the SMH reported that the firm's own consultant had admitted to "gaps" in its whistleblower report. The concessions validated what the dismissed audit director had alleged in March 2023 — and that the firm had dismissed, then surveilled her for raising.
+
+The concessions came against the backdrop of a wider chill. Accounting Times reported in October that there was "widespread fear of retaliation for speaking up at KPMG" — the culture the review was written to reform persisting inside the firm the review was written for. And in the same weeks the regulator's own reviews began to land: ASIC said it would publish its Big Four review findings following the KPMG controversy, while Capital Brief reported the regulator was examining KPMG's claim — made in earlier testimony — that it had received "zero whistleblower complaints." The complaint that had begun the entire affair had, by spring, become the benchmark against which the firm's every assurance was tested.
+
+## Sources & notes (September–October 2026)
+
+- "KPMG's own review finds approach to whistleblowers 'overly legalistic'" (AFR, 17 Sep 2026); "'Difficult to read': damning report prompts KPMG Australia to accept whistleblower failing" (International Tax Review, 17 Sep 2026); "KPMG consultant admits to 'gaps' in its whistleblower report" (SMH, 17 Sep 2026); "Widespread fear of retaliation for speaking up at KPMG" (Accounting Times, 12 Oct 2026); "ASIC to publish Big Four review findings following KPMG controversy" (Yahoo Finance, 13 Oct 2026); "KPMG hit with fresh ASIC probe over claim it had 'zero whistleblower complaints'" (Capital Brief, 3 Sep 2026)

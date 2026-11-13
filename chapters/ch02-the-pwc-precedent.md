@@ -24,6 +24,12 @@ The warning signs that the PwC scandal should have sounded were not subtle. Form
 
 What KPMG specifically failed to learn was the lesson about internal investigation. PwC's scandal had begun with a leaked document and a firm that tried to manage the optics rather than confront the conduct. When the KPMG whistleblower raised concerns in 2023 — at almost exactly the same time PwC was in the headlines — KPMG's response was to investigate internally, dismiss the complaint, and continue. The firm that had watched PwC's destruction from the grandstand repeated the identical error on its own turf.
 
+## The reforms that were stillborn
+
+The PwC precedent's most consequential failure was legislative. In February 2026 — three years after the tax leak, and three months before the KPMG breach became public — The Australian's verdict on the government's reform program was "Absolute disgrace: government ditches PwC reforms." The disclosure regime, the consulting-procurement rules, the oversight mechanisms that the PwC scandal had been supposed to produce: all were shelved. When the KPMG whistleblower's allegations surfaced in May 2026, the regulatory architecture the profession was operating under was the architecture the PwC reforms had failed to replace.
+
+The pattern repeated after KPMG. The Treasury review of big four "policy problems" was announced; the accounting firms opposed mandatory auditor rotation; the structural-separation debate produced commentary rather than law. "Structural separation an 'untenable' risk to audit quality: KPMG," the firm argued in September 2026 — the same argument, in the same register, that the profession had used after PwC. The precedent's lesson, learned twice now, is that in Australian professional regulation the scandal is the punishment, and the structure is never the sentence.
+
 ## The profession's broken learning
 
 The most damning evidence that nothing had been learned came in July 2026, when the AFR published "KPMG, PwC scandals show that audit and consultant firms need to go their separate ways." By then, KPMG had lost its CEO, its audit chief, and its chairman; PwC was still rebuilding; and the two scandals together had produced a bipartisan consensus that the big four's combination of audit and consulting was inherently conflicted. The firms' defence — that the combination is necessary for talent, expertise, and global service — collapsed in the face of two consecutive scandals involving exactly the same conflicts.
@@ -40,6 +46,7 @@ The firms' clients noticed the difference. As the next chapters will show, when 
 
 - Research: `writing/notes/ch02_the_pwc_precedent.md` (PwC tax leaks, $1 consulting sale, partnership deed transparency, reform-ditched coverage); `research/evidence_map.md`
 - Key reported items: PwC tax-leak scandal (2023); KPMG reveals partnership deed (Jul 2023); "Did KPMG learn nothing from the PwC tax leaks scandal?" (AFR, Jun 2026); "Absolute disgrace: government ditches PwC reforms" (The Australian, Feb 2026); "PwC scandal triggers big split risk" (SMH, Nov 2024); "KPMG, PwC scandals show audit and consultant firms need to go their separate ways" (AFR, Jul 2026)
+- Spring 2026: "Structural separation an 'untenable' risk to audit quality: KPMG" (Accounting Times, 3 Sep 2026); "Accounting firms oppose forcing clients to swap auditor every 20 years" (AFR, 7 Sep 2026); "Treasury to investigate 'policy problems' with big 4 firms" (Accounting Times)
 
 ## Open questions
 

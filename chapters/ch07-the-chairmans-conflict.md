@@ -40,6 +40,12 @@ Sheppard's successor was Michael Ebeid, whose elevation the AFR reported on 12 A
 
 The firm's global leadership, meanwhile, stayed away altogether: the AFR reported on 13 August that KPMG's global bosses had snubbed O'Neill's inquiry. The firm whose Australian chairman had been forced out could not bring its international leadership to face the committee at all.
 
+## The Sheppard files
+
+The chairman's conflict did not close with his resignation; it was carried into the document war. By late September, Accounting Times reported that KPMG still claimed privilege over 74 documents — the internal record that would show what the chairman knew about the breach, the surveillance, and the overruled conduct panel remaining behind the privilege wall. The SMH's September profile of the committee's pursuit — "The political foes chasing down KPMG's 'wolves' have not finished yet" — framed the fight as personal: O'Neill and Pocock against a firm that had, in their telling, treated the parliament as another counterparty to be managed.
+
+The Macquarie dimension added a postscript. The Australian reported in October that "Macquarie backs directors as KPMG audit contact gets personal" — the bank defending its directors' meetings with KPMG figures during the audit tender — after the AFR had reported that a Macquarie director had "repeatedly met KPMG figures during the audit bid" and Accounting Times that Macquarie had given the director a "clean chit." The chairman's conflict had metastasised into a governance question about the clients themselves: who at Macquarie knew what, and whether the bank's near-$100m audit appointment had been conducted at the distance audit independence requires.
+
 ## The question that remains
 
 Sheppard's resignation answered the question of his tenure, but not the question of his conduct. Did he know about the surveillance of the whistleblower before the committee did? Did he direct the overruling of the conduct panel in the Hoggett decision? Was the war room's strategy — the privilege fight, the in camera hearings — his strategy? These questions now rest with the parliamentary committee, with ASIC, and, potentially, with the courts. They are the open questions of a scandal that consumed its own chairman before it was done with the firm.
@@ -49,9 +55,12 @@ Sheppard's resignation answered the question of his tenure, but not the question
 - Research: `writing/notes/ch07_the_chairman's_conflict.md`; `writing/notes/ch05_the_cast_of_characters.md`; `research/evidence_map.md`
 - Key reported items: "Mike Baird turns up the heat on KPMG chair" (Capital Brief, 19 Jun 2026); Baird testimony — "too slow" (The Age, 19 Jun 2026); "KPMG chairman Martin Sheppard and problems of disclosure" (AFR); "KPMG Australia chair Martin Sheppard resigns, leadership overhauled" (Capital Brief, 23 Jun 2026); "KPMG chairman's departure is just one of a thousand cuts" (SMH)
 - August 2026: "Macquarie, Westpac to front KPMG hearing. Ebeid new KPMG chair" (AFR, 12 Aug 2026); Ebeid apology to O'Neill — "naive, embarrassing, wrong" (Capital Brief/The Australian/Michael West Media/SMH/Accountants Daily, 10–11 Aug 2026); "Michael Ebeid's last-ditch effort to save KPMG, and himself" (AFR, 10 Aug 2026); "KPMG's global bosses snub Deborah O'Neill's inquiry" (AFR, 13 Aug 2026)
+- September–October 2026: "KPMG still claims privilege over 74 documents" (Accounting Times, 22–23 Sep 2026); "The political foes chasing down KPMG's 'wolves' have not finished yet" (SMH, 3 Sep 2026); "Macquarie admits director repeatedly met KPMG figures during audit bid" (AFR, 31 Aug 2026); "Macquarie gives Hinchliffe clean chit after KPMG meetings" (Accounting Times, 9 Oct 2026); "Macquarie backs directors as KPMG audit contact gets personal" (The Australian, 6 Oct 2026)
 
 ## Open questions
 
 - Whether the committee obtains the privilege-protected files, and what they reveal about Sheppard's knowledge (Tier 1 gap 1.4)
 - The full detail of Baird's and the other independents' attempts to obtain disclosure (Tier 5 interview 5.3)
 - Sheppard's subsequent role, if any, in the firm's Asia-Pacific operations
+- What the 74 privileged documents contain, and whether the Senate invokes its contempt power to obtain them
+- What Macquarie's internal "clean chit" review of its director's KPMG meetings actually examined, and whether it is published

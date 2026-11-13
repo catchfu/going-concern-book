@@ -32,14 +32,18 @@ The parliamentary committee's interest in the Telstra-Optus thread was driven by
 
 The Optus thread changes the moral weight of the scandal. The Lendlease breach could be framed — however implausibly — as an over-ambitious commercial misstep in a pitch. The Optus breach, combined with the surveillance of the whistleblower, cannot. The firm that was supposed to protect confidential information, and the firm that was supposed to protect the people who raise concerns, did the opposite of both. The Optus data breach chapter of the KPMG affair is, at bottom, the story of the firm's betrayal of the two things its entire business depends on: the confidentiality of client information and the safety of its own employees.
 
+The reckoning for the Optus conduct arrived in instalments. In July 2026, the AFR reported that KPMG partners had been fined up to $180,000 over the Telstra-Optus misconduct — internal discipline, again, for conduct that had implicated clients' most sensitive data. In October, The Business Times reported that Australia's corporate regulator would share Big Four surveillance findings after the KPMG scandal — the first sign that the regulator's inquiry into the surveillance dimension would produce public findings. And the whistleblower's own account of the surveillance — the laptop, the attempts to track communications — remained, as this book goes to press, the subject of the ASIC probe under Part 9.4AAA and of the committee's unresolved demand for the internal files.
+
 ## Sources & notes
 
 - Research: `writing/notes/ch14_optus_data_breach.md` (99 lines); `research/evidence_map.md`
-- Key reported items: "KPMG CEO quits as audit leaks scandal spreads to Telstra, Optus" (AFR, 29 May 2026); "Lunch leaks: How an unattended laptop sparked a scandal at KPMG" (AFR); "KPMG leaked confidential Optus information and surveilled whistleblower's laptop, inquiry hears" (The Guardian); "KPMG Australia scandal widens after it confirms Optus data was also misused" (Reuters); "KPMG partners fined up to $180,000 over Telstra, Optus misconduct" (AFR); "Confused, compromised, in chaos: Inside KPMG's Telstra-Optus breach" (AFR)
+- Key reported items: "KPMG CEO quits as audit leaks scandal spreads to Telstra, Optus" (AFR, 29 May 2026); "Lunch leaks: How an unattended laptop sparked a scandal at KPMG" (AFR); "KPMG leaked confidential Optus information and surveilled whistleblower's laptop, inquiry hears" (The Guardian); "KPMG Australia scandal widens after it confirms Optus data was also misused" (Reuters); "KPMG partners fined up to $180,000 over Telstra, Optus misconduct" (AFR, 19 Jul 2026); "Confused, compromised, in chaos: Inside KPMG's Telstra-Optus breach" (AFR, 31 Jul 2026)
+- October 2026: "Australia's corporate regulator to share Big Four surveillance findings after KPMG scandal" (The Business Times, 13 Oct 2026)
 
 ## Open questions
 
 - Full scope of the surveillance — laptop, phone, communications — and who authorised it (Tier 3 gap 3.6)
 - The exact nature of the Optus and Telstra information misused, and the extent of the $180,000 fines' reach
+- What ASIC's promised surveillance findings say, and when they are published
 - Whether ASIC's investigation, the NACC referral, or the parliamentary committee produces the internal investigation files that would resolve the surveillance questions
 - Whether Optus or Telstra take legal action against KPMG over the misuse of their confidential information

@@ -38,6 +38,8 @@ The August hearing did not centre the billing allegations, but it did undercut t
 
 At the time of writing, the billing fraud allegations remain exactly that: allegations. No public finding has been made. The whistleblower's account has been reported, the firm has denied wrongdoing, and the documents that would resolve the matter are in the firm's hands. This chapter records the allegation as it stands, and flags it as one of the most consequential open questions of the entire affair — because if the billing claims are proven, the KPMG scandal is not only a story about confidentiality and surveillance, but a story about the criminal economics of the big four.
 
+The regulator's wider review gave the allegation a procedural home. ASIC's review of complaint-handling across the big four — the review that began with KPMG and widened to all four firms, with 551 complaints reported under examination by September 2026 — is the first mechanism with the power to test whether the billing claims were isolated or systemic. And the parliamentary committee's questions on notice, which drew out the second whistleblower's "larger than $500,000" settlement, established that KPMG had paid complainants to go away while maintaining in testimony that it had received "zero whistleblower complaints" — a claim ASIC was reported in September to be examining. The billing whistleblower's allegations now sit inside that gap between what the firm told its regulator and what its settlements suggest it knew.
+
 ## Sources & notes
 
 - Research: `research/evidence_map.md`; `writing/notes/ch03_the_whistleblower.md` ("Blows my mind: KPMG's whistleblower issues collide"); `writing/notes/ch00_general__unclassified.md` (Defence overcharging items)
@@ -48,5 +50,6 @@ At the time of writing, the billing fraud allegations remain exactly that: alleg
 
 - The identity of the insurance client and the engagement files involved
 - Whether ASIC's investigation or the parliamentary committee obtains the billing records
+- Whether the billing allegations are encompassed within ASIC's big four complaint-handling review, or fall outside its terms of reference
 - Whether the ATO's focus on big four income splitting extends to the billing practices alleged here
 - The status of the Defence overcharging remediation promised in 2023

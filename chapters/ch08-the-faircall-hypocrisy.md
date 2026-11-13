@@ -34,13 +34,22 @@ The deeper question, which the parliamentary committee pursued, was whether the 
 
 FairCall was the KPMG scandal in a single product. The firm's business model depended on trust — the trust of whistleblowers, of clients, and of the public — while its internal conduct destroyed that trust. When the RBA re-tendered the hotline, when clients began to leave, and when ASIC's review extended to the complaint-handling business, the message was the same one the whistleblower had tried to deliver three years earlier: the firm that sells integrity must practise it. And KPMG had not.
 
+## The end of FairCall
+
+In August 2026, the contradiction was resolved in the only way left: the service was withdrawn. Capital Brief reported on 18 August that KPMG had ceased providing the FairCall whistleblower hotline to its big-name audit clients; big4news reported on 23 August that KPMG would stop FairCall "for audit clients as whistleblower scandal clouds hotline business," and Going Concern noted the irony in its Friday Footnotes — the "firm in whistleblower scandal ends whistleblower service for clients." The firm that had sold independent reporting to half of corporate Australia could no longer sell it to anyone, because the product's premise — that KPMG could be trusted with disclosures — had been publicly destroyed by KPMG itself.
+
+The withdrawal was framed as a commercial decision; it functioned as an admission. A firm confident that its own scandal was contained does not retire its flagship integrity product. FairCall's end marked the point at which the KPMG affair stopped being a story about one mishandled complaint and became a story about the market for integrity itself — and what happens to that market when the biggest seller is caught selling the opposite.
+
 ## Sources & notes
 
 - Research: `writing/notes/ch08_the_faircall_hypocrisy.md`; `research/evidence_map.md`
 - Key reported items: "Bullock says RBA will re-tender KPMG whistleblower hotline contract amid scandals" (ABC); "'Obscene': KPMG's whistleblower hotline under fire" (The Australian); "RBA set to drop KPMG from whistleblower hotline as crisis deepens" (IAB); "RBA puts KPMG whistleblower services on review as client leaks scandal spirals" (Capital Brief); "What scandal? KPMG continues to dish out whistleblower advice" (The Age, 31 May 2026); ASIC's big-four complaint-handling review
+- August 2026: "KPMG ceases whistleblower hotline service FairCall for big name audit clients" (Capital Brief, 18 Aug 2026); "KPMG to stop FairCall for audit clients as whistleblower scandal clouds hotline business" (big4news, 23 Aug 2026); "Friday Footnotes: Firm in Whistleblower Scandal Ends Whistleblower Service For Clients" (Going Concern, 21–22 Aug 2026)
 
 ## Open questions
 
 - The full list of FairCall clients and which have since terminated or re-tendered (Tier 3 gap 3.5 — RBA, NAB, ASX, Wesfarmers reviews)
-- Whether ASIC's complaint-handling review imposes new requirements on firms that sell hotline services
+- Whether FairCall is retired entirely or rebranded under a different structure, and what happens to the client contracts
+- Whether the RBA and other government-adjacent clients re-tender the service, and who wins
+- Whether ASIC's complaint-handling review imposes new requirements on firms that sell hotline services — and reaches a finding on whether independence can be sold by a firm that investigates its own complaints
 - The revenue impact of the FairCall client exodus on KPMG's consulting business

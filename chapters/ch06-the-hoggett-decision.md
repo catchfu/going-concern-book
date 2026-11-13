@@ -49,10 +49,12 @@ The departures McClelland confirmed at the hearing reached "eight people" in all
 - Research: `writing/notes/ch06_the_hoggett_decision.md`; `research/evidence_map.md`
 - Key reported items: "KPMG board overruled legal, HR on disgraced COO penalty" (The Australian, 4 Jun 2026); "KPMG senior executive Eileen Hoggett demoted" (The Australian, 3 Jun 2026); "Sinking feeling for Hoggett as Dexus says she's a no-go" (The Australian, 3 Jun 2026); "KPMG fails its own character test on Hoggett" (The Australian); "KPMG COO steps aside amid audit leak scandal" (various, Jun 2026)
 - August 2026 hearing: "KPMG Part Deux" / "More tears, less blood at KPMG's Canberra sequel" (The Australian, 14 Aug 2026); "'Naughtiest kid in the class'" (Accountants Daily, 14 Aug 2026); "KPMG's former COO Eileen Hoggett can't remember storing Lendlease documents in locker" (Capital Brief, 14 Aug 2026)
+- September 2026: Hoggett sues KPMG in the NSW Supreme Court over lost entitlements — "KPMG Australia ex-COO Eileen Hoggett sues firm" (Capital Brief, 3 Sep 2026); "Sacked KPMG exec Eileen Hoggett sues firm" (The Australian, 3 Sep 2026); "Fired COO takes KPMG to NSW Supreme Court over lost entitlements" (Australasian Lawyer, 7 Sep 2026); "KPMG's pay shock as two partners spared demotion" (The Australian, 1 Sep 2026)
 - 14 August testimony: Hoggett locker email / "$1.5m a year" retort / expulsion / "exploring all my possibilities" legal-action threat / 33-year tenure (The Australian live coverage, 14 Aug 2026; Capital Brief, 14 Aug 2026); McClelland "near tears" / "the truth was not told" / "misleading, if not directly deceptive" / "fundamentally undermined" / "run past him and ignore him" (The Australian live coverage, 14 Aug 2026); "eight people have left" including Yates and Sheppard (The Australian, 14 Aug 2026); Lawry sanction $38k→$19k quashed by Yates, bonus cut $78k→$40k; McPherson fined >$100k (The Australian live coverage, 14 Aug 2026); partner-lies accusation (The Australian "apologises to whistleblower", 14 Aug 2026)
 
 ## Open questions
 
 - The conduct panel's actual findings and recommended penalty (protected by privilege — Tier 1 gap 1.5)
-- Whether Hoggett's threatened legal action against the firm materialises, and on what grounds
+- The outcome of Hoggett's NSW Supreme Court action over her expulsion and entitlements
+- Why two partners were "spared demotion" in the September pay shock, and on whose decision
 - The role of the chairman in the overruling decision, and its relevance to the Committee's later scrutiny of Sheppard

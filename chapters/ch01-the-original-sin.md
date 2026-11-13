@@ -32,6 +32,8 @@ And for the first time, the partnership form itself was on the table. "Australia
 
 None of it was inevitable. A different structure — independent oversight, genuine personal liability, transparent conduct panels — might have caught the problem in March 2023, when a single audit director raised an internal complaint, rather than in May, when the CEO and the audit head resigned in front of the world.
 
+By spring, the assault had acquired an institutional edge. The Australia Institute published the case plainly: "Light touch regulation has failed, it's time to break up the big four." Bloomberg Tax argued the KPMG scandal showed misconduct rules needed strengthening. The AFR's culture inquiry reported "pressure to cheat" inside the firms; the Crikey verdict was that "KPMG has pulled its pants down — and it could mean serious change for the Big Four." The regulator promised to publish its Big Four review findings; the parliament debated caps and rotations; and the firms, for the first time in a century, were defending the partnership's design in public rather than assuming it.
+
 ## The question this book asks
 
 The story that follows is about what happened inside one firm in 2026. But the question it keeps returning to is the one the original sin makes unavoidable: if the structure that protects the firm also protects the misconduct, who holds the firm accountable? The answer, for a very long time, was no one. This book is about what happened when that stopped being true.
@@ -40,6 +42,7 @@ The story that follows is about what happened inside one firm in 2026. But the q
 
 - Research: `writing/notes/ch00_general__unclassified.md` (Big Four structure, partnership caps, tax-splitting coverage); `research/evidence_map.md` (Partnership Act, Wallis inquiry, Professional Standards Act items)
 - Key reported items: inquiry into capping big four partnerships at 400 (AFR); Big Four partners splitting 44% of income (ATO/AFR); "two years of secrecy" investigation (AFR); Australia weighs break-up (Reuters, Jul 2026); EY boss warns of trust crisis (The Australian)
+- Spring 2026: "Light touch regulation has failed, it's time to break up the big four" (The Australia Institute, 18 Aug 2026); "KPMG Australia Scandal Shows Misconduct Rules Need Strengthening" (Bloomberg Tax, 15 Sep 2026); "KPMG culture inquiry reveals pressure to cheat" (AFR, 11 Oct 2026); "KPMG has pulled its pants down — and it could mean serious change for the Big Four" (Crikey, 18 Oct 2026); "Structural separation an 'untenable' risk to audit quality: KPMG" (Accounting Times, 3 Sep 2026)
 
 ## Open questions
 

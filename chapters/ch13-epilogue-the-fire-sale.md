@@ -34,6 +34,22 @@ The scale of the cull became clear after the hearing. On 19 August, The Australi
 
 The cull sat on top of a financial squeeze that the scandal had made plain. The Australian reported on 19 August that KPMG Australia was carrying borrowings of $557 million — "record high personal borrowings accrued under former chief executive Andrew Yates" — and that the revenue cliff from the scandal landed on top of that debt, forcing the firm to go "cap in hand to KPMG International seeking financing." Clients and government departments were reconsidering some $442 million of contracts with the firm; the Australian Financial Review reported the debt figure equates to roughly $814,000 of personal liability per partner, "a surprisingly large figure" in a firm built of people rather than plant.
 
+## The client exodus becomes a rout
+
+The fire sale was the visible end of a commercial collapse that had been running for months. In September, IAG became the latest major client to leave: "Insurance giant IAG dumps KPMG as auditor after 26 years amid scandal" (The Australian, 18 September), with the AFR counting the $11.6m audit fee that walked out with it. Then, in the first days of October, the exodus reached the summit of Australian audit: ANZ terminated a 57-year relationship — "ANZ dumps KPMG as auditor after 57 years" (AFR); "ANZ to Drop Scandal-Hit KPMG Australia as Auditor After 57 Years" (Bloomberg) — and opened a tender for one of the most prestigious audit mandates in the country. A "big bank dumps scandal-hit audit firm after 57 years," the newswires agreed; the AAP wire carried it nationally.
+
+The exodus was not only commercial. It was reputational arithmetic: every client that stayed was a client that might be asked, at its own annual meeting, why it had stayed. The AFR's October ledger — "Banned and bleeding: The growing cost of the KPMG audit leaks scandal" — put a price on the accumulating departures, and by late October the AFR could report that "KPMG chiefs left with millions despite being docked $1.2m over scandal": the partners who presided over the exodus had been penalised in sums that read, against the revenue lost, as rounding errors.
+
+## The bailout
+
+By the first week of October, the financial squeeze had become a capital question. The AFR reported that KPMG Australia was seeking up to $100m in emergency loans from its global firm network — "KPMG seeks up to $100m in emergency loans from global firm network" (4 October) — and the SMH translated the request into plain language: "KPMG Australia going cap in hand for $100m in loans." City AM called it what it was: "KPMG Australia seeks $100m bailout from parent group after scandal." The AFR's analysis asked whether the Australian firm "might have a case for a bailout from global HQ" — the partnership that had spent decades marketing its independence now dependent on the parent's balance sheet.
+
+The bailout request sat alongside the firm's own governance reset. In October, big4news reported that KPMG Australia had announced a new Integrity Office as part of expanding governance reforms, and the AFR reported that KPMG had trimmed its senior partner ranks to cut costs. The firm that had resisted external oversight for a century was, in its ninth month of crisis, building internal oversight and selling assets to survive. Whether the Integrity Office was reform or rebranding was, at the time of writing, an open question — but its creation was itself an admission that the structures that had failed had to be seen to change.
+
+## The reshuffle
+
+In November, the firm's leadership churn continued. big4news reported that KPMG Australia had reshuffled its leadership "as another 400 jobs face axe" — the second mass-redundancy round of the spring — while Accounting Times reported the firm was "tight-lipped on reported 400 job cuts." Human Resources Director counted "up to 400 KPMG roles to be cut as scandal fallout continues." The AFR's column from the same week — "Professional Life: Allegations of intimidation, derailment, and misleading parliament" — showed that the scandal's political dimension had not closed with the hearings. And The Australian's society pages noted, in the register only society pages can, that a KPMG partner's "lavish reno" was proceeding amid the job cuts — the discord between the partnership's private comfort and its public reckoning preserved for the epilogue's tone.
+
 ## What remains of KPMG Australia
 
 The agreed sale of the defence unit was one disposal among several that followed the scandal. Reporting examined the future of the firm's other practices — the insolvency unit, the advisory work, the audit practice itself — as the firm's clients and partners departed. The question "what remains of KPMG Australia" had two answers, neither comforting. The first was the firm that would continue to operate: a smaller, leaner KPMG, stripped of its most sensitive government work, rebuilding a client base that had largely left. The second was the partnership that had caused the scandal, protected from its consequences by the liability shield and the privilege that kept its records private.
@@ -47,6 +63,7 @@ The post-hearing commentary had already begun to widen the lens. The AFR's verdi
 - Research: `writing/notes/ch13_epilogue_the_fire_sale.md`; `research/evidence_map.md`
 - Key reported items: "Vultures circling embattled KPMG: $1 offer to buy defence unit" (The Australian); "Agencies forced to contemplate life after KPMG" (The Mandarin); Capgemini deal terms ($1 + ~$200m entitlements); PJC defence scrutiny
 - August 2026: "KPMG axes 500 partners and staff after audit scandal" / "KPMG axes 500 staff, spares audit culprits" (The Australian, 19 Aug 2026); "KPMG begins brutal 500 jobs cull" (The Australian, 19 Aug 2026); GC Capon + HR Hisgrove step down (The Australian "Louise Capon quits", 11 Aug 2026); $557m borrowings / $814,000-per-partner liability / "record high personal borrowings under Yates" / $442m contracts at risk / "cap in hand to KPMG International" (The Australian, 19 Aug 2026)
+- September–November 2026: IAG dumps KPMG after 26 years / $11.6m audit (The Australian + AFR, 18 Sep 2026); ANZ dumps KPMG after 57 years (AFR, Bloomberg, SMH/The Age, AAP, 1–2 Oct 2026); "Banned and bleeding: The growing cost of the KPMG audit leaks scandal" (AFR, 28 Oct 2026); "KPMG chiefs left with millions despite being docked $1.2m over scandal" (AFR, 30 Oct 2026); $100m emergency loans / bailout from global HQ (AFR + SMH, 4–5 Oct 2026; City AM, 6 Oct 2026); new Integrity Office (big4news, 9 Oct 2026); second 400-role cut and leadership reshuffle (big4news, 8 Nov 2026; HRD, 2 Nov 2026; AFR "400 more roles as government ban bites", 1 Nov 2026; Accounting Times "tight-lipped", 3 Nov 2026)
 
 ## Open questions
 
@@ -55,4 +72,6 @@ The post-hearing commentary had already begun to widen the lens. The AFR's verdi
 - The precise financial stress signal: whether KPMG breaches its NAB/DBS revenue covenants and what International's financing conditions are
 - What happens to KPMG's other practices — insolvency unit (Kroll interest reported), advisory, audit
 - Whether the PJC approves or blocks the defence sale, and on what conditions
-- The fate of the firm's remaining government work once the September 2026 federal freeze ends
+- The fate of the firm's remaining government work once the February 2027 federal ban expires — and whether any of it returns
+- Whether the Integrity Office is given independence and powers, or remains an internal communications function
+- Who wins the ANZ audit tender, and what the mandate's loss does to the remaining audit practice's economics

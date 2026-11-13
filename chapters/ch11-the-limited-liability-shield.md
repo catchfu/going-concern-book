@@ -50,16 +50,24 @@ BDO chief executive David Garvey called on the government to start enacting the 
 
 The shield has two layers — the statutory caps and the privilege protecting the files — and both have to fall before the KPMG affair produces the accountability its victims were promised.
 
+## September: the privilege fight continues
+
+By late September, the privilege fight had produced its own ledger. Accounting Times reported on 22–23 September that KPMG still claimed privilege over 74 documents — the internal investigation record remaining, months after the hearings, behind the same legal wall the committee had spent August trying to breach. The stand-off confirmed the pattern this chapter describes: the partnership's most effective shield was not the statutory cap on damages but the privilege that prevented the record of conduct from becoming public at all. The committee could summon the partners; it could not summon their files. Until the privilege claim is resolved — by negotiation, by the Senate's contempt power, or by the courts — the accountability the hearings promised remains contingent.
+
+The wider reform debate gathered institutional weight in the same weeks. Reuters reported that Australia was weighing a break-up of the Big Four after the scandals; the Australia Institute published the case that "light touch regulation has failed, it's time to break up the big four"; Bloomberg Tax argued the scandal showed misconduct rules needed strengthening. Against that, the AFR reported that accounting firms had opposed forcing clients to swap auditors every 20 years — the profession resisting, in the detail of rotation policy, the same structural change it was resisting in public.
+
 ## Sources & notes
 
 - Research: `research/evidence_map.md` (Professional Standards Act, CAANZ, partnership caps items); `writing/notes/ch00_general__unclassified.md` ("KPMG mess part of black hole protecting partnerships"; big four partnership cap inquiry; "Big four partners split 44pc of income to cut tax bill: ATO")
 - Key reported items: CA ANZ administration of professional standards scheme; Lyon lawsuit against CAANZ (reported across AFR/Accounting Times); big four partnership cap at 400 recommended by inquiry (AFR/Guardian); "Two years of secrecy: Big four accounting firms still skirt oversight" (AFR); "Whistleblower wins ruling to attack big four's secretive partner shield" (The Australian, 16 Aug 2026)
 - August 2026: KPMG borrowings of ~$557m / $814,000-per-partner personal liability / $300k partner buy-in / homes held in spouses' names (The Australian "814k liability", 10 Jun 2026); Sheppard "two more limbs" borrowing answer, partners "unaware how much borrowings had risen" (The Australian, 10 Jun 2026); "at risk of breaching revenue covenants on loans with NAB and DBS," "cap in hand to KPMG International" (The Australian "axes 500", 19 Aug 2026); legal-shield/LPP "turning a chill into an industry freeze" strategy, "risk blowing up equity of a thousand more partners," PwC playbook comparison (The Australian commentary "legal shield approach", 17 Jun 2026); BDO Garvey on big four exclusion from whistleblower provisions / "managed out" incidents; Pocock "rat's nest" line (The Australian, 19 Aug 2026)
+- September–October 2026: "KPMG still claims privilege over 74 documents" (Accounting Times, 22–23 Sep 2026); "Australia weighs break-up of Big Four accounting firms after scandals" (Reuters/NST, Sep 2026); "Light touch regulation has failed, it's time to break up the big four" (The Australia Institute, 18 Aug 2026); "KPMG Australia Scandal Shows Misconduct Rules Need Strengthening" (Bloomberg Tax, 15 Sep 2026); "Accounting firms oppose forcing clients to swap auditor every 20 years" (AFR, 7 Sep 2026)
 
 ## Open questions
 
 - Status of the Lyon lawsuit — trial date, and whether it has been resolved (Tier 2 gap 2.4)
 - The full reasons and reach of the 16 August 2026 ruling reported by The Australian — which entity, cap or privilege it struck, and whether it is appealed
 - The precise liability cap that applies to KPMG Australia under the professional standards scheme
+- The fate of the 74 privileged documents — whether the committee's demand is ultimately enforced
 - Whether the reform debate produces actual changes to the Partnership Act 1892 (NSW) or the professional standards legislation (Tier 4 gap 4.5)
 - The ATO's findings on big four income splitting, and any tax-avoidance action against KPMG partners

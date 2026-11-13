@@ -32,6 +32,18 @@ The arithmetic of the affair was never comfortable. The $27.4m in active audit c
 
 The question that remains — and that this chapter will revisit as the story develops — is whether the federal freeze is a genuine reform or a calculated pause. KPMG's suspension ends in September 2026. Whether it returns to federal work, on what terms, and whether the states' harder lines survive the political cycle, will determine whether the government's $27.4m problem was a moment of accountability or another slap on the wrist.
 
+## The freeze that kept extending
+
+The freeze did not end in September 2026. It was extended — to the end of October, then again to February 2027 — and each extension hardened it from a pause into a policy. In September, The Mandarin reported that Finance had extended the KPMG ban by a month; big4news reported the extension of the ban on new work until 31 October. Then, on 22 October, the extension became a season: Reuters reported that a review had found KPMG Australia had mishandled whistleblower claims and that the pause on government work would be extended; the AFR reported the ban would run until February 2027; the ABC reported it had been extended "after serious ethical failings." The big4news headline in November was the flat statement of the new normal: "KPMG Australia Government Contracting Ban Extended to February 2027."
+
+The language of the October decision marked a shift in the government's posture. The September freeze had been framed as prudence — a pause while facts were gathered. The February extension was framed as consequence: the government's own review had found the firm's whistleblower handling wanting, and the ban was now an instrument of that finding. The Mandarin's reporting through the period — "KPMG had internal audit contract with PM&C, documents reveal" — showed how deep the firm's embedding in the public service went, and why extraction was neither simple nor quick.
+
+The freeze also began to bite in the way the government had intended. In November, the AFR reported that KPMG would cut up to 400 more roles "as government ban bites" — the direct line from the procurement decision to the firm's payroll. The firm that had retained its $653m in existing contracts through the first freeze was now losing the future that the freeze had been designed to withhold. The Economics of the affair had inverted the usual politics: it was now the government's discipline, not the firm's lobbying, that set the terms.
+
+## Sources & notes (September–November 2026)
+
+- "Finance extends KPMG ban by a month" (The Mandarin, 11 Sep 2026); "Australian Government Extends KPMG Ban on New Work Until 31 October" (big4news, 24 Sep 2026); "Review finds KPMG Australia mishandled whistleblower claims, pause on government work extended" (Reuters, 22 Oct 2026); "Ban on KPMG doing government work extended until February 2027" (AFR, 22 Oct 2026); "KPMG ban on government work extended after 'serious ethical failings'" (ABC, 22 Oct 2026); "Australia extends ban on KPMG federal contracts until 2027" (Yahoo Finance, 22 Oct 2026); "KPMG Australia Government Contracting Ban Extended to February 2027" (big4news, 5 Nov 2026); "KPMG to cut up to 400 more roles as government ban bites" (AFR, 1 Nov 2026); "KPMG had internal audit contract with PM&C, documents reveal" (The Mandarin, 18 Oct 2026); "KPMG Australia government contract awards nearly double to A$59m despite scandal" (big4news, 10 Oct 2026)
+
 ## Sources & notes
 
 - Research: `writing/notes/ch10_the_government's_$27.4m_proble.md` (172 lines); `research/evidence_map.md`
@@ -42,4 +54,5 @@ The question that remains — and that this chapter will revisit as the story de
 - Full list of NSW KPMG contracts and whether the state imposes a ban (Tier 2 gap 2.2)
 - Whether the NACC referral produces an investigation, and its scope
 - Outcome of Treasury's review into big four "policy problems" in government procurement (Tier 2 gap 2.6)
-- Whether the September 2026 federal freeze becomes permanent
+- Whether the February 2027 federal ban is extended again, made permanent, or converted into a formal debarment regime
+- What the PM&C internal-audit contract documents reveal about the scale of KPMG's embedded public-sector work
