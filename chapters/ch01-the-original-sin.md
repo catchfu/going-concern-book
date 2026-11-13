@@ -1,6 +1,6 @@
 # Chapter 1 — The Original Sin
 
-*Status: draft v0.1*
+*Status: draft v0.2*
 
 Every scandal in the Australian accounting profession traces back to a structure no one voted for and almost no one understands: the partnership. Before there was a KPMG Australia in crisis, before there was a whistleblower and a leaked board paper and a chairman's resignation, there was a nineteenth-century legal form that made the Big Four almost impossible to hold accountable.
 

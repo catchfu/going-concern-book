@@ -1,6 +1,6 @@
 # Chapter 2 — The PwC Precedent
 
-*Status: draft v0.1*
+*Status: draft v0.2*
 
 Three years before KPMG's world collapsed, the profession's other great pillar had already fallen. The PwC tax-leak scandal of 2023 was supposed to be the reckoning — the moment the Big Four learned that the partnership model and self-regulation had failed, and that the public would no longer accept them as they were. By the time the KPMG whistleblower's complaint began to unravel in March 2026, the question the AFR put on its front page was brutally simple: *Did KPMG learn nothing from the PwC tax leaks scandal?*
 

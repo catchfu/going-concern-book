@@ -17,26 +17,26 @@ The cover and the five figures (timeline, breach flow, cast map, liability shiel
 
 ## Status
 
-Work in progress. All chapters have substantive drafts, written in the open from the research notes and evidence map; sources are linked wherever possible. Chapters updated after the parliamentary hearing of 14 August 2026 are marked draft v0.2. Events described are ongoing and may be superseded.
+Work in progress. All chapters have substantive drafts, written in the open from the research notes and evidence map; sources are linked wherever possible. Chapters updated after the parliamentary hearing of 14 August 2026 are marked draft v0.2. Events described are ongoing and may be superseded. Research and chapter text current to 13 November 2026.
 
 ## Contents
 
 | # | Chapter | Status |
 |---|---------|--------|
-| 1 | [The Original Sin](chapters/ch01-the-original-sin.md) | draft v0.1 |
-| 2 | [The PwC Precedent](chapters/ch02-the-pwc-precedent.md) | draft v0.1 |
+| 1 | [The Original Sin](chapters/ch01-the-original-sin.md) | draft v0.2 |
+| 2 | [The PwC Precedent](chapters/ch02-the-pwc-precedent.md) | draft v0.2 |
 | 3 | [The Whistleblower](chapters/ch03-the-whistleblower.md) | draft v0.2 |
 | 4 | [The Lendlease Breach](chapters/ch04-the-lendlease-breach.md) | draft v0.2 |
 | 5 | [The Cast of Characters](chapters/ch05-the-cast-of-characters.md) | draft v0.2 |
 | 6 | [The Hoggett Decision](chapters/ch06-the-hoggett-decision.md) | draft v0.2 |
 | 7 | [The Chairman's Conflict](chapters/ch07-the-chairmans-conflict.md) | draft v0.2 |
-| 8 | [The FairCall Hypocrisy](chapters/ch08-the-faircall-hypocrisy.md) | draft v0.1 |
+| 8 | [The FairCall Hypocrisy](chapters/ch08-the-faircall-hypocrisy.md) | draft v0.2 |
 | 9 | [ASIC Enters](chapters/ch09-asic-enters.md) | draft v0.2 |
 | 10 | [The Government's $27.4M Problem](chapters/ch10-the-governments-27.4m-problem.md) | draft v0.2 |
 | 11 | [The Limited Liability Shield](chapters/ch11-the-limited-liability-shield.md) | draft v0.2 |
 | 12 | [The Billing Fraud Whistleblower](chapters/ch12-the-billing-fraud-whistleblower.md) | draft v0.2 |
 | 13 | [Epilogue: The Fire Sale](chapters/ch13-epilogue-the-fire-sale.md) | draft v0.2 |
-| 14 | [Optus Data Breach](chapters/ch14-optus-data-breach.md) | draft v0.1 |
+| 14 | [Optus Data Breach](chapters/ch14-optus-data-breach.md) | draft v0.2 |
 
 ## Repository layout
 

@@ -1,6 +1,6 @@
 # Chapter 8 — The FairCall Hypocrisy
 
-*Status: draft v0.1*
+*Status: draft v0.2*
 
 Of all the ironies in the KPMG affair, one was so stark it became a story of its own: the firm that dismissed and surveilled its own whistleblower had built a business selling whistleblower services to other companies. Under the brand FairCall, KPMG ran outsourced whistleblower hotlines for some of the most important institutions in Australia — the Reserve Bank, NAB, the ASX, and a hundred other organisations — promising the very protection it had denied its own employee.
 

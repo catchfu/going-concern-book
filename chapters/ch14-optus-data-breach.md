@@ -1,6 +1,6 @@
 # Chapter 14 — Optus Data Breach
 
-*Status: draft v0.1*
+*Status: draft v0.2*
 
 The Lendlease breach made KPMG's scandal a story about audit and competition. The Optus breach made it a story about something darker: the surveillance of a whistleblower, the misuse of a telecommunications company's confidential information, and the confirmation, under parliamentary questioning, that KPMG had done things no auditor should ever do.
 
